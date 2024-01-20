@@ -2,6 +2,8 @@
 import { Roboto, } from 'next/font/google'
 import './globals.css'
 
+export const runtime = 'edge'
+
 const roboto = Roboto({
   weight: ['300', '400', '500', '700', '900'],
   subsets: ["cyrillic", "cyrillic-ext", "greek", "greek-ext", "latin", "latin-ext", "vietnamese"],
