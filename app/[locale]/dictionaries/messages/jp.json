@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "ダウンロード",
+      "placeholder": "ここにビデオリンクを貼り付けてください",
+      "showButton": "もっと見せる",
+      "showLess": "表示を少なくする",
+      "duration": "間隔",
+      "downloadButton": "ダウンロード",
+      "audioOnly": "音声のみ",
+      "videoOnly": "ビデオのみ",
+      "headerTitle": "YouTubeからビデオをダウンロードする",
+      "headerQuestion": "YouTubeからビデオをダウンロードするにはどうすればよいですか?",
+      "quality": "品質:"
+    }
+  }

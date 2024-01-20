@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Télécharger",
+      "placeholder": "Collez votre lien vidéo ici",
+      "showButton": "Montre plus",
+      "showLess": "Montrer moins",
+      "duration": "Durée",
+      "downloadButton": "Télécharger",
+      "audioOnly": "Audio seulement",
+      "videoOnly": "Vidéo uniquement",
+      "headerTitle": "télécharger la vidéo depuis YouTube",
+      "headerQuestion": "comment télécharger une vidéo depuis YouTube ?",
+      "quality": "Qualité:"
+    }
+  }

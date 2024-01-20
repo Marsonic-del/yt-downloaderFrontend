@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Download",
+      "placeholder": "Indsæt dit videolink her",
+      "showButton": "Vis mere",
+      "showLess": "Vis mindre",
+      "duration": "Varighed",
+      "downloadButton": "Download",
+      "audioOnly": "Kun lyd",
+      "videoOnly": "Kun video",
+      "headerTitle": "download video fra youtube",
+      "headerQuestion": "hvordan downloader man video fra youtube?",
+      "quality": "Kvalitet:"
+    }
+  }

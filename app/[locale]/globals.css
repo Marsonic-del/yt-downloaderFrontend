@@ -1,0 +1,25 @@
+:root {
+  --button-color: #f70647;
+  
+  --font-mono:  'Roboto Mono', 'Open Sans', ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
+    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+
+  --font: 'Open Sans', 'Roboto Mono', ui-monospace,;
+  
+
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  background-color: #43005d;
+  color: #ffffff;
+}
+
+

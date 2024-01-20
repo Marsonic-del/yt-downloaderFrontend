@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Download",
+      "placeholder": "Cole o link do seu vídeo aqui",
+      "showButton": "Mostre mais",
+      "showLess": "Mostre menos",
+      "duration": "Duração",
+      "downloadButton": "Download",
+      "audioOnly": "Somente Audio",
+      "videoOnly": "Apenas vídeo",
+      "headerTitle": "baixar vídeo do youtube",
+      "headerQuestion": "como baixar vídeo do youtube?",
+      "quality": "Qualidade:"
+    }
+  }

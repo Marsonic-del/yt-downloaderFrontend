@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Download",
+      "placeholder": "Paste your video link here",
+      "showButton": "Show more",
+      "showLess": "Show less",
+      "duration": "Duration",
+      "downloadButton": "Download",
+      "audioOnly": "Audio only",
+      "videoOnly": "Video only",
+      "headerTitle": "download video from youtube",
+      "headerQuestion": "how to download video from youtube?",
+      "quality": "Quality:"
+    }
+  }

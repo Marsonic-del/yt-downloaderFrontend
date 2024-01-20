@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "pobrać",
+      "placeholder": "Wklej tutaj link do swojego filmu",
+      "showButton": "Pokaż więcej",
+      "showLess": "Pokaż mniej",
+      "duration": "Czas trwania",
+      "downloadButton": "pobrać",
+      "audioOnly": "Tylko dźwięk",
+      "videoOnly": "Tylko wideo",
+      "headerTitle": "pobrać film z YouTube",
+      "headerQuestion": "jak pobrać film z youtube?",
+      "quality": "Jakość:"
+    }
+  }

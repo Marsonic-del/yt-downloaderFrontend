@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Lejupielādēt",
+      "placeholder": "Ielīmējiet savu video saiti šeit",
+      "showButton": "Parādīt vairāk",
+      "showLess": "Rādīt mazāk",
+      "duration": "Ilgums",
+      "downloadButton": "Lejupielādēt",
+      "audioOnly": "Tikai audio",
+      "videoOnly": "Tikai video",
+      "headerTitle": "lejupielādēt video no youtube",
+      "headerQuestion": "kā lejupielādēt video no youtube?",
+      "quality": "Kvalitāte:"
+    }
+  }

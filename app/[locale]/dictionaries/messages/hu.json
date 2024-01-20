@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "letölteni",
+      "placeholder": "Illessze be ide a videó linkjét",
+      "showButton": "Mutass többet",
+      "showLess": "Mutass kevesebbet",
+      "duration": "Időtartam",
+      "downloadButton": "Letöltés",
+      "audioOnly": "Csak hang",
+      "videoOnly": "Csak videó",
+      "headerTitle": "videó letöltés a youtube-ról",
+      "headerQuestion": "hogyan lehet videót letölteni a youtube-ról?",
+      "quality": "Minőség:"
+    }
+  }

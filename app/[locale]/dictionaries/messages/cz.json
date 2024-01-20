@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Stažení",
+      "placeholder": "Sem vložte odkaz na své video",
+      "showButton": "Zobrazit více",
+      "showLess": "Ukaž méně",
+      "duration": "Doba trvání",
+      "downloadButton": "Stažení",
+      "audioOnly": "Pouze zvuk",
+      "videoOnly": "Pouze video",
+      "headerTitle": "stáhnout video z youtube",
+      "headerQuestion": "jak stáhnout video z youtube?",
+      "quality": "Kvalitní:"
+    }
+  }

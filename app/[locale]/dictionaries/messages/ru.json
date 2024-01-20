@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Скачать",
+      "placeholder": "Вставьте сюда ссылку на ваше видео",
+      "showButton": "Показать больше",
+      "showLess": "Показать меньше",
+      "duration": "Продолжительность",
+      "downloadButton": "Скачать",
+      "audioOnly": "Только аудио",
+      "videoOnly": "Только видео",
+      "headerTitle": "скачать видео с ютуба",
+      "headerQuestion": "как скачать видео с ютуба?",
+      "quality": "Качество:"
+    }
+  }

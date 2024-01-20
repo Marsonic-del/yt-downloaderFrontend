@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Herunterladen",
+      "placeholder": "Fügen Sie hier Ihren Videolink ein",
+      "showButton": "Zeig mehr",
+      "showLess": "Zeige weniger",
+      "duration": "Dauer",
+      "downloadButton": "Herunterladen",
+      "audioOnly": "Nur Audio",
+      "videoOnly": "Nur Video",
+      "headerTitle": "Laden Sie das Video von YouTube herunter",
+      "headerQuestion": "Wie lade ich ein Video von YouTube herunter?",
+      "quality": "Qualität:"
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "parsisiųsti",
+      "placeholder": "Įklijuokite vaizdo įrašo nuorodą čia",
+      "showButton": "Rodyti daugiau",
+      "showLess": "Rodyti mažiau",
+      "duration": "Trukmė",
+      "downloadButton": "parsisiųsti",
+      "audioOnly": "Tik garsas",
+      "videoOnly": "Tik vaizdo įrašas",
+      "headerTitle": "parsisiųsti video iš youtube",
+      "headerQuestion": "kaip parsisiųsti video iš youtube?",
+      "quality": "Kokybė:"
+    }
+  }

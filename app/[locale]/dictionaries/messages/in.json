@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "डाउनलोड करना",
+      "placeholder": "अपना वीडियो लिंक यहां चिपकाएं",
+      "showButton": "और दिखाओ",
+      "showLess": "कम दिखाएं",
+      "duration": "अवधि",
+      "downloadButton": "डाउनलोड करना",
+      "audioOnly": "सिर्फ़ ध्वनि",
+      "videoOnly": "केवल वीडियो",
+      "headerTitle": "यूट्यूब से वीडियो डाउनलोड करें",
+      "headerQuestion": "यूट्यूब से वीडियो कैसे डाउनलोड करें?",
+      "quality": "गुणवत्ता:"
+    }
+  }

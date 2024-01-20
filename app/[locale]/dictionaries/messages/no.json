@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "nedlasting",
+      "placeholder": "Lim inn videolinken din her",
+      "showButton": "Vis mer",
+      "showLess": "Vis mindre",
+      "duration": "Varighet",
+      "downloadButton": "nedlasting",
+      "audioOnly": "Kun lyd",
+      "videoOnly": "Kun video",
+      "headerTitle": "Last ned video fra youtube",
+      "headerQuestion": "hvordan laste ned video fra youtube?",
+      "quality": "Kvalitet:"
+    }
+  }

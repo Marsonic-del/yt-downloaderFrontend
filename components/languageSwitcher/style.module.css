@@ -1,0 +1,126 @@
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 2em 5em 0 0;
+}
+
+.menuButton {
+    position: relative;
+    margin: 0;
+    background-color: #43005d;
+    border: none;
+    cursor: pointer;
+}
+
+.languageList {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #ffff;
+    color: #0000;
+    width: 7em;
+    list-style: none;
+    border-radius: .5rem;
+    padding: .5rem;
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-1em);
+    transition-property: opacity, visibility, transform;
+}
+
+.link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .6em;
+    /* min-width: 15rem; */
+    border-radius: .5rem;
+    text-decoration: none;
+    transition-property: background-color, padding;
+}
+
+/* .link a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    min-width: 15rem;
+    border-radius: .5rem;
+    
+    transition-property: background-color, padding;
+} */
+
+/* .container:hover .languageList {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+} */
+
+.languagListOpen {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #ffff;
+    color: #0000;
+    width: 7em;
+    list-style: none;
+    border-radius: .5rem;
+    padding: .5rem;
+    display: block;
+    transform: translateX(0);
+}
+
+.languagListOpen::before,
+.languagListOpen::after {
+    display: block;
+    content: "";
+    position: absolute;
+    /* width: 10px; */
+    height: 20px;
+    right: 15px;
+    border: 10px solid transparent;
+}
+
+.languagListOpen::before {
+    top: -40px;
+    
+    /* border-bottom: 10px solid black; */
+}
+
+.languagListOpen::after {
+    top: -40px;
+    border-bottom: 10px solid #ffff;
+}
+
+.link:hover {
+    background-color: rgb(237, 228, 228);
+}
+
+/* .link:hover::after {
+   opacity: 1;
+} */
+
+.container:hover::after {
+    opacity: 1;
+}
+
+/* .link, */
+/* .link::after, */
+.container::after,
+.languageList
+ {
+    transition-duration: .2s;
+    transition-timing-function: ease-in-out;
+}
+
+
+
+/* .languageList a:hover::after {
+    opacity: 1;
+} */

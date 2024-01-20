@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Lae alla",
+      "placeholder": "Kleepige oma video link siia",
+      "showButton": "Näita rohkem",
+      "showLess": "Näita vähem",
+      "duration": "Kestus",
+      "downloadButton": "Lae alla",
+      "audioOnly": "Ainult heli",
+      "videoOnly": "Ainult video",
+      "headerTitle": "laadige video youtubest alla",
+      "headerQuestion": "kuidas youtubest videot alla laadida?",
+      "quality": "Kvaliteet:"
+    }
+  }

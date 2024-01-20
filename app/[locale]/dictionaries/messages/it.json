@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Scaricamento",
+      "placeholder": "Incolla qui il link del tuo video",
+      "showButton": "Mostra di più",
+      "showLess": "Mostra meno",
+      "duration": "Durata",
+      "downloadButton": "Scaricamento",
+      "audioOnly": "Solo audio",
+      "videoOnly": "Solo video",
+      "headerTitle": "scaricare video da youtube",
+      "headerQuestion": "come scaricare video da YouTube?",
+      "quality": "Qualità:"
+    }
+  }

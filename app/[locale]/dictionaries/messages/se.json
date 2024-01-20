@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Ladda ner",
+      "placeholder": "Klistra in din videolänk här",
+      "showButton": "Visa mer",
+      "showLess": "Visa mindre",
+      "duration": "Varaktighet",
+      "downloadButton": "Ladda ner",
+      "audioOnly": "Endast ljud",
+      "videoOnly": "Endast video",
+      "headerTitle": "ladda ner video från youtube",
+      "headerQuestion": "hur laddar man ner video från youtube?",
+      "quality": "Kvalitet:"
+    }
+  }

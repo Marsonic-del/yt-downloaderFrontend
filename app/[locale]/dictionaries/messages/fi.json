@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "ladata",
+      "placeholder": "Liitä videolinkkisi tähän",
+      "showButton": "Näytä lisää",
+      "showLess": "Näytä vähemmän",
+      "duration": "Kesto",
+      "downloadButton": "ladata",
+      "audioOnly": "Vain ääni",
+      "videoOnly": "Vain video",
+      "headerTitle": "lataa video youtubesta",
+      "headerQuestion": "miten ladata videoita youtubesta?",
+      "quality": "Laatu:"
+    }
+  }

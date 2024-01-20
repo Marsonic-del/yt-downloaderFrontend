@@ -1,0 +1,15 @@
+{
+    "Index": {
+      "button": "Downloaden",
+      "placeholder": "Plak hier uw videolink",
+      "showButton": "Laat meer zien",
+      "showLess": "Laat minder zien",
+      "duration": "Duur",
+      "downloadButton": "Downloaden",
+      "audioOnly": "Alleen geluid",
+      "videoOnly": "Alleen video",
+      "headerTitle": "filmpje downloaden van youtube",
+      "headerQuestion": "hoe download je video van youtube?",
+      "quality": "Kwaliteit:"
+    }
+  }
