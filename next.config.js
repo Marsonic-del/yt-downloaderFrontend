@@ -1,7 +1,10 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-    output: 'export',
+    // output: 'export',
+    server: {
+        port: process.env.PORT || 3000,
+    },
 }
 
 const withNextIntl = require('next-intl/plugin')();

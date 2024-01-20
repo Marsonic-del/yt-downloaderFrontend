@@ -33,44 +33,44 @@ function LanguageSwitcher() {
             <button className={styles.menuButton}><FaLanguage size={32} style={{ fill: 'white' }} /></button>
             <ul className={!isClassChanged ? styles.languageList : styles.languagListOpen}>
                 <li>
-                    <Link className={styles.link} href='/en'>English</Link>
+                    <Link className={styles.link} href='/en' prefetch={false}>English</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/in'>Hindi</Link>
+                    <Link className={styles.link} href='/in' prefetch={false}>Hindi</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/de'>German</Link>
+                    <Link className={styles.link} href='/de' prefetch={false}>German</Link>
                 </li>
 
                 <li>
-                    <Link className={styles.link} href='/fr'>French</Link>
+                    <Link className={styles.link} href='/fr' prefetch={false}>French</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/it'>Italian</Link>
+                    <Link className={styles.link} href='/it' prefetch={false}>Italian</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/es'>Spanish</Link>
+                    <Link className={styles.link} href='/es' prefetch={false}>Spanish</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/pt'>Portuguese</Link>
+                    <Link className={styles.link} href='/pt' prefetch={false}>Portuguese</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/se'>Swedish</Link>
+                    <Link className={styles.link} href='/se' prefetch={false}>Swedish</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/fi'>Finnish</Link>
+                    <Link className={styles.link} href='/fi' prefetch={false}>Finnish</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/dk'>Danish</Link>
+                    <Link className={styles.link} href='/dk' prefetch={false}>Danish</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/no'>Norwegian</Link>
+                    <Link className={styles.link} href='/no' prefetch={false}>Norwegian</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/jp'>Japanese</Link>
+                    <Link className={styles.link} href='/jp' prefetch={false}>Japanese</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/ru'>Russian</Link>
+                    <Link className={styles.link} href='/ru' prefetch={false}>Russian</Link>
                 </li>
             </ul>
         </div>
