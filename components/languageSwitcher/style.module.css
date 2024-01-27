@@ -124,3 +124,10 @@
 /* .languageList a:hover::after {
     opacity: 1;
 } */
+
+@media screen and (max-width: 768px) {
+    .container {
+       
+        margin: 1em 2em 0 0;
+    }
+}

@@ -10,6 +10,19 @@
       "videoOnly": "Tylko wideo",
       "headerTitle": "pobrać film z YouTube",
       "headerQuestion": "jak pobrać film z youtube?",
-      "quality": "Jakość:"
+      "quality": "Jakość:",
+
+      "title": "Pobierz wideo z YouTube - HollywoodDownloader.com",
+      "description": "Łatwo pobieraj filmy z YouTube za pomocą HollywoodDownloader.com. Wklej link do filmu, naciśnij przycisk Pobierz i ciesz się ulubioną zawartością offline.",
+      "keywords": "pobierz wideo z YouTube, pobieranie filmów, HollywoodDownloader,",
+      "ogTitle": "Pobierz wideo z YouTube - HollywoodDownloader.com",
+      "ogDescription": "Łatwo pobieraj filmy z YouTube za pomocą HollywoodDownloader.com. Wklej link do filmu, naciśnij przycisk pobierz i ciesz się ulubioną zawartością offline.",
+      "twitterTitle": "Pobierz wideo z YouTube - HollywoodDownloader.com",
+      "twitterDescription": "Łatwo pobieraj filmy z YouTube za pomocą HollywoodDownloader.com. Wklej link do filmu, naciśnij przycisk pobierz i ciesz się ulubioną zawartością offline.",
+      "contentTitle": "Witaj na HollywoodDownloader.com - Twoim idealnym miejscem do pobierania wideo!",
+      "content": [
+        "Łatwo przekształć ulubione filmy z YouTube w offline skarby, po prostu wklejając link do filmu w powyższe pole wejściowe i klikając przycisk pobierz.",
+        "Proszę zauważyć: Przestrzegaj warunków użytkowania HollywoodDownloader.com zgodnie z warunkami świadczenia usług YouTube i przepisami prawa autorskiego."
+      ]
     }
   }

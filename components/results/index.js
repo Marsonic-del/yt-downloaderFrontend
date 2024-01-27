@@ -7,7 +7,6 @@ import { useTranslations } from 'next-intl';
 const Results = ({ intl, results }) => {
     const [clicked, setClicked] = useState(false);
     //const t = useTranslations('Index');
-    console.log(intl)
 
     const handleClick = () => {
         setClicked(clicked => !clicked);

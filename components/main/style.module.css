@@ -5,7 +5,7 @@
     padding: 0;
     margin: 0 auto;
     align-items: center;
-    min-height: 80vh;
+    min-height: 100vh;
 }
 
 .logo {
@@ -15,12 +15,22 @@
     height: 88px;
   }
 
-.headerTitle {
-    visibility: hidden;
+.header {
+    max-width: 1000px;
+    width: 80%;
+    margin-top: 2em;
+    font-weight: 500;
     text-align: center;
+    color: #ffc4effc;
 }
 
 .error {
     color:  #f70647;
     margin-top: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        font-size: 1.5rem;
+    }
 }

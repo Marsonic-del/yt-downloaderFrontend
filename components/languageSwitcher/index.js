@@ -72,6 +72,24 @@ function LanguageSwitcher() {
                 <li>
                     <Link className={styles.link} href='/ru' prefetch={false}>Russian</Link>
                 </li>
+                <li>
+                    <Link className={styles.link} href='/cz' prefetch={false}>Czech</Link>
+                </li>
+                <li>
+                    <Link className={styles.link} href='/ee' prefetch={false}>Estonian</Link>
+                </li>
+                <li>
+                    <Link className={styles.link} href='/hu' prefetch={false}>Hungarian</Link>
+                </li>
+                <li>
+                    <Link className={styles.link} href='/lv' prefetch={false}>Latvian</Link>
+                </li>
+                <li>
+                    <Link className={styles.link} href='/nl' prefetch={false}>Dutch</Link>
+                </li>
+                <li>
+                    <Link className={styles.link} href='/pl' prefetch={false}>Polish</Link>
+                </li>
             </ul>
         </div>
     )

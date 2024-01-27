@@ -1,0 +1,33 @@
+.section {
+    max-width: 1000px;
+    width: 70%;
+    margin: 2em auto 0;
+}
+
+.paragraph {
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.3;
+    color: #ffc4effc;
+    margin-top: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .section {
+        width: 80%;
+        margin-top: 1.5em;
+    }  
+
+    .paragraph {
+        font-size: 1rem;
+        font-weight: 300;
+        margin-top: .75em;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .section {
+       width: 90%;
+    }
+    
+}

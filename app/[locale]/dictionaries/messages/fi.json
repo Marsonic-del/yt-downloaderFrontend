@@ -10,6 +10,19 @@
       "videoOnly": "Vain video",
       "headerTitle": "lataa video youtubesta",
       "headerQuestion": "miten ladata videoita youtubesta?",
-      "quality": "Laatu:"
+      "quality": "Laatu:",
+
+      "title": "Lataa video YouTubesta - HollywoodDownloader.com",
+  "description": "Lataa videoita YouTubesta helposti HollywoodDownloader.comin avulla. Liitä videon linkki, paina Lataa-painiketta ja nauti suosikkisisällöstäsi offline-tilassa.",
+  "keywords": "lataa video YouTubesta, videon lataus, HollywoodDownloader,",
+  "ogTitle": "Lataa video YouTubesta - HollywoodDownloader.com",
+  "ogDescription": "Lataa videoita YouTubesta helposti HollywoodDownloader.comin avulla. Liitä videon linkki, paina lataa-painiketta ja nauti suosikkisisällöstäsi offline-tilassa.",
+  "twitterTitle": "Lataa video YouTubesta - HollywoodDownloader.com",
+  "twitterDescription": "Lataa videoita YouTubesta helposti HollywoodDownloader.comin avulla. Liitä videon linkki, paina lataa-painiketta ja nauti suosikkisisällöstäsi offline-tilassa.",
+  "contentTitle": "Tervetuloa HollywoodDownloader.comiin - täydellinen keskus videoiden lataamiseen!",
+  "content": [
+    "Muuta helposti suosikki YouTube-videoitasi offline-aarteiksi liittämällä videon linkki yllä olevaan syötekenttään ja painamalla lataa-painiketta.",
+    "Huomioithan: Noudata HollywoodDownloader.comin käyttöehtoja YouTube:n käyttöehtojen ja tekijänoikeuslakien mukaisesti."
+  ]
     }
   }
