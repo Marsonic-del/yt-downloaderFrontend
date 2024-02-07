@@ -1,5 +1,4 @@
 import Main from '../../components/main'
-import Header from '../../components/header'
 import { Locale, getDictionary } from './dictionaries';
 
 export const runtime = 'edge'
@@ -16,7 +15,6 @@ export default async function Home({ params: { locale } }: Props) {
   return (
    
     <>
-      <Header/>
       <Main intl={intl.Index} />
     </>
   )

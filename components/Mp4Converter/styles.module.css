@@ -1,0 +1,26 @@
+.container {
+    width: 70%;
+    padding: 2em;
+    margin: 5em auto 2em;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 1.2rem;
+}
+
+.list {
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.2;
+    list-style: none;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+        padding: 0;
+    }
+    
+}

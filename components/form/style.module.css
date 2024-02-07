@@ -5,27 +5,46 @@
     align-items: center;
     margin: auto;
     padding: .2em .2em;
-    border-radius: 8px;
+    background-color: #f9f9f9;
+    border: 1px solid gray;
+    border-radius: 6px;
 }
 
 
 .form {
-    margin: 2em auto 0;
-    display: flex;
-    align-items: center;
+    margin-top: 2em;
     font-size: 1rem;
+    max-width: 800px;
+    width: 90%;
+    display: flex;
     flex-direction: column;
-    width: 50%;
+    margin-bottom: 2em;
 }
+
+.wrapper {
+    display: flex;
+}
+
+
 
 .input {
     flex: 1;
-    
     border: none;
-    border-radius: 10px;
     font-size: 1.2em;
-    
+    height: 2.8em;
     text-indent: .1em;
+}
+
+.removeButton {
+    cursor: pointer;
+    transform: scale();
+    transition: opacity linear 0.25s;
+    transition: transform linear 0.25s;
+}
+
+.removeButton:hover {
+    opacity: .8;
+    transform: scale(1.2);
 }
 
 .input::placeholder {
@@ -37,29 +56,53 @@
     outline: none;
 }
 .error {
-    color:  #f70647;
+    color:  #fff;
     margin-top: 1em;
+    text-align: center;
+    margin: 1em auto;
+    display: block;
+    visibility: hidden;
+    height: 1em;
+}
+
+.visible {
+    visibility: visible;
+}
+
+@media screen and (min-width: 1600) {
+    .form {
+       width:800px;
+    }
 }
 
 @media screen and (max-width: 1024px) {
     .form {
-       width: 65%;
         font-size: .8rem;
     }
 
     .input {
         padding: .7em .5em;
+        height: 3.4em;
     }
 }
 
 @media screen and (max-width: 768px) {
     .input {
-        padding: 1.3em .5em;
+       width: 100%;
+    }
+
+    .wrapper {
+        flex-direction: column;
     }
 
     .form {
-            width: 80%;
+        width: 80%;
+        flex-direction: column;
         }
+
+    .input::placeholder {
+        font-size: .8rem;
+    }
     
 }
 

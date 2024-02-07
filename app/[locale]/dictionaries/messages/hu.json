@@ -1,28 +1,91 @@
 {
-    "Index": {
-      "button": "letölteni",
-      "placeholder": "Illessze be ide a videó linkjét",
-      "showButton": "Mutass többet",
-      "showLess": "Mutass kevesebbet",
-      "duration": "Időtartam",
-      "downloadButton": "Letöltés",
-      "audioOnly": "Csak hang",
-      "videoOnly": "Csak videó",
-      "headerTitle": "videó letöltés a youtube-ról",
-      "headerQuestion": "hogyan lehet videót letölteni a youtube-ról?",
-      "quality": "Minőség:",
+  "Index": {
+    "button": "Letöltés",
+    "placeholder": "Illessze be a videó linkjét ide",
+    "showButton": "Továbbiak megjelenítése",
+    "showLess": "Kevesebbet mutat",
+    "duration": "Időtartam",
+    "downloadButton": "Letöltés",
+    "audioOnly": "Csak hang",
+    "videoOnly": "Csak video",
+    "headerTitle": "Videó letöltése a YouTube-ról",
+    "headerQuestion": "Hogyan tölthetem le a videókat a YouTube-ról?",
+    "quality": "Minőség:",
 
-      "title": "Videó letöltése a YouTube-ról - HollywoodDownloader.com",
-  "description": "Töltse le könnyedén a videókat a YouTube-ról a HollywoodDownloader.com segítségével. Illessze be a videó linkjét, kattintson a Letöltés gombra, és élvezze kedvenc tartalmát offline módban.",
-  "keywords": "videó letöltése a YouTube-ról, videó letöltés, HollywoodDownloader,",
-  "ogTitle": "Videó letöltése a YouTube-ról - HollywoodDownloader.com",
-  "ogDescription": "Töltse le könnyedén a videókat a YouTube-ról a HollywoodDownloader.com segítségével. Illessze be a videó linkjét, kattintson a letöltés gombra, és élvezze kedvenc tartalmát offline módban.",
-  "twitterTitle": "Videó letöltése a YouTube-ról - HollywoodDownloader.com",
-  "twitterDescription": "Töltse le könnyedén a videókat a YouTube-ról a HollywoodDownloader.com segítségével. Illessze be a videó linkjét, kattintson a letöltés gombra, és élvezze kedvenc tartalmát offline módban.",
-  "contentTitle": "Üdvözöljük a HollywoodDownloader.com-on - Az ideális központja a videók letöltéséhez!",
-  "content": [
-    "Alakítsa könnyedén át kedvenc YouTube-videóit offline kincsekké, egyszerűen illessze be a videó linkjét a fenti bemeneti mezőbe, majd kattintson a letöltés gombra.",
-    "Kérjük, vegye figyelembe: Kövesse a HollywoodDownloader.com használati feltételeit a YouTube szolgáltatási feltételei és a szerzői jogi törvények szerint."
-  ]
-    }
+    "title": "Videó letöltése a YouTube-ról - HollywoodDownloader.com",
+    "description": "Egyszerűen töltsd le a videókat a YouTube-ról a HollywoodDownloader.com segítségével. Illessze be a videó linkjét, nyomja meg a Letöltés gombot, és élvezze kedvenc tartalmát offline.",
+    "keywords": "videó letöltése a YouTube-ról, videó letöltés, HollywoodDownloader,",
+    "ogTitle": "Videó letöltése a YouTube-ról - HollywoodDownloader.com",
+    "ogDescription": "Egyszerűen töltsd le a videókat a YouTube-ról a HollywoodDownloader.com segítségével. Illessze be a videó linkjét, nyomja meg a Letöltés gombot, és élvezze kedvenc tartalmát offline.",
+    "twitterTitle": "Videó letöltése a YouTube-ról - HollywoodDownloader.com",
+    "twitterDescription": "Egyszerűen töltsd le a videókat a YouTube-ról a HollywoodDownloader.com segítségével. Illessze be a videó linkjét, nyomja meg a Letöltés gombot, és élvezze kedvenc tartalmát offline.",
+    "contentTitle": "HollywoodDownloader.com - Az ideális központ a videók letöltéséhez!",
+    "content": [
+      "Egyszerűen alakítsa át kedvenc YouTube-videóit offline kincsekké, egyszerűen illessze be a videó linkjét a fenti bemeneti mezőbe, majd kattintson a letöltés gombra."
+    ],
+
+    "contentCoution": "Kérjük, vegye figyelembe: Tartsa be a HollywoodDownloader.com használati feltételeit a YouTube szolgáltatási feltételei és szerzői jogi törvények szerint.",
+    "serviceDesc": "Egyszerűen alakítsa át kedvenc YouTube-videóit offline kincsekké. A HollywoodDownloader lehetővé teszi a videók konvertálását és letöltését a YouTube-ról MP3, MP4, Webm, 3GP, MP4A formátumban HD minőségben ingyenesen.",
+
+    "insrtuctionsHeader": "YouTube-videók letöltése: Lépésről lépésre útmutató",
+    "instructions": [
+      "1. Másolja le a YouTube videó linkjét, amit letölteni szeretne.",
+      "2. Illessze be a keresőmezőbe.",
+      "3. Válassza ki a kívánt video- vagy hangminőséget, majd kattintson a \"Letöltés\" gombra."
+    ],
+
+    "insrtuctionsMp3Header": "YouTube MP3 konverzió: Gyors útmutató",
+    "insrtuctionsMp4Header": "YouTube konvertálása MP4 formátumba: Egyszerű és gyors módszerek",
+
+    "instructionsImageCopy": "A kép bemutatja, hogyan másolhatja le a YouTube linkjét",
+    "instructionsImagePaste": "A kép bemutatja, hogyan illessze be a YouTube linkjét a HollywoodDownloader.com keresőmezőjébe",
+    "instructionsImageDownload": "A kép bemutatja, hogyan töltheti le a megtalált videót",
+
+    "prosHeader": "Miért a Hollywood Downloader a legjobb választás a YouTube-videók letöltéséhez",
+    "pros": [
+      "Abszolút ingyenes.",
+      "Korlátlan letöltések.",
+      "Magas sebesség.",
+      "Nincs regisztráció",
+      "Támogatja a többféle formátumot és minőséget."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "A HollywoodDownloader lehetővé teszi a felhasználók számára, hogy könnyedén letölthessék a YouTube Shorts videókat, egy kényelmes megoldást nyújtva a rövid tartalom mentésére és offline élvezetére.",
+    "youtubeShortsAlt": "A kép bemutatja a YouTube Shorts videók letöltésének lehetőségét.",
+    "highspeedHeader": "Magas sebesség",
+    "highspeed": "Lehetővé teszi a YouTube-videók gyors letöltését, biztosítva a felhasználók számára gyors és hatékony hozzáférést kedvenc tartalmukhoz.",
+    "highspeedAlt": "A kép bemutatja a gyors letöltést.",
+    "multiplatformHeader": "Többplatformos",
+    "multiplatform": "A HollywoodDownloader, egy sokoldalú és többplatformos eszköz, lehetővé teszi a felhasználók számára a YouTube-videók letöltését zökkenőmentesen különböző eszközökön és operációs rendszereken keresztül, rugalmas és hozzáférhető letöltési megoldást kínálva.",
+    "multiplatformAlt": "A kép bemutatja a többplatformos használatot.",
+    "safeHeader": "Biztonságos",
+    "safe": "A HollywoodDownloader biztosítja a biztonságos letöltési élményt, mivel nem igényel regisztrációt vagy bejelentkezést, előtérbe helyezve a felhasználói adatvédelmet és kényelmet a YouTube-videók zavartalan beszerzése közben.",
+    "safeAlt": "A kép bemutatja az alkalmazás biztonságos használatát.",
+    "freeHeader": "Abszolút ingyenes",
+    "free": "Teljesen ingyenes megoldást kínálunk a YouTube-videók letöltéséhez, lehetővé téve a felhasználók számára korlátlan hozzáférést kedvenc tartalmukhoz bármilyen költség nélkül.",
+    "freeAlt": "A kép bemutatja, hogy az alkalmazás ingyenes.",
+    "nolimitHeader": "Korlát nélkül",
+    "nolimit": "Korlátlan letöltési élményt kínálunk, lehetővé téve a felhasználók számára a YouTube-videók korlátlan letöltését, korlátozás nélküli hozzáférést biztosítva számos tartalomhoz.",
+    "nolimitAlt": "A kép bemutatja, hogy az alkalmazás lehetővé teszi a YouTube-videók korlátlan letöltését.",
+    "multipleformatsHeader": "Több formátum",
+    "multipleformats": "A HollywoodDownloader támogat többféle formátumot, beleértve a MP3, MP4, Webm, 3GP, MP4A és HD formátumokat, lehetővé téve a felhasználók számára a YouTube-videók letöltését kedvenc formátumukban személyre szabott nézési élményért.",
+    "multipleformatsAlt": "A kép bemutatja, hogy az alkalmazás támogatja a különböző formátumokat.",
+    "mp3Header": "YouTube MP3 átalakító",
+    "mp3Text": [
+      "Bemutatjuk MP3 YouTube videó átalakítónkat - az ultimátumot a kedvenc YouTube videóid problémamentes átalakításához kiváló minőségű MP3 hangfájlokká. Ez a felhasználóbarát átalakító lehetővé teszi bármely YouTube videó hangjának könnyű kinyerését, lehetővé téve személyre szabott lejátszási listák létrehozását, kedvenc zenéjének élvezetét offline, vagy egyszerűen adatok megtakarítását az úton.",
+      "Az átalakító folyamata annyira egyszerű, mint a YouTube videó URL címének másolása és beillesztése, a kívánt hangminőség kiválasztása, majd az átalakítás gomb megnyomása. Tapasztalja meg a villámgyors átalakításokat, anélkül, hogy az audio hűségét veszélyeztetné. Legyen szó akár zenei rajongóról, podcast szeretőről, vagy csak arról, hogy kedvenc tartalmát hang formájában élvezné, a mi MP3 YouTube videó átalakítónk a kényelmes és élvezetes hallgatási élmény go-to megoldása. Frissítse zenei könyvtárát könnyedén, és merüljön el az audio kiválóság világában ma is az MP3 YouTube videó átalakítónkkal."
+    ],
+    "mp4Header": "YouTube MP4 átalakító",
+    "mp4Text": [
+      "Tapasztalja meg a zökkenőmentes videóátalakítást a YouTube MP4 átalakító szolgáltatásunkkal. Zökkenőmentesen alakítsa át kedvenc YouTube videóit magas minőségű MP4 fájlokká az offline élvezetért. Felhasználóbarát platformunk gyors és problémamentes folyamatot biztosít, lehetővé téve videók letöltését és mentését MP4 formátumban csak néhány kattintással. Élvezze kedvenc tartalmát bármikor, bárhol, legyen szó arról, hogy éppen úton van, vagy egyszerűen saját média könyvtárát építi. Próbálja ki YouTube MP4 átalakítónkat ma, és nyisson meg egy kényelmes világot a videó lejátszásában és tárolásában."
+    ],
+    "shortsHeader": "YouTube Shorts videó letöltő",
+    "shortsText": [
+      "Bemutatjuk a csúcstechnológiás YouTube Shorts letöltő szolgáltatásunkat, amelyet azoknak terveztünk, akik szeretnék problémamentesen élvezni kedvenc rövid formátumú videóikat bármikor és bárhol. Felhasználóbarát platformunkkal könnyedén letöltheti a YouTube Shorts tartalmakat magas minőségben, biztosítva a kényelmes nézési élményt útközben. Fedezze fel a divatos és vonzó rövid videók széles gyűjteményét, és csak néhány kattintással alakítsa át azokat könnyen elérhető fájlokká az offline élvezetért. Fogadja el a YouTube Shorts letöltő szolgáltatás kényelmét, és soha ne maradjon le a lebilincselő tartalomról. Kezdje el építeni személyes könyvtárát még ma!"
+    ],
+    "insrtuctionsShortHeader": "YouTube Shorts videók letöltése: Lépésről lépésre útmutató",
+    "removeInputTextButton": "Távolítsa el a bemeneti szöveg gombot",
+    "altThumbnail": "Alternatív bélyegkép"
   }
+}

@@ -2,9 +2,8 @@ import styles from './style.module.css';
 import DownloadLink from '../DownloadLink';
 import { useState } from 'react';
 import { downloadContent } from '../../lib/api';
-import { useTranslations } from 'next-intl';
 
-const Results = ({ intl, results }) => {
+const Results = ({ intl, results, setIsResult }) => {
     const [clicked, setClicked] = useState(false);
     //const t = useTranslations('Index');
 
@@ -14,8 +13,16 @@ const Results = ({ intl, results }) => {
 
     return (
         <div className={styles.container}>
+            {/* <Image
+                src={removeButton}
+                width={25}
+                height={25}
+                alt='Remove button'
+                onClick={() => setIsResult(false)}
+                className={styles.removeButton}
+            /> */}
             <div className={styles.info}>
-                <img className={styles.image} src={results.thumb} alt='video image' />
+                <img className={styles.image} src={results.thumb} alt={intl.altThumbnail} />
                 <p className={styles.title}>{results.title}</p>
                 <p className={styles.duration}>{intl.duration}: {results.duration}</p>
             </div>

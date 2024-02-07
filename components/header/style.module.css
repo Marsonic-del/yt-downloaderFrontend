@@ -1,4 +1,48 @@
 .header {
     display: flex;
-    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    background-color: #000066;
+    width: 100%;
 }
+
+
+
+.navbar {}
+
+.navlist {
+    display: flex;
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color: #fff;
+}
+
+.headerTitle {
+    font-size: 1.5rem;
+    max-width: 1000px;
+    width: 80%;
+    font-weight: 500;
+    /* margin-left: 2em; */
+    color: #fff;
+    padding: .5em;
+    margin-right: 7em;
+}
+
+@media screen and (max-width: 768px) {
+    .navlist {
+        display: none;
+    }
+
+    .headerTitle {
+        font-size: 1rem; 
+        margin-left: 1em;
+    }
+}
+
+

@@ -23,6 +23,47 @@
   "content": [
     "Gjør dine favoritt YouTube-videoer enkelt om til offline skatter ved å lime inn videolenken i feltet over og trykke på last ned-knappen.",
     "Vennligst merk: Følg brukervilkårene til HollywoodDownloader.com i samsvar med YouTube's tjenestevilkår og opphavsrettslovgivning."
-  ]
+  ],
+
+
+  "contentCoution": "Vennligst merk: Følg bruksvilkårene til HollywoodDownloader.com i samsvar med YouTubes brukervilkår og opphavsrettslovene.",
+  "serviceDesc": "Enkelt gjør dine favoritt YouTube-videoer om til offline skatter. HollywoodDownloader lar deg konvertere og laste ned videoer fra YouTube til MP3, MP4, Webm, 3GP, MP4A i HD-kvalitet, helt gratis.",
+
+  "insrtuctionsHeader": "Hvordan laste ned YouTube-videoer gratis med HollywoodDownloader?",
+  "instructions": ["Lim inn YouTube-videoens lenke du ønsker å laste ned.",
+    "Velg ønsket video- eller lydkvalitet og klikk på 'Last ned'-knappen."
+  ],
+
+  "prosHeader": "Hvorfor er HollywoodDownloader det beste valget?",
+  "pros": [
+    "Helt gratis.",
+    "Ubegrensede nedlastinger.",
+    "Høy hastighet.",
+    "Uten pålogging",
+    "Støtter flere formater og kvaliteter."
+  ],
+
+  "youtubeShortsHeader": "YouTube Shorts",
+  "youtubeShorts": "HollywoodDownloader gjør det enkelt for brukere å laste ned YouTube Shorts-videoer, og gir en praktisk løsning for å lagre og nyte kortformet innhold offline.",
+  "youtubeShortsAlt": "Bilde viser muligheten for å laste ned YouTube Shorts-videoer.",
+  "highspeedHeader": "Høy hastighet",
+  "highspeed": "Muliggjør høyhastighetsnedlastinger av YouTube-videoer, og sikrer en rask og effektiv opplevelse for brukere som ønsker rask tilgang til favorittinnholdet sitt.",
+  "highspeedAlt": "Bilde viser høyhastighetsnedlasting.",
+  "multiplatformHeader": "Flerplattform",
+  "multiplatform": "HollywoodDownloader, et allsidig og flerplattformsverktøy, gir brukerne mulighet til å laste ned YouTube-videoer sømløst på ulike enheter og operativsystemer, og tilbyr en fleksibel og tilgjengelig nedlastingsløsning.",
+  "multiplatformAlt": "Bilde viser bruk av flere plattformer.",
+  "safeHeader": "Sikker ",
+  "safe": "HollywoodDownloader sikrer en trygg nedlastingsopplevelse da det ikke krever pålogging eller registrering, og prioriterer brukernes personvern og bekvemmelighet mens de henter YouTube-videoer uten problemer.",
+  "safeAlt": "Bilde viser sikker bruk av appen.",
+  "freeHeader": "Helt gratis",
+  "free": "Vi tilbyr en helt gratis løsning for nedlasting av YouTube-videoer, og gir brukere ubegrenset tilgang til favorittinnholdet sitt uten kostnad.",
+  "freeAlt": "Bilde viser at appen er gratis.",
+  "nolimitHeader": "Ingen begrensning",
+  "nolimit": "Vi presenterer en ubegrenset nedlastingsopplevelse, slik at brukere kan laste ned YouTube-videoer uten begrensninger på antall nedlastinger, og gir ubegrenset tilgang til et bredt spekter av innhold.",
+  "nolimitAlt": "Bilde viser at appen tillater brukere å laste ned YouTube-videoer uten begrensninger på antall nedlastinger.",
+  "multipleformatsHeader": "Flere formater",
+  "multipleformats": "HollywoodDownloader støtter ulike formater, inkludert MP3, MP4, Webm, 3GP, MP4A og HD, og gir brukere fleksibiliteten til å laste ned YouTube-videoer i ønsket format for en personlig visningsopplevelse.",
+  "multipleformatsAlt": "Bilde viser at appen støtter ulike formater."
+
     }
   }

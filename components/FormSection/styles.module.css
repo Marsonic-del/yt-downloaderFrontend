@@ -1,0 +1,25 @@
+.search {
+    margin: 0 auto;
+    padding-top: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #000066;
+}
+
+.error {
+    color:  #f70647;
+    margin-top: 1em;
+    text-align: center;
+    display: block;
+}
+
+@media screen and (max-width: 768px) {
+  
+}
+
+
+
+

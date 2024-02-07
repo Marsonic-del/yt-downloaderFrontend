@@ -1,28 +1,91 @@
 {
-    "Index": {
-      "button": "Stažení",
-      "placeholder": "Sem vložte odkaz na své video",
-      "showButton": "Zobrazit více",
-      "showLess": "Ukaž méně",
-      "duration": "Doba trvání",
-      "downloadButton": "Stažení",
-      "audioOnly": "Pouze zvuk",
-      "videoOnly": "Pouze video",
-      "headerTitle": "stáhnout video z youtube",
-      "headerQuestion": "jak stáhnout video z youtube?",
-      "quality": "Kvalitní:",
+  "Index": {
+    "button": "Stáhnout",
+    "placeholder": "Vložte odkaz na video zde",
+    "showButton": "Zobrazit více",
+    "showLess": "Zobrazit méně",
+    "duration": "Trvání",
+    "downloadButton": "Stáhnout",
+    "audioOnly": "Pouze zvuk",
+    "videoOnly": "Pouze video",
+    "headerTitle": "Stáhněte si video z YouTube",
+    "headerQuestion": "Jak stáhnout video z YouTube?",
+    "quality": "Kvalita:",
 
-      "title": "Stáhnout video z YouTube - HollywoodDownloader.com",
-  "description": "Snadno stahujte videa z YouTube pomocí HollywoodDownloader.com. Vložte odkaz na video, stiskněte tlačítko Stáhnout a užívejte si svůj oblíbený obsah offline.",
-  "keywords": "stáhnout video z YouTube, stahování videa, HollywoodDownloader,",
-  "ogTitle": "Stáhnout video z YouTube - HollywoodDownloader.com",
-  "ogDescription": "Snadno stahujte videa z YouTube pomocí HollywoodDownloader.com. Vložte odkaz na video, stiskněte tlačítko stáhnout a užívejte si svůj oblíbený obsah offline.",
-  "twitterTitle": "Stáhnout video z YouTube - HollywoodDownloader.com",
-  "twitterDescription": "Snadno stahujte videa z YouTube pomocí HollywoodDownloader.com. Vložte odkaz na video, stiskněte tlačítko stáhnout a užívejte si svůj oblíbený obsah offline.",
-  "contentTitle": "Vítejte na HollywoodDownloader.com - Váš ideální port pro stahování videí!",
-  "content": [
-    "Snadno přetvářejte svá oblíbená videa z YouTube na offline poklady jednoduše vložením odkazu na video do vstupního pole výše a kliknutím na tlačítko stáhnout.",
-    "Všimněte si prosím: Dodržujte podmínky používání HollywoodDownloader.com v souladu s podmínkami služby YouTube a autorskými zákony."
-  ]
-    }
+    "title": "Stáhněte si video z YouTube - HollywoodDownloader.com",
+    "description": "Snadno stahujte videa z YouTube s HollywoodDownloader.com. Vložte odkaz na video, stiskněte tlačítko Stáhnout a užívejte si oblíbený obsah offline.",
+    "keywords": "stáhnout video z YouTube, stahování videa, HollywoodDownloader,",
+    "ogTitle": "Stáhněte si video z YouTube - HollywoodDownloader.com",
+    "ogDescription": "Snadno stahujte videa z YouTube s HollywoodDownloader.com. Vložte odkaz na video, stiskněte tlačítko stáhnout a užívejte si oblíbený obsah offline.",
+    "twitterTitle": "Stáhněte si video z YouTube - HollywoodDownloader.com",
+    "twitterDescription": "Snadno stahujte videa z YouTube s HollywoodDownloader.com. Vložte odkaz na video, stiskněte tlačítko stáhnout a užívejte si oblíbený obsah offline.",
+    "contentTitle": "HollywoodDownloader.com - Váš dokonalý zdroj pro stahování videí!",
+    "content": [
+      "Jednoduše převeďte svá oblíbená videa z YouTube na offline poklady tím, že jednoduše vložíte odkaz na video do vstupního pole výše a kliknete na tlačítko Stáhnout."
+    ],
+
+    "contentCoution": "Poznámka: Dodržujte podmínky používání HollywoodDownloader.com v souladu s podmínkami služby YouTube a autorskými zákony.",
+    "serviceDesc": "Snadno převeďte svá oblíbená videa z YouTube na offline poklady. HollywoodDownloader vám umožňuje převádět a stahovat video z YouTube do formátů MP3, MP4, Webm, 3GP, MP4A ve vysoké kvalitě zdarma.",
+
+    "insrtuctionsHeader": "Stahujte videa z YouTube: Krok za krokem průvodce",
+    "instructions": [
+      "1. Zkopírujte odkaz na video z YouTube, které chcete stáhnout.",
+      "2. Vložte ho do vyhledávacího pole.",
+      "3. Vyberte požadovanou kvalitu videa nebo zvuku a klikněte na tlačítko „Stáhnout“."
+    ],
+
+    "insrtuctionsMp3Header": "Převod YouTube na MP3: Rychlý průvodce",
+    "insrtuctionsMp4Header": "Převést YouTube na MP4: Snadné a rychlé metody",
+
+    "instructionsImageCopy": "Obrázek ukazuje, jak zkopírovat odkaz na YouTube",
+    "instructionsImagePaste": "Obrázek ukazuje, jak vložit odkaz na YouTube na vyhledávací pole HollywoodDownloader.com",
+    "instructionsImageDownload": "Obrázek ukazuje, jak stáhnout nalezené video",
+
+    "prosHeader": "Proč je Hollywood Downloader nejlepší volbou pro stahování videí z YouTube",
+    "pros": [
+      "Zcela zdarma.",
+      "Neomezená stahování.",
+      "Vysoká rychlost.",
+      "Bez registrace",
+      "Podporovány jsou různé formáty a kvality."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "HollywoodDownloader umožňuje uživatelům snadno stahovat videa z YouTube Shorts, poskytující pohodlné řešení pro ukládání a užívání si krátkých videí offline.",
+    "youtubeShortsAlt": "Obrázek ukazuje možnost stahování videí z YouTube Shorts.",
+    "highspeedHeader": "Vysoká rychlost",
+    "highspeed": "Umožňuje rychlé stahování videí z YouTube, zajistí rychlý a efektivní zážitek pro uživatele, kteří hledají rychlý přístup k svému oblíbenému obsahu.",
+    "highspeedAlt": "Obrázek ukazuje rychlost stahování.",
+    "multiplatformHeader": "Víceplatformový",
+    "multiplatform": "HollywoodDownloader, univerzální a víceplatformový nástroj, umožňuje uživatelům bezproblémové stahování videí z YouTube na různých zařízeních a operačních systémech, nabízí flexibilní a dostupné řešení stahování.",
+    "multiplatformAlt": "Obrázek ukazuje víceplatformové použití.",
+    "safeHeader": "Bezpečné",
+    "safe": "HollywoodDownloader zajišťuje bezpečný zážitek ze stahování, protože nevyžaduje registraci ani přihlášení, dává přednost ochraně soukromí a pohodlí uživatelů při snadném získávání videí z YouTube.",
+    "safeAlt": "Obrázek ukazuje bezpečné používání aplikace.",
+    "freeHeader": "Zcela zdarma",
+    "free": "Nabízíme zcela zdarma řešení pro stahování videí z YouTube, poskytujeme uživatelům neomezený přístup k jejich oblíbenému obsahu bez jakýchkoli nákladů.",
+    "freeAlt": "Obrázek ukazuje, že aplikace je zdarma.",
+    "nolimitHeader": "Bez omezení",
+    "nolimit": "Představujeme neomezený zážitek ze stahování, umožňujeme uživatelům stahovat videa z YouTube bez omezení počtu stažení, poskytujeme neomezený přístup k široké škále obsahu.",
+    "nolimitAlt": "Obrázek ukazuje, že aplikace umožňuje uživatelům stahovat videa z YouTube bez omezení počtu stažení.",
+    "multipleformatsHeader": "Různé formáty",
+    "multipleformats": "HollywoodDownloader podporuje různé formáty, včetně MP3, MP4, Webm, 3GP, MP4A a HD, nabízí uživatelům flexibilitu stahovat videa z YouTube ve svém preferovaném formátu pro personalizovaný zážitek z přehrávání.",
+    "multipleformatsAlt": "Obrázek ukazuje, že aplikace podporuje různé formáty.",
+    "mp3Header": "Převod YouTube na MP3",
+    "mp3Text": [
+      "Představujeme náš MP3 YouTube Video Converter - ultimátní nástroj pro bezproblémové přetváření vašich oblíbených videí z YouTube do kvalitních zvukových souborů MP3. Tento uživatelsky přívětivý konvertor vám umožňuje snadno extrahovat zvuk z libovolného videa z YouTube, což vám umožňuje vytvářet personalizované seznamy skladeb, užívat si oblíbenou hudbu offline nebo jednoduše šetřit data, když jste na cestách.",
+      "S naším konvertorem je proces tak jednoduchý jako zkopírování a vložení odkazu na video z YouTube, vybrání požadované kvality zvuku a stisknutí tlačítka pro převod. Zažijte bleskově rychlé konverze bez kompromisů na kvalitě zvuku. Ať už jste hudební nadšenec, milovník podcastů nebo si jen chcete užít oblíbený obsah ve zvukové formě, náš MP3 YouTube Video Converter je ideálním řešením pro pohodlný a příjemný poslech. Upgradujte svou hudební knihovnu snadno a ponořte se do světa zvukové excelence s naším MP3 YouTube Video Converter dnes."
+    ],
+    "mp4Header": "Převod YouTube na MP4",
+    "mp4Text": [
+      "Zažijte bezproblémovou transformaci videí s naší službou YouTube MP4 Converter. Snadno převeďte svá oblíbená videa z YouTube do kvalitních souborů MP4 pro offline potěšení. Naše uživatelsky přívětivá platforma zajistí rychlý a bezproblémový proces, který vám umožní stahovat a ukládat videa ve formátu MP4 jedním kliknutím. Užívejte si oblíbený obsah kdykoli a kdekoli, ať už jste na cestách nebo jen chcete budovat svou osobní mediální knihovnu. Vyzkoušejte naši YouTube MP4 Converter ještě dnes a odemkněte svět pohodlí při přehrávání a ukládání videí."
+    ],
+    "shortsHeader": "Stahovač videí YouTube Shorts",
+    "shortsText": [
+      "Představujeme naši moderní službu stahování YouTube Shorts, navrženou pro nadšence, kteří si chtějí bezproblémově užívat svá oblíbená krátká videa kdykoli a kdekoli. S naší uživatelsky přívětivou platformou můžete snadno stahovat obsah YouTube Shorts ve vysoké kvalitě, zajistíte si tak příjemný zážitek z přehrávání na cestách. Objevte rozsáhlou sbírku aktuálních a zajímavých shorts a s několika kliknutími je přeměňte na snadno přístupné soubory pro offline potěšení. Přijměte pohodlí naší služby stahování YouTube Shorts a nikdy nezmeškejte moment poutavého obsahu. Začněte budovat svou osobní knihovnu ještě dnes!"
+    ],
+    "insrtuctionsShortHeader": "Stáhněte si YouTube Shorts: Krok za krokem průvodce",
+    "removeInputTextButton": "Odebrat tlačítko pro vložení textu",
+    "altThumbnail": "Náhled"
   }
+}

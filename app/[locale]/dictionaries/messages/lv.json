@@ -23,6 +23,47 @@
   "content": [
     "Viegli pārvērtiet savus iecienītos YouTube video par bezsaistes bagātībām, vienkārši ielīmējot video saiti augšējā ievades laukā un noklikšķinot uz lejupielādēt pogas.",
     "Lūdzu, ņemiet vērā: Ievērojiet HollywoodDownloader.com lietošanas noteikumus saskaņā ar YouTube lietošanas noteikumiem un autortiesību likumiem."
-  ]
+  ],
+
+
+  "contentCoution": "Lūdzu, ņemiet vērā: Ievērojiet HollywoodDownloader.com lietošanas noteikumus, atbilstoši „YouTube“ pakalpojumu noteikumiem un autortiesību likumiem.",
+  "serviceDesc": "Vienkārši pārvērtiet savus iecienītos „YouTube“ video par bezsaistes bagātībām. HollywoodDownloader ļauj jums pārvērst un lejupielādēt video no „YouTube“ MP3, MP4, Webm, 3GP, MP4A formātos HD kvalitātē bez maksas.",
+
+  "insrtuctionsHeader": "Kā bez maksas lejupielādēt „YouTube“ video ar HollywoodDownloader?",
+  "instructions": ["Ievietojiet „YouTube“ video saiti, kuru vēlaties lejupielādēt.",
+    "Izvēlieties vajadzīgo video vai audio kvalitāti un noklikšķiniet uz pogas „Lejupielādēt“."
+  ],
+
+  "prosHeader": "Kāpēc HollywoodDownloader ir labākais izvēle?",
+  "pros": [
+    "Pilnīgi bez maksas.",
+    "Neierobežotas lejupielādes.",
+    "Augsta ātrums.",
+    "Bez reģistrācijas",
+    "Atbalsta dažādus formātus un kvalitātes līmeņus."
+  ],
+
+  "youtubeShortsHeader": "YouTube Īsfilmu",
+  "youtubeShorts": "HollywoodDownloader ļauj lietotājiem viegli lejupielādēt YouTube īsfilmu video, nodrošinot ērtu risinājumu īsformāta saturam saglabāt un baudīt bezsaistē.",
+  "youtubeShortsAlt": "Attēlā ir redzama iespēja lejupielādēt YouTube īsfilmu video.",
+  "highspeedHeader": "Augsta ātruma",
+  "highspeed": "Nodrošina ātrās lejupielādes iespēju no „YouTube“ video, nodrošinot lietotājiem ātru un efektīvu pieredzi, kuri vēlas ātri piekļūt savam iecienītajam saturam.",
+  "highspeedAlt": "Attēlā ir redzama lejupielāde augstā ātrumā.",
+  "multiplatformHeader": "Daudzplatformu",
+  "multiplatform": "HollywoodDownloader, daudzpusīgs un daudzplatformu rīks, ļauj lietotājiem bez problēmām lejupielādēt „YouTube“ video uz dažādiem ierīcēm un operētājsistēmām, piedāvājot elastīgu un pieejamu lejupielādes risinājumu.",
+  "multiplatformAlt": "Attēlā ir redzama daudzplatformu izmantošanas iespēja.",
+  "safeHeader": "Drošs ",
+  "safe": "HollywoodDownloader nodrošina drošu lejupielādes pieredzi, jo nav nepieciešama reģistrācija vai iegāde, prioritizējot lietotāja privātumu un ērtības, iegūstot „YouTube“ video bez problēmām.",
+  "safeAlt": "Attēlā ir redzams drošas lietošanas piemērs.",
+  "freeHeader": "Pilnīgi bez maksas",
+  "free": "Mēs piedāvājam pilnīgi bezmaksas risinājumu „YouTube“ video lejupielādei, nodrošinot lietotājiem ierobežotu piekļuvi viņu iecienītajam saturam bez jebkādām izmaksām.",
+  "freeAlt": "Attēlā ir redzams, ka lietojumprogramma ir bez maksas.",
+  "nolimitHeader": "Bez ierobežojumiem",
+  "nolimit": "Mēs piedāvājam neierobežotu lejupielādes pieredzi, ļaujot lietotājiem lejupielādēt „YouTube“ video bez jebkādiem ierobežojumiem par lejupielāžu skaitu, nodrošinot neierobežotu piekļuvi plašam saturam.",
+  "nolimitAlt": "Attēlā ir redzams, ka lietojumprogramma ļauj lietotājiem lejupielādēt „YouTube“ video bez jebkādiem ierobežojumiem par lejupielāžu skaitu.",
+  "multipleformatsHeader": "Daudzi formāti",
+  "multipleformats": "HollywoodDownloader atbalsta dažādus formātus, tai skaitā MP3, MP4, Webm, 3GP, MP4A un HD, piedāvājot lietotājiem elastību lejupielādēt „YouTube“ video izvēlētajā formātā personalizētai skatīšanās pieredzei.",
+  "multipleformatsAlt": "Attēlā ir redzams, ka lietojumprogramma atbalsta dažādus formātus."
+
     }
   }

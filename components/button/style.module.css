@@ -12,15 +12,14 @@
     font-size: 1rem;
     font-weight: 500;
     line-height: normal;
-    margin-left:  .5em;
-    padding: .8em .4em;
+    padding: .8em 1.6em;
     transition: opacity linear 0.25s;
     display: flex;
     justify-content: center;
     align-items: center;
     letter-spacing: .1em;
     font-family: inherit;
-    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    margin-left: .5em;
 }
 
 .button:hover {
@@ -37,17 +36,17 @@
 
     @media screen and (max-width: 768px) {
         .button {
-            padding: .3em .3em;
-            margin-left:  .8em;
-          
+           padding: 1em .5em;
+           margin: 1em auto 0;
+           width: 100%;
+          border-radius: 6px;
         }
         
     }
 
     @media screen and (max-width:600px) {
         .button {
-            padding: .4em;
-            margin-left: .6em;
+            /* padding: .4em; */
         }
         
     }

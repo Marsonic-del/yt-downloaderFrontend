@@ -1,28 +1,91 @@
 {
-    "Index": {
-      "button": "ladata",
-      "placeholder": "Liitä videolinkkisi tähän",
-      "showButton": "Näytä lisää",
-      "showLess": "Näytä vähemmän",
-      "duration": "Kesto",
-      "downloadButton": "ladata",
-      "audioOnly": "Vain ääni",
-      "videoOnly": "Vain video",
-      "headerTitle": "lataa video youtubesta",
-      "headerQuestion": "miten ladata videoita youtubesta?",
-      "quality": "Laatu:",
+  "Index": {
+    "button": "Lataa",
+    "placeholder": "Liitä videotlinkkisi tähän",
+    "showButton": "Näytä lisää",
+    "showLess": "Näytä vähemmän",
+    "duration": "Kesto",
+    "downloadButton": "Lataa",
+    "audioOnly": "Vain ääni",
+    "videoOnly": "Vain video",
+    "headerTitle": "Lataa video YouTubesta",
+    "headerQuestion": "Kuinka ladata videoita YouTubesta?",
+    "quality": "Laatu:",
 
-      "title": "Lataa video YouTubesta - HollywoodDownloader.com",
-  "description": "Lataa videoita YouTubesta helposti HollywoodDownloader.comin avulla. Liitä videon linkki, paina Lataa-painiketta ja nauti suosikkisisällöstäsi offline-tilassa.",
-  "keywords": "lataa video YouTubesta, videon lataus, HollywoodDownloader,",
-  "ogTitle": "Lataa video YouTubesta - HollywoodDownloader.com",
-  "ogDescription": "Lataa videoita YouTubesta helposti HollywoodDownloader.comin avulla. Liitä videon linkki, paina lataa-painiketta ja nauti suosikkisisällöstäsi offline-tilassa.",
-  "twitterTitle": "Lataa video YouTubesta - HollywoodDownloader.com",
-  "twitterDescription": "Lataa videoita YouTubesta helposti HollywoodDownloader.comin avulla. Liitä videon linkki, paina lataa-painiketta ja nauti suosikkisisällöstäsi offline-tilassa.",
-  "contentTitle": "Tervetuloa HollywoodDownloader.comiin - täydellinen keskus videoiden lataamiseen!",
-  "content": [
-    "Muuta helposti suosikki YouTube-videoitasi offline-aarteiksi liittämällä videon linkki yllä olevaan syötekenttään ja painamalla lataa-painiketta.",
-    "Huomioithan: Noudata HollywoodDownloader.comin käyttöehtoja YouTube:n käyttöehtojen ja tekijänoikeuslakien mukaisesti."
-  ]
-    }
+    "title": "Lataa video YouTubesta - HollywoodDownloader.com",
+    "description": "Lataa helposti videoita YouTubesta HollywoodDownloader.comin avulla. Liitä videolinkki, paina Lataa-nappia ja nauti suosikkisisällöstäsi ilman verkkoyhteyttä.",
+    "keywords": "Lataa video YouTubesta, videon lataus, HollywoodDownloader,",
+    "ogTitle": "Lataa video YouTubesta - HollywoodDownloader.com",
+    "ogDescription": "Lataa helposti videoita YouTubesta HollywoodDownloader.comin avulla. Liitä videolinkki, paina Lataa-nappia ja nauti suosikkisisällöstäsi ilman verkkoyhteyttä.",
+    "twitterTitle": "Lataa video YouTubesta - HollywoodDownloader.com",
+    "twitterDescription": "Lataa helposti videoita YouTubesta HollywoodDownloader.comin avulla. Liitä videolinkki, paina Lataa-nappia ja nauti suosikkisisällöstäsi ilman verkkoyhteyttä.",
+    "contentTitle": "HollywoodDownloader.com - Täydellinen keskus videoiden lataamiseen!",
+    "content": [
+      "Muuta helposti suosikki YouTube-videosi offline-aarteiksi yksinkertaisesti liittämällä videolinkki yllä olevaan syötekenttään ja napsauttamalla Lataa-nappia."
+    ],
+
+    "contentCoution": "Huomioithan: Noudata HollywoodDownloader.comin käyttöehtoja YouTube:n käyttöehtojen ja tekijänoikeuslakien mukaisesti.",
+    "serviceDesc": "Muuta helposti suosikki YouTube-videosi offline-aarteiksi. HollywoodDownloader mahdollistaa YouTube-videoiden muuntamisen ja lataamisen MP3, MP4, Webm, 3GP, MP4A -laadulla ilmaiseksi.",
+
+    "insrtuctionsHeader": "YouTube-videoiden lataus: Askel-askeleelta opas",
+    "instructions": [
+      "1. Kopioi YouTube-videon linkki, jonka haluat ladata.",
+      "2. Liitä se hakukenttään.",
+      "3. Valitse haluamasi video- tai äänenlaatu ja napsauta \"Lataa\"-nappia."
+    ],
+
+    "insrtuctionsMp3Header": "YouTube MP3-muunnos: Nopea opas",
+    "insrtuctionsMp4Header": "Muunna YouTube MP4:ksi: Helppo ja nopea menetelmä",
+
+    "instructionsImageCopy": "Kuva näyttää, miten kopioit YouTube-linkin",
+    "instructionsImagePaste": "Kuva näyttää, miten liität YouTube-linkin HollywoodDownloader.comin hakukenttään",
+    "instructionsImageDownload": "Kuva näyttää, miten lataat löydetyn videon",
+
+    "prosHeader": "Miksi Hollywood Downloader on paras valinta YouTube-videoiden lataamiseen",
+    "pros": [
+      "Täysin ilmainen.",
+      "Rajoittamattomat lataukset.",
+      "Korkea nopeus.",
+      "Ei rekisteröitymistä",
+      "Useita tukemia formaatteja ja laatutasoja."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "HollywoodDownloader mahdollistaa käyttäjille vaivattoman YouTube Shorts -videoiden lataamisen tarjoten kätevän ratkaisun lyhytformaatillisen sisällön tallentamiseen ja nauttimiseen ilman verkkoyhteyttä.",
+    "youtubeShortsAlt": "Kuva näyttää mahdollisuuden ladata YouTube Shorts -videoita.",
+    "highspeedHeader": "Korkea nopeus",
+    "highspeed": "Mahdollistaa YouTube-videoiden korkeanopeuksiset lataukset, varmistaen käyttäjille nopean ja tehokkaan kokemuksen suosikkisisältöön nopean pääsyn suhteen.",
+    "highspeedAlt": "Kuva näyttää korkeanopeuksiset lataukset.",
+    "multiplatformHeader": "Monialusta",
+    "multiplatform": "HollywoodDownloader, monipuolinen ja monialustainen työkalu, mahdollistaa YouTube-videoiden lataamisen saumattomasti eri laitteilla ja käyttöjärjestelmillä, tarjoten joustavan ja saavutettavan latausratkaisun.",
+    "multiplatformAlt": "Kuva näyttää monialustaisen käytön.",
+    "safeHeader": "Turvallinen",
+    "safe": "HollywoodDownloader varmistaa turvallisen latauskokemuksen, sillä se ei vaadi rekisteröitymistä tai kirjautumista, asettaen käyttäjän yksityisyyden ja mukavuuden etusijalle YouTube-videoiden vaivattoman hankinnan yhteydessä.",
+    "safeAlt": "Kuva näyttää sovelluksen turvallisen käytön.",
+    "freeHeader": "Täysin ilmainen",
+    "free": "Tarjoamme täysin ilmaisen ratkaisun YouTube-videoiden lataamiseen, antaen käyttäjille rajoittamattoman pääsyn suosikkisisältöönsä ilman mitään kustannuksia.",
+    "freeAlt": "Kuva näyttää, että sovellus on ilmainen.",
+    "nolimitHeader": "Ei rajoituksia",
+    "nolimit": "Tarjoamme rajoittamattoman latauskokemuksen, antaen käyttäjille mahdollisuuden ladata YouTube-videota ilman rajoituksia, tarjoten rajoittamattoman pääsyn laajaan valikoimaan sisältöä.",
+    "nolimitAlt": "Kuva näyttää, että sovellus mahdollistaa YouTube-videoiden lataamisen ilman rajoituksia latausten määrän suhteen.",
+    "multipleformatsHeader": "Useita formaatteja",
+    "multipleformats": "HollywoodDownloader tukee erilaisia formaatteja, mukaan lukien MP3, MP4, Webm, 3GP, MP4A ja HD, tarjoten käyttäjille mahdollisuuden ladata YouTube-videoita haluamassaan formaatissa personoidun katselukokemuksen saavuttamiseksi.",
+    "multipleformatsAlt": "Kuva näyttää, että sovellus tukee erilaisia formaatteja.",
+    "mp3Header": "YouTube MP3 -muunnin",
+    "mp3Text": [
+      "Esittelemme YouTube-videoiden MP3-muunnoksen - viimeisimmän työkalun suosikkivideoidesi vaivattomaan muuttamiseen korkealaatuisiksi MP3-äänitiedostoiksi. Tämä käyttäjäystävällinen muunnin mahdollistaa äänen helpottamisen mistä tahansa YouTube-videosta, mahdollistaen sinulle henkilökohtaisten soittolistojen luomisen, suosikkimusiikin nauttimisen ilman verkkoyhteyttä tai yksinkertaisesti datan säästämisen liikkeellä ollessasi.",
+      "Muunnin tekee prosessista yhtä yksinkertaisen kuin YouTube-videon URL-osoitteen kopioimisen ja liittämisen, halutun äänenlaadun valitsemisen ja muunnosnappulan painamisen. Koe salamannopeat muunnokset tinkimättä äänenlaadusta. Olitpa sitten musiikin harrastaja, podcastien ystävä tai haluat vain nauttia suosikkisisällöstäsi äänimuodossa, YouTube-videoiden MP3-muunnin on go-to-ratkaisu kätevään ja nautittavaan kuuntelukokemukseen. Päivitä musiikkikirjastosi helposti ja sukella äänen huippuluokan maailmaan YouTube-videoiden MP3-muuntimellamme tänään."
+    ],
+    "mp4Header": "YouTube MP4 -muunnin",
+    "mp4Text": [
+      "Koe saumaton videomuutos palvelumme avulla. Muunna helposti suosikkivideosi YouTubesta korkealaatuisiksi MP4-tiedostoiksi nautittavaksi ilman verkkoyhteyttä. Käyttäjäystävällinen alustamme varmistaa nopean ja vaivattoman prosessin, sallien videoiden lataamisen ja tallentamisen MP4-muodossa vain muutamalla klikkauksella. Nauti suosikkisisällöstäsi milloin tahansa ja missä tahansa, olitpa sitten liikkeellä tai haluat vain rakentaa henkilökohtaista mediatietokantaasi. Kokeile YouTube MP4 -muunninta tänään ja avaa mukavuuden maailma videon toistossa ja tallennuksessa."
+    ],
+    "shortsHeader": "YouTube Shorts -videoiden lataaja",
+    "shortsText": [
+      "Esittelemme huipputeknologisen YouTube Shorts -latauspalvelumme, joka on suunniteltu harrastajille, jotka haluavat nauttia helposti suosikkilyhytvideoidensa katselusta milloin tahansa ja missä tahansa. Käyttäjäystävällisen alustamme avulla voit ladata YouTube Shorts -sisältöä vaivattomasti korkealaatuisena, varmistaen nautinnollisen katselukokemuksen liikkeellä ollessasi. Tutustu laajaan trendikkäiden ja kiehtovien lyhytvideoiden valikoimaan ja muuta ne vain muutamalla klikkauksella helposti saavutettaviksi tiedostoiksi ilman verkkoyhteyttä varten. Omaksu YouTube Shorts -latauspalvelumme mukavuus ja älä koskaan jää paitsi kiehtovasta sisällöstä. Aloita henkilökohtaisen kirjastosi rakentaminen tänään!"
+    ],
+    "insrtuctionsShortHeader": "Lataa YouTube Shorts: Askel-askeleelta opas",
+    "removeInputTextButton": "Poista syötekenttänappi",
+    "altThumbnail": "Esikatselukuva"
   }
+}

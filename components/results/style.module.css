@@ -9,6 +9,13 @@
     color: #000;
     width: 80%;
     margin: 3em auto 0;
+    position: relative;
+}
+
+.removeButton {
+    position: absolute;
+    top: 1em;
+    right: 1em;
 }
 
 .info {

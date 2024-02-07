@@ -70,7 +70,7 @@ function LanguageSwitcher() {
                     <Link className={styles.link} href='/jp' prefetch={false}>Japanese</Link>
                 </li>
                 <li>
-                    <Link className={styles.link} href='/ru' prefetch={false}>Russian</Link>
+                    <Link className={styles.link} href='/ru' prefetch={false}>Русский</Link>
                 </li>
                 <li>
                     <Link className={styles.link} href='/cz' prefetch={false}>Czech</Link>

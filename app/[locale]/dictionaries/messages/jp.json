@@ -23,6 +23,47 @@
   "content": [
     "YouTubeのお気に入りのビデオを簡単にオフラインの宝物に変えるには、上記の入力フィールドにビデオリンクを貼り付けてダウンロードボタンをクリックしてください。",
     "注意: HollywoodDownloader.comの利用条件はYouTubeの利用規約および著作権法に準拠しています。"
-  ]
+  ],
+
+
+  "contentCoution": "ご注意ください: HollywoodDownloader.comの利用規約をYouTubeの利用規約と著作権法に従ってご利用ください。",
+  "serviceDesc": "簡単にお気に入りのYouTube動画をオフラインの宝物に変えましょう。HollywoodDownloaderはYouTubeの動画をMP3、MP4、Webm、3GP、MP4AのHDクオリティで無料で変換・ダウンロードすることができます。",
+
+  "insrtuctionsHeader": "HollywoodDownloaderを使用して無料でYouTube動画をダウンロードする方法",
+  "instructions": ["ダウンロードしたいYouTube動画のリンクを貼り付けてください。",
+    "必要なビデオまたはオーディオのクオリティを選択し、「ダウンロード」ボタンをクリックしてください。"
+  ],
+
+  "prosHeader": "なぜHollywoodDownloaderが最善の選択なのか？",
+  "pros": [
+    "完全に無料。",
+    "無制限のダウンロード。",
+    "高速。",
+    "サインアップ不要",
+    "様々なフォーマットとクオリティに対応。"
+  ],
+
+  "youtubeShortsHeader": "YouTube Shorts",
+  "youtubeShorts": "HollywoodDownloaderを使用すると、YouTube Shortsの動画を簡単にダウンロードでき、短い形式のコンテンツをオフラインで保存して楽しむ便利な解決策が提供されます。",
+  "youtubeShortsAlt": "画像はYouTube Shortsの動画をダウンロードできる可能性を示しています。",
+  "highspeedHeader": "高速",
+  "highspeed": "YouTube動画の高速ダウンロードを可能にし、お気に入りのコンテンツに迅速にアクセスしたいユーザーに迅速で効率的なエクスペリエンスを提供します。",
+  "highspeedAlt": "画像は高速なダウンロードを示しています。",
+  "multiplatformHeader": "マルチプラットフォーム",
+  "multiplatform": "HollywoodDownloaderは多様でマルチプラットフォームなツールで、さまざまなデバイスとオペレーティングシステムでシームレスにYouTube動画をダウンロードできるようにし、柔軟でアクセスしやすいダウンロードソリューションを提供します。",
+  "multiplatformAlt": "画像はマルチプラットフォームの使用を示しています。",
+  "safeHeader": "安全 ",
+  "safe": "HollywoodDownloaderはサインアップやサインインが必要ないため、セキュアなダウンロードエクスペリエンスを保証し、YouTube動画を手間なく入手する際にユーザープライバシーと利便性を優先します。",
+  "safeAlt": "画像はアプリの安全な使用を示しています。",
+  "freeHeader": "完全に無料",
+  "free": "YouTube動画をダウンロードするための完全に無料のソリューションを提供し、ユーザーにコストなしでお気に入りのコンテンツに無制限のアクセスを提供します。",
+  "freeAlt": "画像はアプリが無料であることを示しています。",
+  "nolimitHeader": "制限なし",
+  "nolimit": "制限のないダウンロードエクスペリエンスを提供し、ユーザーがダウンロード回数に制限なくYouTube動画をダウンロードできるようにし、幅広いコンテンツに制限なくアクセスできるようにします。",
+  "nolimitAlt": "画像はアプリがダウンロード回数に制限なくYouTube動画をダウンロードできることを示しています。",
+  "multipleformatsHeader": "複数のフォーマット",
+  "multipleformats": "HollywoodDownloaderはMP3、MP4、Webm、3GP、MP4A、HDを含むさまざまなフォーマットをサポートし、ユーザーにお好みの形式でYouTube動画をダウンロードして個人の視聴エクスペリエンスを提供します。",
+  "multipleformatsAlt": "画像はアプリがさまざまなフォーマットをサポートしていることを示しています。"
+
     }
   }

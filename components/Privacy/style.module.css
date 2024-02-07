@@ -1,0 +1,31 @@
+.section {
+    max-width: 1500px;
+    width: 80%;
+    margin: 3em auto ;
+}
+
+.paragragh {
+    margin-top: 1em;
+}
+
+.header {
+    font-size: 1.2em;
+    font-weight: 500;
+    margin-top: 2em;
+}
+
+@media screen and (max-width: 768px) {
+    .section {
+        width: 90%;
+        margin: 2em auto ;
+    }
+
+    .paragragh {
+        font-size: 12px;
+    }
+    
+    .header {
+        font-size: 1em;
+        margin-top: 1em;
+    }
+}

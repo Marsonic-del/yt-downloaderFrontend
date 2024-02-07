@@ -1,7 +1,18 @@
 //import type { Metadata } from 'next'
 import { Roboto, } from 'next/font/google'
 import './globals.css'
+// import { getDictionary } from './dictionaries';
+import Header from '../../components/header'
 import { getDictionary } from './dictionaries';
+import Footer from '../../components/footer'
+import Form from '@/components/form'
+import styles from './styles.module.css'
+import FormSection from '@/components/FormSection';
+
+export const viewport = {
+  themeColor: '#220066',
+  colorScheme: 'light',
+}
 
 export const runtime = 'edge'
 
@@ -17,6 +28,28 @@ export const metadata = {
     languages: {
       'en-US': '/en',
       'de-DE': '/de',
+      'cs-CZ': '/cz',
+      'da-DK': '/dk',
+      'es-ES': '/es',
+      'fi-FI': '/fi',
+      'fr-FR': '/fr',
+      'it-iT': '/it',
+      'ja-JP': '/jp',
+      'nl-NL': '/nl',
+      'no-NO': '/no',
+      'pl-PL': '/pl',
+      'pt-PT': '/pt',
+      'pt-BR': '/pt',
+      'ru-RU': '/ru',
+      'sv-SE': '/se',
+      'et-EE': '/ee',
+      'hu-HU': '/hu',
+      'hi-IN': '/in',
+      'hi-NP': '/in',
+      'hi-FJ': '/in',
+      'lt-LT': '/lt',
+      'lv-LV': '/lv',
+      'lv-LV': '/lv',
     },
   },
   keywords: ['YouTube video download for free', 'download videos for free', 'HollywoodDownloader'],
@@ -49,7 +82,11 @@ export default async function LocaleLayout(props) {
   return (
     <html lang={params.locale}>
       <body className={roboto.className}>
+        <Header intl={intl.Index} locale={params.locale} />
+        <FormSection intl={intl.Index} />
         {children}
+        <Footer intl={intl.Index} />
+
       </body>
     </html>
   );

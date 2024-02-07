@@ -1,28 +1,91 @@
 {
-    "Index": {
-      "button": "Lae alla",
-      "placeholder": "Kleepige oma video link siia",
-      "showButton": "Näita rohkem",
-      "showLess": "Näita vähem",
-      "duration": "Kestus",
-      "downloadButton": "Lae alla",
-      "audioOnly": "Ainult heli",
-      "videoOnly": "Ainult video",
-      "headerTitle": "laadige video youtubest alla",
-      "headerQuestion": "kuidas youtubest videot alla laadida?",
-      "quality": "Kvaliteet:",
+  "Index": {
+    "button": "Laadi alla",
+    "placeholder": "Aseta oma videoling siia",
+    "showButton": "Näita rohkem",
+    "showLess": "Näita vähem",
+    "duration": "Kestus",
+    "downloadButton": "Laadi alla",
+    "audioOnly": "Ainult audio",
+    "videoOnly": "Ainult video",
+    "headerTitle": "Laadi video alla YouTube'ist",
+    "headerQuestion": "Kuidas alla laadida videot YouTube'ist?",
+    "quality": "Kvaliteet:",
 
-      "title": "Laadige YouTube'i video alla - HollywoodDownloader.com",
-  "description": "Laadige videoid YouTube'ist hõlpsalt alla koos HollywoodDownloader.com'iga. Kleepige video link, vajutage nuppu Laadi alla ja nautige oma lemmiksisu offline.",
-  "keywords": "laadige video alla YouTube'ist, video allalaadimine, HollywoodDownloader,",
-  "ogTitle": "Laadige YouTube'i video alla - HollywoodDownloader.com",
-  "ogDescription": "Laadige videoid YouTube'ist hõlpsalt alla koos HollywoodDownloader.com'iga. Kleepige video link, vajutage nuppu Laadi alla ja nautige oma lemmiksisu offline.",
-  "twitterTitle": "Laadige YouTube'i video alla - HollywoodDownloader.com",
-  "twitterDescription": "Laadige videoid YouTube'ist hõlpsalt alla koos HollywoodDownloader.com'iga. Kleepige video link, vajutage nuppu Laadi alla ja nautige oma lemmiksisu offline.",
-  "contentTitle": "Tere tulemast HollywoodDownloader.com'i - Teie ideaalsesse kohta videote allalaadimiseks!",
-  "content": [
-    "Muutke oma lemmikvideod YouTube'is lihtsalt offline-varandusteks, kleepides lihtsalt video lingi ülal olevasse sisendvälja ja klõpsates allalaadimisnuppu.",
-    "Palun pange tähele: Järgige HollywoodDownloader.com'i kasutustingimusi vastavalt YouTube'i kasutustingimustele ja autoriõigusseadustele."
-  ]
-    }
+    "title": "Laadi video alla YouTube'ist - HollywoodDownloader.com",
+    "description": "Laadige videoid YouTube'ist lihtsalt alla HollywoodDownloader.com abil. Asetage videolingid, vajutage allalaadimisnuppu ja nautige oma lemmiksisu võrguühenduseta.",
+    "keywords": "Laadi video alla YouTube'ist, video allalaadimine, HollywoodDownloader,",
+    "ogTitle": "Laadi video alla YouTube'ist - HollywoodDownloader.com",
+    "ogDescription": "Laadige videoid YouTube'ist lihtsalt alla HollywoodDownloader.com abil. Asetage videolingid, vajutage allalaadimisnuppu ja nautige oma lemmiksisu võrguühenduseta.",
+    "twitterTitle": "Laadi video alla YouTube'ist - HollywoodDownloader.com",
+    "twitterDescription": "Laadige videoid YouTube'ist lihtsalt alla HollywoodDownloader.com abil. Asetage videolingid, vajutage allalaadimisnuppu ja nautige oma lemmiksisu võrguühenduseta.",
+    "contentTitle": "HollywoodDownloader.com - Teie ideaalne keskus videote allalaadimiseks!",
+    "content": [
+      "Muutke oma lemmik YouTube'i videod lihtsalt võrguühenduseta aareteks, sisestades videolingi ülaltoodud sisestusväljale ja klõpsates allalaadimisnuppu."
+    ],
+
+    "contentCoution": "Palun märkige: Järgige HollywoodDownloader.com kasutustingimusi vastavalt YouTube'i kasutustingimustele ja autoriõiguse seadustele.",
+    "serviceDesc": "Muutke oma lemmik YouTube'i videod lihtsalt võrguühenduseta aareteks. HollywoodDownloader võimaldab teil konverteerida ja alla laadida YouTube'i videoid MP3, MP4, Webm, 3GP, MP4A kõrge kvaliteediga tasuta.",
+
+    "insrtuctionsHeader": "YouTube'i videote allalaadimine: Samm-sammuline juhend",
+    "instructions": [
+      "1. Kopeerige YouTube'i videolink, mida soovite alla laadida.",
+      "2. Asetage see otsinguväljale.",
+      "3. Valige soovitud video- või helikvaliteet ning klõpsake nuppu „Laadi alla“."
+    ],
+
+    "insrtuctionsMp3Header": "YouTube'i MP3 konverteerimine: Kiire juhend",
+    "insrtuctionsMp4Header": "Teisenda YouTube MP4-ks: Lihtsad ja kiired meetodid",
+
+    "instructionsImageCopy": "Pilt näitab, kuidas kopeerida YouTube'i linki",
+    "instructionsImagePaste": "Pilt näitab, kuidas kleepida YouTube'i link HollywoodDownloader.com otsinguväljale",
+    "instructionsImageDownload": "Pilt näitab, kuidas allalaaditud videot alla laadida",
+
+    "prosHeader": "Miks Hollywood Downloader on parim valik YouTube'i videote allalaadimiseks",
+    "pros": [
+      "Täiesti tasuta.",
+      "Piiramatud allalaadimised.",
+      "Kõrge kiirus.",
+      "Ilma registreerimata",
+      "Toetatud on mitmesugused formaadid ja kvaliteedid."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "HollywoodDownloader võimaldab kasutajatel hõlpsalt alla laadida YouTube Shorts videosid, pakkudes mugavat lahendust lühivormi sisu salvestamiseks ja nautimiseks võrguühenduseta.",
+    "youtubeShortsAlt": "Pilt näitab võimalust alla laadida YouTube Shorts videoid.",
+    "highspeedHeader": "Kõrge kiirus",
+    "highspeed": "Võimaldab kõrge kiirusega allalaadimist YouTube'i videotest, tagades kasutajatele kiire ja efektiivse kogemuse oma lemmiksisu kiireks juurdepääsuks.",
+    "highspeedAlt": "Pilt näitab kõrge kiirusega allalaadimist.",
+    "multiplatformHeader": "Mitmeplatvormiline",
+    "multiplatform": "HollywoodDownloader, mitmekülgne ja mitmeplatvormiline tööriist, võimaldab kasutajatel alla laadida YouTube'i videoid sujuvalt erinevatel seadmetel ja operatsioonisüsteemidel, pakkudes paindlikku ja ligipääsetavat allalaadimislahendust.",
+    "multiplatformAlt": "Pilt näitab mitmeplatvormilist kasutust.",
+    "safeHeader": "Turvaline",
+    "safe": "HollywoodDownloader tagab turvalise allalaadimiskogemuse, kuna see ei nõua registreerumist ega sisselogimist, prioriteerides kasutaja privaatsust ja mugavust YouTube'i videote hõlpsaks hankimiseks.",
+    "safeAlt": "Pilt näitab rakenduse turvalist kasutamist.",
+    "freeHeader": "Täiesti tasuta",
+    "free": "Pakume täiesti tasuta lahendust YouTube'i videote allalaadimiseks, võimaldades kasutajatel piiramatut juurdepääsu oma lemmiksisule ilma igasuguste kuludeta.",
+    "freeAlt": "Pilt näitab, et rakendus on tasuta.",
+    "nolimitHeader": "Piiranguteta",
+    "nolimit": "Pakume piiramatut allalaadimiskogemust, võimaldades kasutajatel alla laadida YouTube'i videoid ilma piiranguteta, pakkudes piiramatut juurdepääsu laiale valikule sisule.",
+    "nolimitAlt": "Pilt näitab, et rakendus võimaldab kasutajatel alla laadida YouTube'i videoid ilma piiranguteta.",
+    "multipleformatsHeader": "Mitmed formaadid",
+    "multipleformats": "HollywoodDownloader toetab mitmesuguseid formaate, sealhulgas MP3, MP4, Webm, 3GP, MP4A ja HD, pakkudes kasutajatele paindlikkust YouTube'i videote allalaadimiseks nende eelistatud formaadis isikliku vaatamiskogemuse jaoks.",
+    "multipleformatsAlt": "Pilt näitab, et rakendus toetab mitmesuguseid formaate.",
+    "mp3Header": "YouTube MP3 konverter",
+    "mp3Text": [
+      "Esitleme meie MP3 YouTube Video Converterit - ülimat tööriista oma lemmik YouTube'i videote vaevatuks muutmiseks kõrgekvaliteedilisteks MP3 helifailideks. See kasutajasõbralik konverter võimaldab teil hõlpsalt välja tõmmata heli mis tahes YouTube'i videost, võimaldades teil luua isikupäraseid esitusloendeid, nautida oma lemmikmuusikat võrguühenduseta või lihtsalt säästa andmeid liikvel olles.",
+      "Meie konverteriga on protsess sama lihtne kui YouTube'i video URL-i kopeerimine ja kleepimine, soovitud helikvaliteedi valimine ning konverteerimisnupu vajutamine. Kogege välkkiireid konversioone, kahjustamata helikvaliteeti. Olgu te olete muusikaarmastaja, podcasti fänn või soovite lihtsalt nautida oma lemmiksisu helivormingus - meie MP3 YouTube Video Converter on mugavaks ja nauditavaks kuulamiselamuseks. Tõstke oma muusikakogu hõlpsasti uuele tasemele ja sukelduge audio tipptaseme maailma meie MP3 YouTube Video Converteriga juba täna."
+    ],
+    "mp4Header": "YouTube MP4 konverter",
+    "mp4Text": [
+      "Kogege meie YouTube MP4 Converteri teenusega sujuvat videomuundust. Teisendage lihtsalt oma lemmik YouTube'i videod kõrgekvaliteedilisteks MP4 failideks nautimiseks võrguühenduseta. Meie kasutajasõbralik platvorm tagab kiire ja vaevatu protsessi, võimaldades teil videoid alla laadida ja salvestada MP4 formaadis vaid mõne klõpsuga. Nautige oma lemmiksisu igal ajal ja igal pool, olgu te liikvel või soovite lihtsalt luua isiklikku meediakogu. Proovige meie YouTube MP4 Converterit täna ja avastage mugavuse maailma videopleieris ja salvestamises."
+    ],
+    "shortsHeader": "YouTube Shorts Video Downloader",
+    "shortsText": [
+      "Esitleme meie tipptasemel YouTube Shorts allalaadimisteenust, mis on mõeldud entusiastidele, kes soovivad hõlpsalt nautida oma lemmik lühivormi videoid igal ajal ja igal pool. Meie kasutajasõbraliku platvormi abil saate hõlpsasti alla laadida YouTube Shorts sisu kõrge kvaliteediga, tagades nauditava vaatamiselamuse liikvel olles. Uurige laia valikut trendikaid ja kaasahaaravaid lühivormi videosid ning vaid mõne klõpsuga muutke need hõlpsasti kättesaadavateks failideks võrguühenduseta nautimiseks. Omaks meie YouTube Shorts allalaadimisteenuse mugavust ja ärge jätke kunagi maha haaravat sisu. Alustage täna oma isikliku raamatukogu loomist!"
+    ],
+    "insrtuctionsShortHeader": "Laadi alla YouTube Shorts: Samm-sammuline juhend",
+    "removeInputTextButton": "Eemalda sisestustekst nupp",
+    "altThumbnail": "Pisipilt"
   }
+}
