@@ -1,6 +1,6 @@
 import React from 'react'
 import { Locale, getDictionary } from '../dictionaries';
-import ContactUs from '@/components/ContactUs';
+import ContactUs from '../../../components/ContactUs';
 
 type Props = {
     params: {

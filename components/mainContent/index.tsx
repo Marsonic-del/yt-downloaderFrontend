@@ -1,9 +1,9 @@
 import React from 'react'
 import style from './style.module.css'
 import Image from 'next/image'
-import copyImageLarge from '@/public/copy-650px.png'
-import pasteImage from '@/public/paste-654px.png'
-import downloadImage from '@/public/download-657px.png'
+import copyImageLarge from '../../public/copy-650px.png'
+import pasteImage from '../../public/paste-654px.png'
+import downloadImage from '../../public/download-657px.png'
 
 type Props = {
   intl: {

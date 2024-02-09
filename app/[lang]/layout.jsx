@@ -99,7 +99,7 @@ export default async function LocaleLayout(props) {
         <Header intl={intl.Index} locale={params.lang} />
         <FormSection intl={intl.Index} />
         {children}
-        <Footer intl={intl.Index} />
+        <Footer intl={intl.Index} locale={params.lang} />
       </body>
     </html>
   );
