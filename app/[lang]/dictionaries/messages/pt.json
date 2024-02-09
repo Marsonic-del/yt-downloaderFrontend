@@ -1,0 +1,84 @@
+{
+  "Index": {
+    "button": "Baixar",
+    "placeholder": "Cole o link do seu vídeo aqui",
+    "showButton": "Mostrar mais",
+    "showLess": "Mostrar menos",
+    "duration": "Duração",
+    "downloadButton": "Baixar",
+    "audioOnly": "Somente áudio",
+    "videoOnly": "Somente vídeo",
+    "headerTitle": "baixar vídeo do youtube",
+    "headerQuestion": "como baixar vídeo do youtube?",
+    "quality": "Qualidade:",
+
+    "title": "Baixar vídeo do YouTube - HollywoodDownloader.com",
+    "description": "Baixe facilmente vídeos do YouTube com HollywoodDownloader.com. Cole o link do vídeo, pressione o botão Baixar e aproveite seu conteúdo favorito offline.",
+    "keywords": "baixar vídeo do YouTube, download de vídeo, HollywoodDownloader,",
+    "ogTitle": "Baixar vídeo do YouTube - HollywoodDownloader.com",
+    "ogDescription": "Baixe facilmente vídeos do YouTube com HollywoodDownloader.com. Cole o link do vídeo, pressione o botão de download e aproveite seu conteúdo favorito offline.",
+    "twitterTitle": "Baixar vídeo do YouTube - HollywoodDownloader.com",
+    "twitterDescription": "Baixe facilmente vídeos do YouTube com HollywoodDownloader.com. Cole o link do vídeo, pressione o botão de download e aproveite seu conteúdo favorito offline.",
+    "contentTitle": "HollywoodDownloader.com - Seu hub perfeito para baixar vídeos!",
+    "content": [
+      "Transforme facilmente seus vídeos favoritos do YouTube em tesouros offline, apenas colando o link do vídeo no campo acima e clicando no botão de download."
+    ],
+
+    "contentCoution": "Por favor, note: Siga os termos de uso do HollywoodDownloader.com de acordo com os termos de serviço do YouTube e as leis de direitos autorais.",
+    "serviceDesc": "Transforme facilmente seus vídeos favoritos do YouTube em tesouros offline. HollywoodDownloader permite que você converta e baixe vídeos do YouTube para MP3, MP4, Webm, 3GP, MP4A em qualidade HD gratuitamente.",
+
+    "insrtuctionsHeader": "Baixar Vídeos do YouTube: Um Guia Passo a Passo",
+    "instructions": ["1. Copie o link do vídeo do YouTube que deseja baixar.",
+      "2. Cole-o no campo de pesquisa.",
+      "3. Selecione a qualidade de vídeo ou áudio desejada e clique no botão \"Baixar\"."
+    ],
+
+    "insrtuctionsMp3Header": "Conversão de YouTube para MP3: Um Guia Rápido",
+    "insrtuctionsMp4Header": "Converter YouTube para MP4: Métodos Fáceis e Rápidos",
+
+    "instructionsImageCopy": "A imagem mostra como copiar o link do YouTube",
+    "instructionsImagePaste": "A imagem mostra como colar o link do YouTube no campo de pesquisa do HollywoodDownloader.com",
+    "instructionsImageDownload": "A imagem mostra como baixar o vídeo encontrado",
+
+    "prosHeader": "Por que o Hollywood Downloader é a melhor escolha para baixar vídeos do Youtube",
+    "pros": [
+      "Totalmente grátis.",
+      "Downloads ilimitados.",
+      "Alta velocidade.",
+      "Sem inscrição",
+      "Suporta vários formatos e qualidades."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "O HollywoodDownloader permite que os usuários baixem vídeos do YouTube Shorts sem esforço, oferecendo uma solução conveniente para salvar e desfrutar de conteúdo de curta duração offline.",
+    "youtubeShortsAlt": "A imagem mostra a possibilidade de baixar vídeos do YouTube Shorts.",
+    "highspeedHeader": "Alta velocidade",
+    "highspeed": "Permite downloads de alta velocidade de vídeos do YouTube, garantindo uma experiência rápida e eficiente para usuários que buscam acesso rápido ao seu conteúdo favorito.",
+    "highspeedAlt": "A imagem mostra o download em alta velocidade.",
+    "multiplatformHeader": "Multiplataforma",
+    "multiplatform": "O HollywoodDownloader, uma ferramenta versátil e multiplataforma, capacita os usuários a baixar vídeos do YouTube perfeitamente em vários dispositivos e sistemas operacionais, oferecendo uma solução de download flexível e acessível.",
+    "multiplatformAlt": "A imagem mostra o uso multiplataforma.",
+    "safeHeader": "Seguro",
+    "safe": "O HollywoodDownloader garante uma experiência de download segura, pois não requer inscrição ou login, priorizando a privacidade e a conveniência do usuário ao obter vídeos do YouTube sem complicações.",
+    "safeAlt": "A imagem mostra o uso seguro do aplicativo.",
+    "freeHeader": "Totalmente grátis",
+    "free": "Oferecemos uma solução totalmente gratuita para baixar vídeos do YouTube, proporcionando aos usuários acesso irrestrito ao seu conteúdo favorito sem custo algum.",
+    "freeAlt": "A imagem mostra que o aplicativo é gratuito.",
+    "nolimitHeader": "Sem limite",
+    "nolimit": "Apresentamos uma experiência de download ilimitada, permitindo que os usuários baixem vídeos do YouTube sem restrições quanto ao número de downloads, oferecendo acesso irrestrito a uma ampla variedade de conteúdo.",
+    "nolimitAlt": "A imagem mostra que o aplicativo permite que os usuários baixem vídeos do YouTube sem restrições quanto ao número de downloads.",
+    "multipleformatsHeader": "Múltiplos formatos",
+    "multipleformats": "O HollywoodDownloader suporta uma variedade de formatos, incluindo MP3, MP4, Webm, 3GP, MP4A e HD, oferecendo aos usuários a flexibilidade de baixar vídeos do YouTube no formato desejado para uma experiência de visualização personalizada.",
+    "multipleformatsAlt": "A imagem mostra que o aplicativo suporta uma variedade de formatos.",
+    "mp3Header": "Conversor de YouTube para MP3",
+    "mp3Text": ["Apresentamos nosso Conversor de Vídeo MP3 YouTube - a ferramenta definitiva para transformar perfeitamente seus vídeos favoritos do YouTube em arquivos de áudio MP3 de alta qualidade. Este conversor fácil de usar permite que você extraia o áudio de qualquer vídeo do YouTube, permitindo que você crie listas de reprodução personalizadas, aproveite sua música favorita offline ou simplesmente economize dados enquanto estiver em movimento.",
+      "Com nosso conversor, o processo é tão simples quanto copiar e colar o URL do vídeo do YouTube, selecionar a qualidade de áudio desejada e clicar no botão de conversão. Experimente conversões rápidas sem comprometer a fidelidade do áudio. Seja você um entusiasta da música, amante de podcasts ou apenas queira curtir seu conteúdo favorito em formato de áudio, nosso Conversor de Vídeo MP3 YouTube é a solução ideal para uma experiência de audição conveniente e agradável. Atualize sua biblioteca de música sem esforço e mergulhe no mundo da excelência auditiva com nosso Conversor de Vídeo MP3 YouTube hoje."],
+    "mp4Header": "Conversor de YouTube para MP4",
+    "mp4Text": ["Experimente uma transformação perfeita de vídeo com nosso serviço de Conversor YouTube MP4. Converta sem esforço seus vídeos favoritos do YouTube em arquivos MP4 de alta qualidade para desfrute offline. Nossa plataforma fácil de usar garante um processo rápido e sem complicações, permitindo que você baixe e salve vídeos no formato MP4 com apenas alguns cliques. Aproveite seu conteúdo favorito a qualquer momento e em qualquer lugar, esteja você em movimento ou simplesmente procurando construir sua biblioteca de mídia pessoal. Experimente nosso Conversor YouTube MP4 hoje e desbloqueie um mundo de conveniência na reprodução e armazenamento de vídeos."],
+    "shortsHeader": "Baixar Vídeo do YouTube Shorts",
+    "shortsText": ["Apresentamos nosso serviço de download avançado para vídeos YouTube Shorts, projetado para entusiastas que desejam desfrutar perfeitamente de seus vídeos de curta duração favoritos a qualquer momento e em qualquer lugar. Com nossa plataforma fácil de usar, você pode baixar conteúdo YouTube Shorts com facilidade e alta qualidade, garantindo uma experiência agradável de visualização em movimento. Explore uma ampla coleção de vídeos curtos e envolventes e, com apenas alguns cliques, transforme-os em arquivos facilmente acessíveis para desfrute offline. Adote a conveniência de nosso serviço de download de vídeos YouTube Shorts e nunca perca um momento de conteúdo cativante. Comece a construir sua biblioteca pessoal hoje!"],
+    "insrtuctionsShortHeader": "Baixar Vídeos do YouTube Shorts: Um Guia Passo a Passo",
+    "removeInputTextButton": "Remover botão de texto de entrada",
+    "altThumbnail": "miniatura"
+  }
+}

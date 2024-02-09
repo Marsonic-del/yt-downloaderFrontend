@@ -14,7 +14,6 @@ const Main = ({ intl }) => {
 
     return (
         <main className={styles.main}>
-
             <ServiceDescription intl={intl} />
             <DescriptionBox intl={intl} />
             <MainContent intl={intl} header={intl.insrtuctionsHeader} />

@@ -5,8 +5,8 @@ import Button from '../button'
 import styles from './style.module.css'
 import { useFormik } from "formik";
 import * as Yup from "yup";
-import youtubeUrl from 'youtube-url';
 import removeButton from '../../public/removeButton.svg'
+import { YouTubeURLParser } from "@iktakahiro/youtube-url-parser"
 
 const validationSchema = Yup.object({
   youtubeLink: Yup.string()
@@ -14,16 +14,15 @@ const validationSchema = Yup.object({
     .test(
       'is-youtube-link',
       'Invalid YouTube URL',
-      (value) => value && (value.startsWith('https://www.youtube.com/shorts/') || youtubeUrl.valid(value))
+      (value) => new YouTubeURLParser(value).isValid()
     )
     .required(''),
 });
 
 
 const FormComponent = ({ intl, handleSubmit }) => {
-  //const [isValidYoutubeLink, setIsValidYoutubeLink] = useState(false);
+  const [isSubmitted, setIsSubmitted] = useState(false);
   const formRef = useRef();
-
   const formik = useFormik({
     initialValues: {
       youtubeLink: "",
@@ -37,16 +36,25 @@ const FormComponent = ({ intl, handleSubmit }) => {
   const { errors, values, handleChange } = formik;
 
   useEffect(() => {
-    if (values.youtubeLink && formik.isValid) {
-      formik.submitForm(); // Use submitForm provided by Formik
+    if (!isSubmitted) {
+      if (values.youtubeLink && formik.isValid) {
+        formik.submitForm();
+        setIsSubmitted(true);
+      }
     }
-  }, [formik.isValid, values.youtubeLink]);
+
+  }, [isSubmitted, formik, values.youtubeLink]);
 
 
 
   return (
     <search className={styles.form}>
-      <form ref={formRef} onSubmit={formik.onSubmit} >
+      <form ref={formRef} onSubmit={
+        (e) => {
+          e.preventDefault();
+          formik.handleSubmit(e)
+        }
+      } noValidate>
         <div className={styles.wrapper}>
           <div className={styles.container}>
             <input

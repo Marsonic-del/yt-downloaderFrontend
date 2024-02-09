@@ -1,0 +1,83 @@
+{
+    "Index": {
+        "button": "Prenesi",
+        "placeholder": "Prilepite svojo povezavo do videa tukaj",
+        "showButton": "Pokaži več",
+        "showLess": "Pokaži manj",
+        "duration": "Trajanje",
+        "downloadButton": "Prenesi",
+        "audioOnly": "Samo zvok",
+        "videoOnly": "Samo video",
+        "headerTitle": "Prenos videa s platforme YouTube",
+        "headerQuestion": "Kako prenesti video s platforme YouTube?",
+        "quality": "Kakovost:",
+      
+        "title": "Prenesite video s platforme YouTube - HollywoodDownloader.com",
+        "description": "Enostavno prenesite videe s platforme YouTube z HollywoodDownloader.com. Prilepite povezavo do videa, pritisnite gumb Prenesi in uživajte v svoji najljubši vsebini brez povezave.",
+        "keywords": "prenos videa s platforme YouTube, prenos videa, HollywoodDownloader",
+        "ogTitle": "Prenesite video s platforme YouTube - HollywoodDownloader.com",
+        "ogDescription": "Enostavno prenesite videe s platforme YouTube z HollywoodDownloader.com. Prilepite povezavo do videa, pritisnite gumb Prenesi in uživajte v svoji najljubši vsebini brez povezave.",
+        "twitterTitle": "Prenesite video s platforme YouTube - HollywoodDownloader.com",
+        "twitterDescription": "Enostavno prenesite videe s platforme YouTube z HollywoodDownloader.com. Prilepite povezavo do videa, pritisnite gumb Prenesi in uživajte v svoji najljubši vsebini brez povezave.",
+        "contentTitle": "HollywoodDownloader.com - Vaš popoln center za prenose videov!",
+        "content": [
+          "Enostavno spremenite svoje najljubše videe s platforme YouTube v offline zaklade, tako da preprosto prilepite povezavo do videa v zgornje vhodno polje in kliknete gumb za prenos."
+        ],
+      
+        "contentCoution": "Prosimo, upoštevajte: Upoštevajte pogoje uporabe storitve HollywoodDownloader.com v skladu s pogoji storitve YouTube in avtorskimi pravicami.",
+        "serviceDesc": "Enostavno pretvorite svoje najljubše videe s platforme YouTube v offline zaklade. HollywoodDownloader vam omogoča pretvorbo in prenos videa s platforme YouTube v MP3, MP4, Webm, 3GP, MP4A v visoki kakovosti brezplačno.",
+        "insrtuctionsHeader": "Prenos videov s platforme YouTube: Vodnik korak za korakom",
+        "instructions": ["1. Kopirajte povezavo do videa s platforme YouTube, ki ga želite prenesti.",
+          "2. Prilepite jo v iskalno polje.",
+          "3. Izberite želeno kakovost videa ali zvoka in kliknite gumb »Prenesi«."
+        ],
+      
+        "insrtuctionsMp3Header": "Pretvorba v MP3 iz platforme YouTube: Hiter vodnik",
+        "insrtuctionsMp4Header": "Pretvorba v MP4 iz platforme YouTube: Preprosti in hitri načini",
+      
+        "instructionsImageCopy": "Slika prikazuje, kako kopirati povezavo do videa s platforme YouTube",
+        "instructionsImagePaste": "Slika prikazuje, kako prilepiti povezavo do videa s platforme YouTube v iskalno polje na HollywoodDownloader.com",
+        "instructionsImageDownload": "Slika prikazuje, kako prenesti najdeni video",
+      
+        "prosHeader": "Zakaj je Hollywood Downloader najboljša izbira za prenose videov s platforme YouTube",
+        "pros": [
+          "Popolnoma brezplačno.",
+          "Neomejeni prenosi.",
+          "Visoka hitrost.",
+          "Brez prijave",
+          "Podprti so različni formati in kakovosti."
+        ],
+      
+        "youtubeShortsHeader": "YouTube Shorts",
+        "youtubeShorts": "HollywoodDownloader uporabnikom omogoča preprosto prenašanje videov s platforme YouTube Shorts, zagotavljajoč priročno rešitev za shranjevanje in uživanje v kratkih vsebinah brez povezave.",
+        "youtubeShortsAlt": "Slika prikazuje možnost prenosa videov s platforme YouTube Shorts.",
+        "highspeedHeader": "Visoka hitrost",
+        "highspeed": "Omogoča hitro prenašanje videov s platforme YouTube, zagotavljajoč uporabnikom hiter in učinkovit dostop do njihove najljubše vsebine.",
+        "highspeedAlt": "Slika prikazuje hitro prenašanje videov.",
+        "multiplatformHeader": "Večplatformnost",
+        "multiplatform": "HollywoodDownloader, vsestransko in večplatformno orodje, omogoča uporabnikom brezhibno prenašanje videov s platforme YouTube prek različnih naprav in operacijskih sistemov, ponuja prilagodljivo in dostopno rešitev za prenose.",
+        "multiplatformAlt": "Slika prikazuje večplatformno uporabo.",
+        "safeHeader": "Varno ",
+        "safe": "HollywoodDownloader zagotavlja varno izkušnjo prenosa, saj ni potrebna prijava, prednost pa daje zasebnosti in udobju uporabnika pri prejemanju videov s platforme YouTube brez težav.",
+        "safeAlt": "Slika prikazuje varno uporabo aplikacije.",
+        "freeHeader": "Popolnoma brezplačno",
+        "free": "Ponujamo popolnoma brezplačno rešitev za prenose videov s platforme YouTube, kar uporabnikom omogoča neomejen dostop do njihove najljubše vsebine brezplačno.",
+        "freeAlt": "Slika prikazuje, da je aplikacija brezplačna.",
+        "nolimitHeader": "Brez omejitev",
+        "nolimit": "Predstavljamo neomejeno izkušnjo prenosa, ki uporabnikom omogoča prenašanje videov s platforme YouTube brez omejitev glede števila prenosov, kar zagotavlja neomejen dostop do široke palete vsebin.",
+        "nolimitAlt": "Slika prikazuje, da aplikacija uporabnikom omogoča prenašanje videov s platforme YouTube brez omejitev glede števila prenosov.",
+        "multipleformatsHeader": "Različni formati",
+        "multipleformats": "HollywoodDownloader podpira različne formate, vključno z MP3, MP4, Webm, 3GP, MP4A in HD, kar uporabnikom omogoča, da videe s platforme YouTube prenašajo v želenem formatu za personalizirano izkušnjo gledanja.",
+        "multipleformatsAlt": "Slika prikazuje, da aplikacija podpira različne formate.",
+        "mp3Header": "Pretvornik YouTube v MP3",
+        "mp3Text": ["Predstavljamo naš Pretvornik MP3 YouTube Video - ultimativno orodje za brezhibno preoblikovanje vaših najljubših videov s platforme YouTube v visokokakovostne zvočne datoteke MP3. Ta uporabniku prijazen pretvornik vam omogoča enostavno izvlečenje zvoka iz katerega koli videa s platforme YouTube, kar vam omogoča ustvarjanje osebnih seznamov predvajanja, uživanje v najljubši glasbi brez povezave ali enostavno varčevanje s podatki med potovanjem.",
+      "S pretvornikom je postopek tako preprost kot kopiranje in prilepljanje povezave do videa s platforme YouTube, izbira želene kakovosti zvoka in klik na gumb za pretvorbo. Doživite bliskovite pretvorbe brez ogrožanja zvestobe zvoka. Ali ste ljubitelj glasbe, navdušenec nad podcasti ali želite samo uživati v svoji najljubši vsebini v zvočni obliki, naš Pretvornik MP3 YouTube Video je idealna rešitev za priročno in uživljajočo doživetje poslušanja. Svojo glasbeno knjižnico nadgradite brez težav in se potopite v svet zvočne odličnosti z našim Pretvornikom MP3 YouTube Video še danes."],
+      "mp4Header": "Pretvornik YouTube v MP4",
+      "mp4Text": ["Doživite brezhibno pretvarjanje videa z našo storitvijo Pretvornik MP4 YouTube. Brez težav pretvorite svoje najljubše videe s platforme YouTube v visokokakovostne datoteke MP4 za uživanje brez povezave. Naša uporabniku prijazna platforma zagotavlja hiter in brezskrben postopek, ki vam omogoča prenos in shranjevanje videov v formatu MP4 z le nekaj kliki. Uživajte v svoji najljubši vsebini kadar koli in kjer koli, ali ste na poti ali preprosto želite ustvariti svojo osebno medijsko knjižnico. Poskusite naš Pretvornik MP4 YouTube danes in odklenite svet udobja pri predvajanju in shranjevanju videov."],
+      "shortsHeader": "Prenos videov YouTube Shorts",
+      "shortsText": ["Predstavljamo našo napredno storitev prenosa YouTube Shorts, zasnovano za navdušence, ki želijo nemoteno uživati v svojih najljubših videih v kratki obliki kadar koli in kjerkoli. S pomočjo naše uporabniku prijazne platforme lahko brez težav prenesete vsebino YouTube Shorts visoke kakovosti in zagotovite prijetno izkušnjo gledanja med potovanjem. Raziščite obsežno zbirko trendovskih in privlačnih posnetkov in jih z le nekaj kliki pretvorite v enostavno dostopne datoteke za uživanje brez povezave. Sprejmite udobje naše storitve prenosa YouTube Shorts in nikoli ne zamudite trenutka očarljive vsebine. Začnite graditi svojo osebno knjižnico danes!"],
+      "insrtuctionsShortHeader": "Prenos YouTube Shorts: Vodnik korak za korakom",
+      "removeInputTextButton": "Odstrani gumb za vnos besedila",
+      "altThumbnail": "sličica"
+        }
+      }

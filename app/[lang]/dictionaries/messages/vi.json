@@ -1,0 +1,86 @@
+{
+    "Index": {
+        "button": "Tải về",
+        "placeholder": "Dán liên kết video của bạn ở đây",
+        "showButton": "Hiển thị thêm",
+        "showLess": "Hiển thị ít hơn",
+        "duration": "Thời lượng",
+        "downloadButton": "Tải về",
+        "audioOnly": "Âm thanh only",
+        "videoOnly": "Video only",
+        "headerTitle": "Tải video từ YouTube",
+        "headerQuestion": "Làm thế nào để tải video từ YouTube?",
+        "quality": "Chất lượng",
+      
+        "title": "Tải video từ YouTube - HollywoodDownloader.com",
+        "description": "Dễ dàng tải video từ YouTube với HollywoodDownloader.com. Dán liên kết video, nhấn nút Tải về và thưởng thức nội dung yêu thích của bạn ngoại tuyến.",
+        "keywords": "Tải video từ YouTube, tải video, HollywoodDownloader,",
+        "ogTitle": "Tải video từ YouTube - HollywoodDownloader.com",
+        "ogDescription": "Dễ dàng tải video từ YouTube với HollywoodDownloader.com. Dán liên kết video, nhấn nút tải về và thưởng thức nội dung yêu thích của bạn ngoại tuyến.",
+        "twitterTitle": "Tải video từ YouTube - HollywoodDownloader.com",
+        "twitterDescription": "Dễ dàng tải video từ YouTube với HollywoodDownloader.com. Dán liên kết video, nhấn nút tải về và thưởng thức nội dung yêu thích của bạn ngoại tuyến.",
+        "contentTitle": "HollywoodDownloader.com - Trung tâm hoàn hảo của bạn để tải video!",
+        "content": [
+          "Dễ dàng biến những video YouTube yêu thích của bạn thành những kho báu ngoại tuyến bằng cách đơn giản dán liên kết video vào ô đầu vào ở trên và nhấp vào nút tải về."
+        ],
+      
+        "contentCoution": "Vui lòng lưu ý: Tuân theo các điều khoản sử dụng của HollywoodDownloader.com theo điều khoản dịch vụ và luật bản quyền của YouTube.",
+        "serviceDesc": "Dễ dàng biến những video YouTube yêu thích của bạn thành những kho báu ngoại tuyến. HollywoodDownloader cho phép bạn chuyển đổi và tải video từ YouTube, sang các định dạng MP3, MP4, Webm, 3GP, MP4A với chất lượng HD miễn phí.",
+      
+        "insrtuctionsHeader": "Tải video YouTube: Hướng dẫn từng bước",
+        "instructions": [
+          "1. Sao chép liên kết video YouTube bạn muốn tải về.",
+          "2. Dán vào ô tìm kiếm.",
+          "3. Chọn chất lượng Video hoặc Âm thanh bạn cần và nhấp vào nút \"Tải về\"."
+        ],
+      
+        "insrtuctionsMp3Header": "Chuyển đổi YouTube sang MP3: Hướng dẫn nhanh chóng",
+        "insrtuctionsMp4Header": "Chuyển đổi YouTube sang MP4: Phương pháp dễ dàng và nhanh chóng",
+      
+        "instructionsImageCopy": "Hình ảnh hướng dẫn cách sao chép liên kết YouTube",
+        "instructionsImagePaste": "Hình ảnh hướng dẫn cách dán liên kết YouTube vào ô tìm kiếm HollywoodDownloader.com",
+        "instructionsImageDownload": "Hình ảnh hướng dẫn cách tải video đã tìm thấy",
+      
+        "prosHeader": "Tại sao Hollywood Downloader là lựa chọn tốt nhất để tải video YouTube",
+        "pros": [
+          "Hoàn toàn miễn phí.",
+          "Không giới hạn tải về.",
+          "Tốc độ cao.",
+          "Không cần Đăng ký",
+          "Hỗ trợ nhiều định dạng và chất lượng."
+        ],
+      
+        "youtubeShortsHeader": "YouTube Shorts",
+        "youtubeShorts": "HollywoodDownloader cho phép người dùng dễ dàng tải video YouTube Shorts, cung cấp giải pháp thuận tiện để lưu giữ và tận hưởng nội dung ngắn gọn ngoại tuyến.",
+        "youtubeShortsAlt": "Hình ảnh cho thấy khả năng tải video YouTube Shorts.",
+        "highspeedHeader": "Tốc độ cao",
+        "highspeed": "Cho phép tải về video YouTube với tốc độ cao, đảm bảo một trải nghiệm nhanh chóng và hiệu quả cho người dùng muốn truy cập nhanh chóng đến nội dung yêu thích của họ.",
+        "highspeedAlt": "Hình ảnh cho thấy tải về với tốc độ cao.",
+        "multiplatformHeader": "Đa nền tảng",
+        "multiplatform": "HollywoodDownloader, một công cụ linh hoạt và đa nền tảng, giúp người dùng tải video YouTube một cách mượt mà trên nhiều thiết bị và hệ điều hành khác nhau, mang đến một giải pháp tải về linh hoạt và tiện lợi.",
+        "multiplatformAlt": "Hình ảnh cho thấy việc sử dụng đa nền tảng.",
+        "safeHeader": "An toàn",
+        "safe": "HollywoodDownloader đảm bảo một trải nghiệm tải về an toàn mà không cần đăng ký, ưu tiên quyền riêng tư và tiện lợi của người dùng khi có được video YouTube một cách dễ dàng.",
+        "safeAlt": "Hình ảnh cho thấy cách ứng dụng được sử dụng an toàn.",
+        "freeHeader": "Hoàn toàn miễn phí",
+        "free": "Chúng tôi cung cấp một giải pháp hoàn toàn miễn phí để tải video YouTube, mang lại quyền truy cập không hạn chế vào nội dung yêu thích mà không tốn phí.",
+        "freeAlt": "Hình ảnh cho thấy ứng dụng miễn phí.",
+        "nolimitHeader": "Không giới hạn",
+        "nolimit": "Chúng tôi mang đến một trải nghiệm tải về không giới hạn, cho phép người dùng tải video YouTube mà không có bất kỳ hạn chế nào về số lượng tải về, cung cấp quyền truy cập không hạn chế vào một loạt nội dung đa dạng.",
+        "nolimitAlt": "Hình ảnh cho thấy ứng dụng cho phép người dùng tải video YouTube mà không có bất kỳ hạn chế nào về số lượng tải về.",
+        "multipleformatsHeader": "Nhiều định dạng",
+        "multipleformats": "HollywoodDownloader hỗ trợ nhiều định dạng, bao gồm MP3, MP4, Webm, 3GP, MP4A và HD, mang lại cho người dùng sự linh hoạt để tải về video YouTube theo định dạng ưa thích của họ để có trải nghiệm xem cá nhân.",
+        "multipleformatsAlt": "Hình ảnh cho thấy ứng dụng hỗ trợ nhiều định dạng.",
+        "mp3Header": "Chuyển đổi Youtube sang MP3",
+        "mp3Text": ["Giới thiệu bộ chuyển đổi video MP3 YouTube của chúng tôi - công cụ tối ưu để dễ dàng chuyển đổi video YouTube yêu thích của bạn thành các tệp âm thanh MP3 chất lượng cao. Bộ chuyển đổi thân thiện với người dùng này cho phép bạn dễ dàng trích xuất âm thanh từ bất kỳ video YouTube nào, giúp bạn tạo danh sách phát cá nhân, thưởng thức âm nhạc yêu thích của bạn ngoại tuyến hoặc đơn giản là tiết kiệm dữ liệu khi bạn đang di chuyển.",
+          "Với bộ chuyển đổi của chúng tôi, quy trình chỉ đơn giản như sao chép và dán URL video YouTube, chọn chất lượng âm thanh mong muốn và nhấn nút chuyển đổi. Trải nghiệm quá trình chuyển đổi nhanh chóng mà không làm suy giảm chất lượng âm thanh. Cho dù bạn là người yêu âm nhạc, người hâm mộ podcast hoặc chỉ muốn thưởng thức nội dung yêu thích của bạn dưới dạng âm thanh, bộ chuyển đổi video MP3 YouTube của chúng tôi là giải pháp lựa chọn cho một trải nghiệm lắng nghe thuận tiện và dễ thưởng thức. Nâng cấp thư viện âm nhạc của bạn một cách dễ dàng và đắm chìm trong thế giới xuất sắc của âm nhạc với bộ chuyển đổi video MP3 YouTube của chúng tôi ngay hôm nay."],
+        "mp4Header": "Chuyển đổi Youtube sang MP4",
+        "mp4Text": ["Trải nghiệm quá trình chuyển đổi video mượt mà với dịch vụ Chuyển đổi MP4 YouTube của chúng tôi. Dễ dàng chuyển đổi video YouTube yêu thích của bạn thành các tệp MP4 chất lượng cao để thưởng thức ngoại tuyến. Nền tảng thân thiện với người dùng của chúng tôi đảm bảo quy trình nhanh chóng và không gặp vấn đề, cho phép bạn tải và lưu trữ video dưới định dạng MP4 chỉ với vài cú nhấp chuột. Thưởng thức nội dung yêu thích của bạn bất cứ khi nào, ở bất kỳ đâu, cho dù bạn đang di chuyển hay chỉ đơn giản là muốn xây dựng thư viện đa phương tiện cá nhân của mình. Hãy thử nghiệm Dịch vụ Chuyển đổi MP4 YouTube của chúng tôi ngay hôm nay và mở khóa thế giới tiện lợi trong phát lại video và lưu trữ."],
+        "shortsHeader": "Trình tải video YouTube Shorts",
+        "shortsText": ["Giới thiệu dịch vụ tải video YouTube Shorts tiên tiến của chúng tôi, được thiết kế cho những người đam mê muốn thưởng thức mượt mà những video ngắn yêu thích của họ bất cứ khi nào, ở bất kỳ đâu. Với nền tảng thân thiện với người dùng của chúng tôi, bạn có thể dễ dàng tải nội dung video YouTube Shorts với chất lượng cao, đảm bảo một trải nghiệm xem thú vị khi bạn đang di chuyển. Khám phá bộ sưu tập rộng lớn của những video ngắn phổ biến và hấp dẫn, và chỉ với vài cú nhấp chuột, biến chúng thành các tệp dễ truy cập để thưởng thức ngoại tuyến. Đón nhận sự thuận tiện của dịch vụ tải video YouTube Shorts của chúng tôi và đừng bao giờ bỏ lỡ khoảnh khắc của nội dung hấp dẫn. Bắt đầu xây dựng thư viện cá nhân của bạn ngay hôm nay!"],
+        "insrtuctionsShortHeader": "Tải video YouTube Shorts: Hướng dẫn từng bước",
+        "removeInputTextButton": "Xóa nút văn bản đầu vào",
+        "altThumbnail": "Ảnh xem trước"
+      }
+      
+}

@@ -1,0 +1,85 @@
+{
+  "Index": {
+    "button": "ダウンロード",
+    "placeholder": "ここにビデオリンクを貼り付け",
+    "showButton": "詳細表示",
+    "showLess": "詳細非表示",
+    "duration": "再生時間",
+    "downloadButton": "ダウンロード",
+    "audioOnly": "音声のみ",
+    "videoOnly": "動画のみ",
+    "headerTitle": "YouTubeからビデオをダウンロード",
+    "headerQuestion": "YouTubeからビデオをダウンロードする方法は？",
+    "quality": "品質:",
+
+    "title": "YouTubeからビデオをダウンロード - HollywoodDownloader.com",
+    "description": "HollywoodDownloader.comを使用して簡単にYouTubeの動画をダウンロードしてください。ビデオリンクを貼り付け、ダウンロードボタンを押して、お気に入りのコンテンツをオフラインで楽しんでください。",
+    "keywords": "YouTubeからビデオをダウンロード, ビデオダウンロード, HollywoodDownloader,",
+    "ogTitle": "YouTubeからビデオをダウンロード - HollywoodDownloader.com",
+    "ogDescription": "HollywoodDownloader.comを使用して簡単にYouTubeの動画をダウンロードしてください。ビデオリンクを貼り付け、ダウンロードボタンを押して、お気に入りのコンテンツをオフラインで楽しんでください。",
+    "twitterTitle": "YouTubeからビデオをダウンロード - HollywoodDownloader.com",
+    "twitterDescription": "HollywoodDownloader.comを使用して簡単にYouTubeの動画をダウンロードしてください。ビデオリンクを貼り付け、ダウンロードボタンを押して、お気に入りのコンテンツをオフラインで楽しんでください。",
+    "contentTitle": "HollywoodDownloader.com - ビデオをダウンロードするためのパーフェクトハブ!",
+    "content": [
+      "上の入力フィールドにビデオリンクを貼り付けてダウンロードボタンをクリックするだけで、お気に入りのYouTube動画を簡単にオフラインに変えることができます。"
+    ],
+
+    "contentCoution": "ご注意: HollywoodDownloader.comの利用規約に従ってYouTubeの利用規約と著作権法を守ってください。",
+    "serviceDesc": "お気に入りのYouTube動画を簡単にオフラインに変える。 HollywoodDownloaderを使用して、MP3、MP4、Webm、3GP、MP4Aに無料で高品質に変換＆ダウンロードできます。",
+
+    "insrtuctionsHeader": "YouTube動画のダウンロード：ステップバイステップガイド",
+    "instructions": ["1. ダウンロードしたいYouTubeのビデオリンクをコピーします。",
+      "2. 検索フィールドに貼り付けます。",
+      "3. 必要なビデオまたはオーディオ品質を選択して、「ダウンロード」ボタンをクリックします。"
+    ],
+
+    "insrtuctionsMp3Header": "YouTubeからMP3への変換：クイックガイド",
+    "insrtuctionsMp4Header": "YouTubeをMP4に変換：簡単で高速な方法",
+
+    "instructionsImageCopy": "画像はYouTubeリンクをコピーする方法を示しています",
+    "instructionsImagePaste": "画像はYouTubeリンクをHollywoodDownloader.comの検索フィールドに貼り付ける方法を示しています",
+    "instructionsImageDownload": "画像は見つかったビデオをダウンロードする方法を示しています",
+
+    "prosHeader": "Hollywood DownloaderがYouTube動画をダウンロードするためのベストチョイスである理由",
+    "pros": [
+      "完全無料。",
+      "無制限のダウンロード。",
+      "高速。",
+      "サインアップなし",
+      "さまざまなフォーマットと品質がサポートされています。"
+    ],
+
+
+    "youtubeShortsHeader": "YouTube Shorts",
+  "youtubeShorts": "HollywoodDownloaderを使用すれば、YouTube Shortsの動画を簡単にダウンロードでき、オフラインでショートフォームのコンテンツを保存して楽しむための便利なソリューションを提供します。",
+  "youtubeShortsAlt": "画像はYouTube Shortsの動画をダウンロードできる可能性を示しています。",
+  "highspeedHeader": "High-speed",
+  "highspeed": "YouTube動画の高速ダウンロードを可能にし、お気に入りのコンテンツに迅速かつ効率的にアクセスしたいユーザーに優れた体験を提供します。",
+  "highspeedAlt": "画像は高速ダウンロードを示しています。",
+  "multiplatformHeader": "Multiplatform",
+  "multiplatform": "HollywoodDownloaderは多様でマルチプラットフォームなツールで、ユーザーに異なるデバイスやオペレーティングシステムを横断してYouTube動画をシームレスにダウンロードする力を与え、柔軟でアクセス可能なダウンロードソリューションを提供します。",
+  "multiplatformAlt": "画像はマルチプラットフォームの使用を示しています。",
+  "safeHeader": "Safe",
+  "safe": "HollywoodDownloaderはサインアップやサインインが不要で安全なダウンロード体験を提供し、YouTube動画を手間なく入手する際にユーザーのプライバシーと便利さを重視しています。",
+  "safeAlt": "画像はアプリの安全な使用を示しています。",
+  "freeHeader": "Absolutely free",
+  "free": "YouTube動画をダウンロードするための完全に無料のソリューションを提供し、ユーザーにお気に入りのコンテンツへの制限なしのアクセスを提供します。",
+  "freeAlt": "画像はアプリが無料であることを示しています。",
+  "nolimitHeader": "No limit",
+  "nolimit": "制限のないダウンロード体験を提供し、ユーザーがダウンロード回数に制限なくYouTube動画をダウンロードし、さまざまなコンテンツに無制限のアクセスを提供します。",
+  "nolimitAlt": "画像はアプリがダウンロード回数に制限なくYouTube動画をダウンロードできることを示しています。",
+  "multipleformatsHeader": "Multiple formats",
+  "multipleformats": "HollywoodDownloaderはMP3、MP4、Webm、3GP、MP4A、HDなど、さまざまな形式をサポートし、ユーザーが好みの形式でYouTube動画をダウンロードし、個人の視聴体験をカスタマイズできる柔軟性を提供します。",
+  "multipleformatsAlt": "画像はアプリがさまざまな形式をサポートしていることを示しています。",
+  "mp3Header": "Youtube MP3 converter",
+  "mp3Text": ["当社のMP3 YouTubeビデオコンバーターをご紹介します - お気に入りのYouTube動画をシームレスに高品質のMP3オーディオファイルに変換する究極のツール。この使いやすいコンバーターでは、任意のYouTube動画から音声を簡単に抽出し、パーソナライズされたプレイリストを作成したり、お気に入りの音楽をオフラインで楽しんだり、移動中にデータを節約したりすることができます。",
+  "当社のコンバーターでは、プロセスはYouTube動画のURLをコピーして貼り付け、希望するオーディオ品質を選択し、変換ボタンをクリックするだけの簡単なものです。音声の忠実度を損なうことなく、高速変換を体験してください。音楽愛好家、ポッドキャスト愛好者、または単にお気に入りのコンテンツを音声で楽しみたい方にとって、当社のMP3 YouTubeビデオコンバーターは便利で楽しい聴取体験のための頼りになるソリューションです。音楽ライブラリを簡単にアップグレードして、今すぐ音声優位の世界に飛び込んでください。"],
+  "mp4Header": "Youtube MP4 converter",
+  "mp4Text": ["当社のYouTube MP4コンバーターサービスでシームレスなビデオ変換を体験してください。お気に入りのYouTube動画を高品質のMP4ファイルに簡単に変換できます。当社の使いやすいプラットフォームは、数クリックでMP4形式で動画をダウンロードして保存できる迅速かつ手間のかからないプロセスを確実にします。いつでもどこでもお気に入りのコンテンツをお楽しみください。移動中でも、個人のメディアライブラリを構築している最中でも、当社のYouTube MP4コンバーターを試して、ビデオ再生と保存の利便性を解放してください。"],
+  "shortsHeader": "YouTube Shorts Video Downloader",
+  "shortsText": ["最新鋭のYouTube Shortsダウンロードサービスをご紹介します。どこでもいつでもお気に入りの短編動画をシームレスに楽しむために設計され、切り替えの容易なプラットフォームを使用して、YouTube Shortsのコンテンツを高品質で簡単にダウンロードできます。トレンドのあるエンゲージングな短編動画の広範なコレクションを探索し、数クリックでそれらをオフラインで利用可能なファイルに変換します。YouTube Shortsダウンロードサービスの便利さを受け入れ、魅力的なコンテンツの瞬間を逃さないようにしましょう。今日から個人のライブラリを構築し始めてください！"],
+  "insrtuctionsShortHeader": "Download YouTube Shorts: ステップバイステップガイド",
+  "removeInputTextButton": "入力テキストボタンを削除",
+  "altThumbnail": "サムネイル"
+  }
+}

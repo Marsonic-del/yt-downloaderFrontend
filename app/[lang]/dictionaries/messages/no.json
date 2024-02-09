@@ -1,0 +1,84 @@
+{
+  "Index": {
+    "button": "Last ned",
+    "placeholder": "Lim inn video-lenken din her",
+    "showButton": "Vis mer",
+    "showLess": "Vis mindre",
+    "duration": "Varighet",
+    "downloadButton": "Last ned",
+    "audioOnly": "Kun lyd",
+    "videoOnly": "Kun video",
+    "headerTitle": "Last ned video fra YouTube",
+    "headerQuestion": "Hvordan laste ned video fra YouTube?",
+    "quality": "Kvalitet:",
+
+    "title": "Last ned video fra YouTube - HollywoodDownloader.com",
+    "description": "Last enkelt ned videoer fra YouTube med HollywoodDownloader.com. Lim inn video-lenken, trykk på Last ned-knappen, og nyt favorittinnholdet ditt offline.",
+    "keywords": "Last ned video fra YouTube, videonedlasting, HollywoodDownloader,",
+    "ogTitle": "Last ned video fra YouTube - HollywoodDownloader.com",
+    "ogDescription": "Last enkelt ned videoer fra YouTube med HollywoodDownloader.com. Lim inn video-lenken, trykk på Last ned-knappen, og nyt favorittinnholdet ditt offline.",
+    "twitterTitle": "Last ned video fra YouTube - HollywoodDownloader.com",
+    "twitterDescription": "Last enkelt ned videoer fra YouTube med HollywoodDownloader.com. Lim inn video-lenken, trykk på Last ned-knappen, og nyt favorittinnholdet ditt offline.",
+    "contentTitle": "HollywoodDownloader.com - Din perfekte hub for nedlasting av videoer!",
+    "content": [
+      "Gjør dine favoritt YouTube-videoer til offline skatter ved å lime inn video-lenken i inntastingsfeltet over og klikke på last ned-knappen."
+    ],
+
+    "contentCoution": "Vennligst merk: Følg bruksvilkårene til HollywoodDownloader.com i samsvar med YouTube's servicevilkår og opphavsrett.",
+    "serviceDesc": "Gjør dine favoritt YouTube-videoer til offline skatter. HollywoodDownloader lar deg konvertere og laste ned video fra YouTube til MP3, MP4, Webm, 3GP, MP4A i HD-kvalitet helt gratis.",
+
+    "insrtuctionsHeader": "Last ned YouTube-videoer: En trinnvis guide",
+    "instructions": ["1. Kopier YouTube-video-lenken du vil laste ned.",
+      "2. Lim den inn i søkefeltet.",
+      "3. Velg ønsket video- eller lydkvalitet og klikk på \"Last ned\"-knappen."
+    ],
+
+    "insrtuctionsMp3Header": "YouTube til MP3 Konvertering: En rask guide",
+    "insrtuctionsMp4Header": "Konverter YouTube til MP4: Enkle og raske metoder",
+
+    "instructionsImageCopy": "Bilde viser hvordan du kopierer YouTube-lenken",
+    "instructionsImagePaste": "Bilde viser hvordan du limer inn YouTube-lenken i HollywoodDownloader.com-søkefeltet",
+    "instructionsImageDownload": "Bilde viser hvordan du laster ned funnet video",
+
+    "prosHeader": "Hvorfor Hollywood Downloader er det beste valget for nedlasting av YouTube-videoer",
+    "pros": [
+      "Helt gratis.",
+      "Ubegrenset nedlastinger.",
+      "Høy hastighet.",
+      "Uten registrering",
+      "Støtter flere formater og kvaliteter."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "HollywoodDownloader lar brukere enkelt laste ned YouTube Shorts-videoer, og gir en praktisk løsning for å lagre og nyte kortformet innhold offline.",
+    "youtubeShortsAlt": "Bilde viser muligheten for nedlasting av YouTube Shorts-videoer.",
+    "highspeedHeader": "Høy hastighet",
+    "highspeed": "Muliggjør høyhastighets nedlastinger av YouTube-videoer, og sikrer en rask og effektiv opplevelse for brukere som ønsker rask tilgang til sitt favorittinnhold.",
+    "highspeedAlt": "Bilde viser høyhastighets nedlasting.",
+    "multiplatformHeader": "Multiplattform",
+    "multiplatform": "HollywoodDownloader, et allsidig og multiplattformverktøy, gir brukere muligheten til å laste ned YouTube-videoer sømløst på forskjellige enheter og operativsystemer, og tilbyr en fleksibel og tilgjengelig nedlastingsløsning.",
+    "multiplatformAlt": "Bilde viser bruk av flere plattformer.",
+    "safeHeader": "Sikker ",
+    "safe": "HollywoodDownloader sikrer en trygg nedlastingsopplevelse da det ikke krever registrering eller pålogging, og prioriterer brukerens personvern og bekvemmelighet mens du får YouTube-videoer uten problemer.",
+    "safeAlt": "Bilde viser trygg app-bruk.",
+    "freeHeader": "Helt gratis",
+    "free": "Vi tilbyr en helt gratis løsning for nedlasting av YouTube-videoer, og gir brukere ubegrenset tilgang til sitt favorittinnhold uten kostnad.",
+    "freeAlt": "Bilde viser at appen er gratis.",
+    "nolimitHeader": "Ingen begrensning",
+    "nolimit": "Vi tilbyr en grenseløs nedlastingsopplevelse, og lar brukere laste ned YouTube-videoer uten begrensninger på antall nedlastinger, og gir ubegrenset tilgang til et bredt spekter av innhold.",
+    "nolimitAlt": "Bilde viser at appen lar brukere laste ned YouTube-videoer uten begrensninger på antall nedlastinger.",
+    "multipleformatsHeader": "Flere formater",
+    "multipleformats": "HollywoodDownloader støtter en rekke formater, inkludert MP3, MP4, Webm, 3GP, MP4A og HD, og gir brukere fleksibilitet til å laste ned YouTube-videoer i deres foretrukne format for en personlig visningsopplevelse.",
+    "multipleformatsAlt": "Bilde viser at appen støtter flere formater.",
+    "mp3Header": "YouTube MP3-konverter",
+    "mp3Text": ["Introduserer vår MP3 YouTube Video Converter - det ultimate verktøyet for sømløst å transformere dine favoritt YouTube-videoer til høykvalitets MP3 lydfiler. Denne brukervennlige konverteren lar deg enkelt trekke ut lyd fra hvilken som helst YouTube-video, slik at du kan lage personlige spillelister, nyte favorittmusikken din offline, eller enkelt spare data mens du er på farten.",
+"With vår konverter er prosessen like enkel som å kopiere og lime inn YouTube-video-URLen, velge ønsket lydkvalitet og trykke på konverter-knappen. Opplev lynraske konverteringer uten å gå på kompromiss med lydkvaliteten. Enten du er en musikkentusiast, podkastelsker eller bare ønsker å nyte favorittinnholdet ditt i lydform, er vår MP3 YouTube Video Converter løsningen for en praktisk og hyggelig lytteopplevelse. Oppgrader musikkbiblioteket ditt enkelt og dykk inn i verdenen av lydekspertise med vår MP3 YouTube Video Converter i dag."],
+    "mp4Header": "YouTube MP4-konverter",
+    "mp4Text": ["Opplev sømløs videoforvandling med vår YouTube MP4 Converter-tjeneste. Konverter enkelt dine favoritt YouTube-videoer til høykvalitets MP4-filer for offline glede. Vår brukervennlige plattform sikrer en rask og problemfri prosess, og lar deg laste ned og lagre videoer i MP4-format med bare noen få klikk. Nyt favorittinnholdet ditt når som helst, hvor som helst, enten du er på farten eller bare ønsker å bygge din personlige mediebibliotek. Prøv vår YouTube MP4 Converter i dag og lås opp en verden av bekvemmelighet i videospilling og lagring."],
+    "shortsHeader": "YouTube Shorts Video Downloader",
+    "shortsText": ["Introducerer vår nyskapende YouTube Shorts-nedlastingstjeneste, designet for entusiaster som ønsker å sømløst nyte sine favoritt korte videoer når som helst, hvor som helst. Med vår brukervennlige plattform kan du enkelt laste ned YouTube Shorts-innhold i høy kvalitet, og sikre en hyggelig visningsopplevelse når du er på farten. Utforsk et bredt utvalg av trending og engasjerende shorts, og med bare noen få klikk, forvandle dem til lett tilgjengelige filer for offline glede. Omfavn bekvemmeligheten med vår YouTube Shorts-nedlastingstjeneste og gå aldri glipp av et øyeblikk av fengende innhold. Begynn å bygge din personlige bibliotek i dag!"],
+    "insrtuctionsShortHeader": "Last ned YouTube Shorts: En trinnvis guide",
+    "removeInputTextButton": "Fjern inntastingsknapp",
+    "altThumbnail": "miniatyrbilde"
+  }
+}

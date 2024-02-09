@@ -1,0 +1,85 @@
+{
+    "Index": {
+      "button": "Stiahnuť",
+      "placeholder": "Vložte odkaz na video sem",
+      "showButton": "Zobraziť viac",
+      "showLess": "Zobraziť menej",
+      "duration": "Trvanie",
+      "downloadButton": "Stiahnuť",
+      "audioOnly": "Len zvuk",
+      "videoOnly": "Len video",
+      "headerTitle": "stiahnite si video z YouTube",
+      "headerQuestion": "ako stiahnuť video z YouTube?",
+      "quality": "Kvalita:",
+      "title": "Stiahnite si video z YouTube - HollywoodDownloader.com",
+      "description": "Ľahko stiahnite videá z YouTube pomocou HollywoodDownloader.com. Vložte odkaz na video, stlačte tlačidlo Stiahnuť a užívajte si svoj obľúbený obsah offline.",
+      "keywords": "stiahnuť video z YouTube, stiahnuť video, HollywoodDownloader,",
+      "ogTitle": "Stiahnite si video z YouTube - HollywoodDownloader.com",
+      "ogDescription": "Ľahko stiahnite videá z YouTube pomocou HollywoodDownloader.com. Vložte odkaz na video, stlačte tlačidlo Stiahnuť a užívajte si svoj obľúbený obsah offline.",
+      "twitterTitle": "Stiahnite si video z YouTube - HollywoodDownloader.com",
+      "twitterDescription": "Ľahko stiahnite videá z YouTube pomocou HollywoodDownloader.com. Vložte odkaz na video, stlačte tlačidlo Stiahnuť a užívajte si svoj obľúbený obsah offline.",
+      "contentTitle": "HollywoodDownloader.com - Váš dokonalý zdroj na stiahnutie videí!",
+      "content": [
+        "Ľahko si premenujte svoje obľúbené videá z YouTube na offline poklady tým, že jednoducho vložíte odkaz na video do vyššie uvedeného vstupného poľa a kliknete na tlačidlo Stiahnuť."
+      ],
+      "contentCoution": "Upozornenie: Dodržujte podmienky používania HollywoodDownloader.com v súlade s podmienkami služby YouTube a autorskými právami.",
+      "serviceDesc": "Ľahko si premenujte svoje obľúbené videá z YouTube na offline poklady. HollywoodDownloader vám umožňuje konvertovať a stiahnuť video z YouTube do formátov MP3, MP4, Webm, 3GP, MP4A vo vysokom rozlíšení zadarmo.",
+      "insrtuctionsHeader": "Stiahnite si videá z YouTube: Krok za krokom sprievodca",
+      "instructions": [
+        "1. Skopírujte odkaz na video z YouTube, ktoré chcete stiahnuť.",
+        "2. Vložte ho do vyhľadávacieho poľa.",
+        "3. Vyberte požadovanú kvalitu videa alebo zvuku a kliknite na tlačidlo \"Stiahnuť\"."
+      ],
+      "insrtuctionsMp3Header": "Prevod YouTube na MP3: Rýchly sprievodca",
+      "insrtuctionsMp4Header": "Prevod YouTube na MP4: Jednoduché a rýchle metódy",
+      "instructionsImageCopy": "Obrázok ukazuje, ako skopírovať odkaz na YouTube",
+      "instructionsImagePaste": "Obrázok ukazuje, ako vložiť odkaz na YouTube na HollywoodDownloader.com",
+      "instructionsImageDownload": "Obrázok ukazuje, ako stiahnuť nájdené video",
+      "prosHeader": "Prečo je Hollywood Downloader najlepšou voľbou na stiahnutie videí z YouTube",
+      "pros": [
+        "Absolútne zadarmo.",
+        "Neobmedzené sťahovanie.",
+        "Vysoká rýchlosť.",
+        "Bez registrácie",
+        "Podporované sú rôzne formáty a kvality."
+      ],
+      "youtubeShortsHeader": "YouTube Shorts",
+      "youtubeShorts": "HollywoodDownloader umožňuje používateľom jednoducho sťahovať videá z YouTube Shorts, poskytujúc pohodlné riešenie na ukladanie a užívanie si obsahu v krátkom formáte offline.",
+      "youtubeShortsAlt": "Obrázok ukazuje možnosť sťahovania videí z YouTube Shorts.",
+      "highspeedHeader": "Vysoká rýchlosť",
+      "highspeed": "Umýšľa rýchle sťahovanie videí z YouTube, zabezpečuje rýchly a efektívny zážitok pre používateľov, ktorí hľadajú rýchly prístup k svojmu obľúbenému obsahu.",
+      "highspeedAlt": "Obrázok ukazuje sťahovanie s vysokou rýchlosťou.",
+      "multiplatformHeader": "Multiplatforma",
+      "multiplatform": "HollywoodDownloader, univerzálny a multiplatformový nástroj, poskytuje používateľom možnosť bezproblémového sťahovania videí z YouTube na rôznych zariadeniach a operačných systémoch, ponúkajúc flexibilné a prístupné riešenie pre sťahovanie.",
+      "multiplatformAlt": "Obrázok ukazuje použitie na viacerých platformách.",
+      "safeHeader": "Bezpečné",
+      "safe": "HollywoodDownloader zabezpečuje bezpečný zážitok pri sťahovaní, pretože nevyžaduje žiadnu registráciu, uprednostňuje súkromie a pohodlie používateľa pri bezproblémovom získavaní videí z YouTube.",
+      "safeAlt": "Obrázok ukazuje bezpečné použitie aplikácie.",
+      "freeHeader": "Absolútne zadarmo",
+      "free": "Ponúkame úplne zadarmo riešenie pre sťahovanie videí z YouTube, poskytujúc používateľom neobmedzený prístup k ich obľúbenému obsahu bez akejkoľvek platby.",
+      "freeAlt": "Obrázok ukazuje, že aplikácia je zadarmo.",
+      "nolimitHeader": "Žiadne obmedzenia",
+      "nolimit": "Ponúkame neobmedzený zážitok zo sťahovania, umožňujúc používateľom sťahovať videá z YouTube bez akýchkoľvek obmedzení počtu sťahovaní, poskytujúc neobmedzený prístup k širokej škále obsahu.",
+      "nolimitAlt": "Obrázok ukazuje, že aplikácia umožňuje používateľom sťahovať videá z YouTube bez obmedzení počtu sťahovaní.",
+      "multipleformatsHeader": "Rôzne formáty",
+      "multipleformats": "HollywoodDownloader podporuje rôzne formáty, vrátane MP3, MP4, Webm, 3GP, MP4A a HD, ponúkajúc používateľom flexibilitu pri sťahovaní videí z YouTube vo svojom preferovanom formáte pre personalizovaný zážitok z prezerania.",
+      "multipleformatsAlt": "Obrázok ukazuje, že aplikácia podporuje rôzne formáty.",
+      "mp3Header": "Prevod na YouTube MP3",
+      "mp3Text": [
+        "Predstavujeme náš prevodník YouTube MP3 - ultimatívny nástroj na bezproblémovú transformáciu vašich obľúbených videí z YouTube do vysokokvalitných zvukových súborov MP3. Tento jednoduchý prevodník vám umožňuje ľahko extrahovať zvuk z akéhokoľvek videa z YouTube, čo vám umožňuje vytvárať personalizované playlisty, užívať si obľúbenú hudbu offline alebo jednoducho šetriť údaje na cestách.",
+        "S naším prevodníkom je proces taký jednoduchý, ako skopírovať a vložiť URL videa z YouTube, vybrať požadovanú kvalitu zvuku a stlačiť tlačidlo prevodu. Zažite bleskovo rýchle prevody bez kompromisov v zvukovej vernosti. Bez ohľadu na to, či ste nadšenec do hudby, milovník podcastov alebo len chcete užívať obľúbený obsah vo forme zvuku, náš prevodník YouTube MP3 je ideálnym riešením pre pohodlný a príjemný poslucháčsky zážitok. Modernizujte svoju hudobnú knižnicu bez námahy a ponorte sa do sveta audio excelencie s našim prevodníkom YouTube MP3 ešte dnes."
+      ],
+      "mp4Header": "Prevod na YouTube MP4",
+      "mp4Text": [
+        "Zažite bezproblémovú transformáciu videa s našou službou prevodu YouTube MP4. Ľahko prevádzkujte svoje obľúbené videá z YouTube do vysokokvalitných súborov MP4 na offline užívanie. Naša užívateľsky prívetivá platforma zabezpečuje rýchly a bezproblémový proces, ktorý vám umožňuje sťahovať a ukladať videá vo formáte MP4 len s niekoľkými kliknutiami. Užívajte si svoj obľúbený obsah kedykoľvek a kdekoľvek, či ste na cestách, alebo jednoducho chcete vytvoriť svoju osobnú knižnicu médií. Vyskúšajte náš prevodník YouTube MP4 ešte dnes a odomknite si svet pohodlia pri prehrávaní a ukladaní videí."
+      ],
+      "shortsHeader": "Stiahnutie videa YouTube Shorts",
+      "shortsText": [
+        "Predstavujeme našu pokročilú službu sťahovania YouTube Shorts, navrhnutú pre nadšencov, ktorí chcú bezproblémovo užívať svoje obľúbené videá v krátkom formáte kedykoľvek a kdekoľvek. S našou užívateľsky prívetivou platformou môžete jednoducho sťahovať obsah YouTube Shorts vo vysokom rozlíšení, zabezpečujúc príjemný zážitok pri prezeraní na cestách. Preskúmajte rozsiahlu kolekciu trendingových a zaujímavých videí, a len s niekoľkými kliknutiami ich premenujte na ľahko dostupné súbory pre offline užívanie. Využite výhody našej služby sťahovania YouTube Shorts a nikdy nezmeškajte moment pútavého obsahu. Začnite si budovať svoju osobnú knižnicu ešte dnes!"
+      ],
+      "insrtuctionsShortHeader": "Stiahnite si videá YouTube Shorts: Krok za krokom sprievodca",
+      "removeInputTextButton": "Odstrániť tlačidlo s textom vstupu",
+      "altThumbnail": "Náhľad"
+    }
+  }
+  

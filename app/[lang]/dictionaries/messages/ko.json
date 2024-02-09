@@ -1,0 +1,83 @@
+{
+    "Index": {
+        "button": "다운로드",
+        "placeholder": "여기에 비디오 링크 붙여넣기",
+        "showButton": "더 보기",
+        "showLess": "덜 보기",
+        "duration": "지속 시간",
+        "downloadButton": "다운로드",
+        "audioOnly": "오디오 전용",
+        "videoOnly": "비디오 전용",
+        "headerTitle": "YouTube에서 비디오 다운로드",
+        "headerQuestion": "YouTube 비디오를 어떻게 다운로드하나요?",
+        "quality": "품질:",
+        
+        "title": "YouTube에서 비디오 다운로드 - HollywoodDownloader.com",
+        "description": "HollywoodDownloader.com을 사용하여 YouTube에서 비디오를 쉽게 다운로드하세요. 비디오 링크를 붙여넣고 다운로드 버튼을 누르면 즐겨 찾는 콘텐츠를 오프라인으로 즐길 수 있습니다.",
+        "keywords": "YouTube에서 비디오 다운로드, 비디오 다운로드, HollywoodDownloader",
+        "ogTitle": "YouTube에서 비디오 다운로드 - HollywoodDownloader.com",
+        "ogDescription": "HollywoodDownloader.com을 사용하여 YouTube에서 비디오를 쉽게 다운로드하세요. 비디오 링크를 붙여넣고 다운로드 버튼을 누르면 즐겨 찾는 콘텐츠를 오프라인으로 즐길 수 있습니다.",
+        "twitterTitle": "YouTube에서 비디오 다운로드 - HollywoodDownloader.com",
+        "twitterDescription": "HollywoodDownloader.com을 사용하여 YouTube에서 비디오를 쉽게 다운로드하세요. 비디오 링크를 붙여넣고 다운로드 버튼을 누르면 즐겨 찾는 콘텐츠를 오프라인으로 즐길 수 있습니다.",
+        "contentTitle": "HollywoodDownloader.com - 비디오 다운로드를 위한 완벽한 허브!",
+        "content": [
+        "비디오 링크를 위의 입력 필드에 간단히 붙여넣고 다운로드 버튼을 클릭하여 즐겨 찾는 YouTube 비디오를 오프라인으로 보관하세요."
+        ],
+        
+        "contentCoution": "참고 사항: HollywoodDownloader.com의 이용 약관을 YouTube의 서비스 약관 및 저작권 법과 일치하게 따르십시오.",
+        "serviceDesc": "쉽게 즐겨 찾는 YouTube 비디오를 오프라인으로 보관하세요. HollywoodDownloader를 사용하면 무료로 YouTube 비디오를 MP3, MP4, Webm, 3GP, MP4A로 변환 및 다운로드할 수 있습니다.",
+        "insrtuctionsHeader": "YouTube 비디오 다운로드: 단계별 안내",
+        "instructions": ["1. 다운로드하려는 YouTube 비디오 링크를 복사하세요.",
+        "2. 검색 필드에 붙여넣기하세요.",
+        "3. 필요한 비디오 또는 오디오 품질을 선택하고 '다운로드' 버튼을 클릭하세요."
+        ],
+        
+        "insrtuctionsMp3Header": "YouTube를 MP3로 변환하는 빠른 안내",
+        "insrtuctionsMp4Header": "YouTube를 MP4로 변환하는 쉽고 빠른 방법",
+        
+        "instructionsImageCopy": "이미지는 YouTube 링크를 복사하는 방법을 보여줍니다.",
+        "instructionsImagePaste": "이미지는 HollywoodDownloader.com 검색 필드에 YouTube 링크를 붙여넣는 방법을 보여줍니다.",
+        "instructionsImageDownload": "이미지는 찾은 비디오를 다운로드하는 방법을 보여줍니다.",
+        
+        "prosHeader": "Hollywood Downloader가 YouTube 비디오 다운로드의 최고 선택인 이유",
+        "pros": [
+        "완전 무료입니다.",
+        "무제한 다운로드.",
+        "고속.",
+        "가입없이",
+        "다양한 형식과 품질을 지원합니다."
+        ],
+        
+        "youtubeShortsHeader": "YouTube Shorts",
+        "youtubeShorts": "HollywoodDownloader를 사용하면 사용자들은 YouTube Shorts 비디오를 쉽게 다운로드할 수 있어 편리한 솔루션을 제공하여 오프라인에서 짧은 형식의 콘텐츠를 저장하고 즐길 수 있습니다.",
+        "youtubeShortsAlt": "이미지는 YouTube Shorts 비디오 다운로드 가능성을 보여줍니다.",
+        "highspeedHeader": "고속",
+        "highspeed": "YouTube 비디오의 고속 다운로드를 가능하게 하여 사용자가 즐겨 찾는 콘텐츠에 신속하게 액세스하려는 사용자에게 빠르고 효율적인 경험을 제공합니다.",
+        "highspeedAlt": "이미지는 고속 다운로드를 보여줍니다.",
+        "multiplatformHeader": "다중 플랫폼",
+        "multiplatform": "HollywoodDownloader는 다양한 기기 및 운영 체제에서 YouTube 비디오를 신속하게 다운로드할 수 있도록 사용자에게 다양하고 접근 가능한 다운로드 솔루션을 제공하는 다재다능하고 다중 플랫폼 도구입니다.",
+        "multiplatformAlt": "이미지는 다중 플랫폼 사용을 보여줍니다.",
+        "safeHeader": "안전",
+        "safe": "HollywoodDownloader는 가입 또는 로그인이 필요하지 않아 YouTube 비디오를 손쉽게 얻으면서 사용자의 개인 정보와 편의를 최우선으로 하는 안전한 다운로드 경험을 보장합니다.",
+        "safeAlt": "이미지는 앱 안전 사용을 보여줍니다.",
+        "freeHeader": "완전 무료",
+        "free": "YouTube 비디오를 다운로드하기 위한 완전 무료 솔루션을 제공하여 사용자가 어떠한 비용 없이 즐겨 찾는 콘텐츠에 무제한 액세스할 수 있도록 합니다.",
+        "freeAlt": "이미지는 앱이 무료임을 보여줍니다.",
+        "nolimitHeader": "제한 없음",
+        "nolimit": "제한 없는 다운로드 경험을 제공하여 사용자가 다운로드 횟수에 제한 없이 YouTube 비디오를 다운로드하고 다양한 콘텐츠에 무제한 액세스할 수 있도록 합니다.",
+        "nolimitAlt": "이미지는 앱이 다운로드 횟수에 제한 없이 YouTube 비디오를 다운로드할 수 있음을 보여줍니다.",
+        "multipleformatsHeader": "다양한 형식",
+        "multipleformats": "HollywoodDownloader는 MP3, MP4, Webm, 3GP, MP4A 및 HD를 포함한 다양한 형식을 지원하여 사용자가 선호하는 형식으로 YouTube 비디오를 다운로드할 수 있도록 유연성을 제공합니다.",
+        "multipleformatsAlt": "이미지는 앱이 다양한 형식을 지원함을 보여줍니다.",
+        "mp3Header": "YouTube MP3 변환기",
+        "mp3Text": ["MP3 YouTube 비디오 컨버터를 소개합니다. - 즐겨 찾는 YouTube 비디오를 고품질 MP3 오디오 파일로 원활하게 변환하는 궁극의 도구입니다. 이 사용자 친화적인 컨버터를 사용하면 YouTube 비디오에서 오디오를 손쉽게 추출하여 사용자 정의 재생 목록을 만들거나 즐겨 찾는 음악을 오프라인으로 즐기거나 이동 중에 데이터를 절약할 수 있습니다.",
+        "With our converter, the process is as simple as copying and pasting the YouTube video URL, selecting the desired audio quality, and hitting the convert button. Experience lightning-fast conversions without compromising on audio fidelity. Whether you're a music enthusiast, podcast lover, or just want to enjoy your favorite content in audio form, our MP3 YouTube Video Converter is the go-to solution for a convenient and enjoyable listening experience. Upgrade your music library effortlessly and dive into the world of audio excellence with our MP3 YouTube Video Converter today."],
+        "mp4Header": "YouTube MP4 컨버터",
+        "mp4Text": ["YouTube MP4 컨버터 서비스를 통해 원활한 비디오 변환을 경험해보세요. 즐겨 찾는 YouTube 비디오를 고품질 MP4 파일로 손쉽게 변환하여 오프라인에서 즐기세요. 사용자 친화적인 플랫폼은 몇 번의 클릭으로 비디오를 MP4 형식으로 다운로드하고 저장할 수 있도록 신속하고 간편한 프로세스를 보장합니다. 언제 어디서나 즐겨 찾는 콘텐츠를 즐기세요. 이동 중이거나 개인 미디어 라이브러리를 구축하려는 경우 YouTube MP4 컨버터를 시도해보세요. 비디오 재생 및 저장에서 편리성의 세계를 열어보세요."],
+        "shortsHeader": "YouTube Shorts 비디오 다운로더",
+        "shortsText": ["우리의 최첨단 YouTube Shorts 다운로드 서비스를 소개합니다. 언제 어디서나 즐겨 찾는 짧은 형식의 비디오를 원활하게 즐기고 싶어하는 열혈 팬을 위해 디자인되었습니다. 사용자 친화적인 플랫폼을 통해 YouTube Shorts 콘텐츠를 고품질로 손쉽게 다운로드하여 이동 중에 즐거운 시청 경험을 보장합니다. 트렌디하고 매력적인 숏 비디오의 거대한 컬렉션을 탐험하고 몇 번의 클릭으로 이를 쉽게 접근 가능한 파일로 변환하여 오프라인에서 즐겨 보세요. YouTube Shorts 다운로드 서비스의 편리성을 받아들이고 매혹적인 콘텐츠의 순간을 놓치지 마세요. 오늘부터 개인 라이브러리를 구축해보세요!"],
+        "insrtuctionsShortHeader": "YouTube Shorts 다운로드: 단계별 안내",
+        "removeInputTextButton": "입력 텍스트 버튼 제거",
+        "altThumbnail": "썸네일"
+        }
+}

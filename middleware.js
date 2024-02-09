@@ -18,7 +18,7 @@ import Negotiator from 'negotiator'
 
 
 let defaultLocale = 'en'
-let locales = ['en', 'ru', 'hu', 'pl', 'cz', 'de', 'fr', 'it', 'es', 'pt', 'dk', 'no', 'fi', 'se', 'nl', 'lv', 'lt', 'ee', 'in', 'jp',]
+let locales = ['en', 'ru', 'hu', 'pl', 'cz', 'de', 'fr', 'it', 'es', 'pt', 'dk', 'no', 'fi', 'se', 'nl', 'lv', 'lt', 'ee', 'in', 'jp', 'en-US', 'en-GB', 'ar', 'bg', 'el', 'he', 'id', 'ko', 'ro', 'sk', 'sl', 'th', 'tr', 'uk', 'vi', 'zh', 'zh-CN', 'zh-SG', 'zh-TW', 'zh-HK']
 
 // Get the preferred locale, similar to the above or using a library
 function getLocale(request) {
@@ -31,14 +31,11 @@ function getLocale(request) {
 export function middleware(request) {
     // Check if there is any supported locale in the pathname
     const { pathname } = request.nextUrl
-
     const pathnameHasLocale = locales.some(
         (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
     )
 
     if (pathnameHasLocale) return
-
-    // Redirect if there is no locale
     const locale = getLocale(request)
     request.nextUrl.pathname = `/${locale}${pathname}`
     // e.g. incoming request is /products

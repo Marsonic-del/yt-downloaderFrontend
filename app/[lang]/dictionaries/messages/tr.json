@@ -1,0 +1,83 @@
+{
+    "Index": {
+        "button": "İndir",
+        "placeholder": "Video bağlantınızı buraya yapıştırın",
+        "showButton": "Daha fazla göster",
+        "showLess": "Daha az göster",
+        "duration": "Süre",
+        "downloadButton": "İndir",
+        "audioOnly": "Sadece Ses",
+        "videoOnly": "Sadece Video",
+        "headerTitle": "YouTube'dan video indir",
+        "headerQuestion": "YouTube'dan video nasıl indirilir?",
+        "quality": "Kalite:",
+      
+        "title": "YouTube'dan Video İndir - HollywoodDownloader.com",
+        "description": "HollywoodDownloader.com ile YouTube videolarını kolayca indirin. Video bağlantısını yapıştırın, İndir düğmesine basın ve favori içeriğinizi çevrimdışı olarak keyfini çıkarın.",
+        "keywords": "YouTube'dan video indir, video indirme, HollywoodDownloader",
+        "ogTitle": "YouTube'dan Video İndir - HollywoodDownloader.com",
+        "ogDescription": "HollywoodDownloader.com ile YouTube videolarını kolayca indirin. Video bağlantısını yapıştırın, İndir düğmesine basın ve favori içeriğinizi çevrimdışı olarak keyfini çıkarın.",
+        "twitterTitle": "YouTube'dan Video İndir - HollywoodDownloader.com",
+        "twitterDescription": "HollywoodDownloader.com ile YouTube videolarını kolayca indirin. Video bağlantısını yapıştırın, İndir düğmesine basın ve favori içeriğinizi çevrimdışı olarak keyfini çıkarın.",
+        "contentTitle": "HollywoodDownloader.com - Videolarınızı indirmek için mükemmel merkeziniz!",
+        "content": [
+          "Favori YouTube videolarınızı video bağlantısını yukarıdaki giriş alanına yapıştırıp İndir düğmesine tıklayarak çevrimdışı hazineler haline getirin."
+        ],
+      
+        "contentCoution": "Lütfen dikkat: HollywoodDownloader.com'un kullanım koşullarını, YouTube'un hizmet koşulları ve telif hakları yasalarına uygun olarak izleyin.",
+        "serviceDesc": "Favori YouTube videolarınızı çevrimdışı hazinelere dönüştürün. HollywoodDownloader, YouTube videolarını MP3, MP4, Webm, 3GP, MP4A formatına ücretsiz yüksek kalitede dönüştürmenize ve indirmenize olanak tanır.",
+        "insrtuctionsHeader": "YouTube Videolarını İndirme: Adım Adım Kılavuz",
+        "instructions": ["1. İndirmek istediğiniz YouTube video bağlantısını kopyalayın.",
+          "2. Arama alanına yapıştırın.",
+          "3. İhtiyacınız olan Video veya Ses kalitesini seçin ve \"İndir\" düğmesine tıklayın."
+        ],
+      
+        "insrtuctionsMp3Header": "YouTube'dan MP3'e Dönüştürme: Hızlı Kılavuz",
+        "insrtuctionsMp4Header": "YouTube'dan MP4'e Dönüştürme: Kolay ve Hızlı Yöntemler",
+      
+        "instructionsImageCopy": "Resim, YouTube bağlantısını nasıl kopyalayacağınızı gösterir",
+        "instructionsImagePaste": "Resim, YouTube bağlantısını HollywoodDownloader.com arama alanına nasıl yapıştıracağınızı gösterir",
+        "instructionsImageDownload": "Resim, bulunan videoyu nasıl indireceğinizi gösterir",
+      
+        "prosHeader": "YouTube Videolarını İndirmek İçin Hollywood Downloader'ın En İyi Tercihi Nedenleri",
+        "pros": [
+          "Tamamen ücretsiz.",
+          "Sınırsız indirmeler.",
+          "Yüksek hız.",
+          "Kayıt olmadan",
+          "Birden fazla format ve kalite desteklenir."
+        ],
+      
+        "youtubeShortsHeader": "YouTube Shorts",
+        "youtubeShorts": "HollywoodDownloader, YouTube Shorts videolarını kolayca indirmenize olanak tanır, kısa formatlı içerikleri çevrimdışı olarak kaydetmek ve keyfini çıkarmak için kullanıcılar için pratik bir çözüm sunar.",
+        "youtubeShortsAlt": "Resim, YouTube Shorts videolarını indirme olasılığını gösterir.",
+        "highspeedHeader": "Yüksek Hız",
+        "highspeed": "YouTube videolarının yüksek hızda indirilmesini sağlar, kullanıcıların favori içeriklerine hızlı erişim arayanlar için hızlı ve verimli bir deneyim sunar.",
+        "highspeedAlt": "Resim, yüksek hızda indirme gösterir.",
+        "multiplatformHeader": "Çoklu Platform",
+        "multiplatform": "HollywoodDownloader, kullanıcılara çeşitli cihazlar ve işletim sistemleri üzerinde sorunsuz bir şekilde YouTube videolarını indirme olanağı tanır, esnek ve erişilebilir bir indirme çözümü sunar.",
+        "multiplatformAlt": "Resim, çoklu platform kullanımını gösterir.",
+        "safeHeader": "Güvenli",
+        "safe": "HollywoodDownloader, kayıt veya giriş gerektirmez, kullanıcı gizliliğini ve kolaylığını önceliklendirerek YouTube videolarını zahmetsizce elde etme konusunda güvenli bir indirme deneyimi sağlar.",
+        "safeAlt": "Resim, uygulamanın güvenli kullanımını gösterir.",
+        "freeHeader": "Tamamen Ücretsiz",
+        "free": "YouTube videolarını indirmek için tamamen ücretsiz bir çözüm sunuyor, kullanıcılara maliyet olmadan favori içeriklerine sınırsız erişim sağlıyor.",
+        "freeAlt": "Resim, uygulamanın ücretsiz olduğunu gösterir.",
+        "nolimitHeader": "Sınırsız",
+        "nolimit": "Sınırsız bir indirme deneyimi sunuyor, kullanıcılara indirme sayısı üzerinde herhangi bir kısıtlama olmadan YouTube videolarını indirme olanağı tanıyarak geniş bir içeriğe sınırsız erişim sağlıyor.",
+        "nolimitAlt": "Resim, uygulamanın indirme sayısı üzerinde herhangi bir kısıtlama olmadan YouTube videolarını indirmeye izin verdiğini gösterir.",
+        "multipleformatsHeader": "Çeşitli Formatlar",
+        "multipleformats": "HollywoodDownloader, MP3, MP4, Webm, 3GP, MP4A ve HD dahil olmak üzere çeşitli formatları destekler, kullanıcılara tercih ettikleri formatta YouTube videolarını indirme esnekliği sunar.",
+        "multipleformatsAlt": "Resim, uygulamanın çeşitli formatları desteklediğini gösterir.",
+        "mp3Header": "Youtube MP3 Dönüştürücü",
+        "mp3Text": ["MP3 YouTube Video Converter'ımızı tanıtalım - favori YouTube videolarınızı yüksek kaliteli MP3 ses dosyalarına sorunsuz bir şekilde dönüştürmek için ultimatif araç. Bu kullanıcı dostu dönüştürücü, herhangi bir YouTube videosundan sesi kolayca çıkartmanıza olanak tanır, kişisel çalma listeleri oluşturmanıza, favori müziğinizin tadını çıkarmanıza veya sadece hareket halindeyken veri tasarrufu yapmanıza olanak sağlar.",
+      "Converter'ımız ile süreci YouTube video URL'sini kopyalayıp yapıştırarak, istediğiniz ses kalitesini seçerek ve dönüştür düğmesine tıklayarak basitleştirin. Hızlı dönüşümlerin tadını çıkarın ve ses sadakatinden ödün vermeden hızlı bir şekilde dönüştürün. Müzik tutkunu, podcast hayranı veya sadece favori içeriğinizi ses formunda keyifli bir şekilde deneyimlemek istiyorsanız, MP3 YouTube Video Converter'ımız, uygun ve keyifli bir dinleme deneyimi için ideal çözümdür. Müzik kütüphanenizi zahmetsizce yükseltin ve MP3 YouTube Video Converter'ımız ile ses mükemmelliğinin dünyasına dalın."],
+      "mp4Header": "Youtube MP4 Dönüştürücü",
+      "mp4Text": ["YouTube MP4 Converter servisimizle sorunsuz video dönüşümünün keyfini çıkarın. Favori YouTube videolarınızı yüksek kaliteli MP4 dosyalarına zahmetsizce dönüştürerek çevrimdışı olarak keyfini çıkarın. Kullanıcı dostu platformumuz, birkaç tıklama ile videoları MP4 formatında indirip saklamanıza izin vererek hızlı ve sorunsuz bir süreç sağlar. Favori içeriğinizi istediğiniz zaman, istediğiniz yerde keyfini çıkarın, hareket halindeyken veya sadece kişisel medya kitaplığınızı oluşturmak istiyorsanız YouTube MP4 Converter'ımızı deneyin. Bugün YouTube MP4 Converter'ımızı deneyin ve video oynatma ve depolama konusunda konfor dünyasını açın."],
+      "shortsHeader": "YouTube Shorts Video İndirici",
+      "shortsText": ["En sevdiğiniz kısa formatlı videolarınızı her zaman ve her yerde sorunsuz bir şekilde keyfini çıkarmak isteyen tutkunlar için tasarlanan son teknoloji YouTube Shorts indirme servisimizi tanıtalım. Kullanıcı dostu platformumuz sayesinde YouTube Shorts içeriğini yüksek kalitede zahmetsizce indirebilir, gittiğiniz yerde keyifli bir izleme deneyimi yaşayabilirsiniz. Trend olan ve ilgi çeken kısa videoların geniş bir koleksiyonunu keşfedin ve birkaç tıklama ile bunları çevrimdışı keyif alınabilir dosyalara dönüştürerek kişisel kütüphanenizi oluşturmaya başlayın. YouTube Shorts indirme servisimizin konforunu benimseyin ve büyüleyici içeriğin bir anını asla kaçırmayın. Bugün kişisel kütüphanenizi oluşturmaya başlayın!"],
+      "insrtuctionsShortHeader": "YouTube Shorts İndirme: Adım Adım Kılavuz",
+      "removeInputTextButton": "Giriş metni düğmesini kaldır",
+      "altThumbnail": "küçük resim"
+        }
+      }

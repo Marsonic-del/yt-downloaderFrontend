@@ -6,7 +6,6 @@ import MenuButton from '../MenuButton';
 
 
 const Header = ({ intl, locale }) => {
-    console.log(locale)
     return (
         <header className={styles.header}>
             <MenuButton locale={locale} />

@@ -8,7 +8,7 @@ import Loader from '@/components/loader'
 import fetchData from '../../lib/api';
 import Results from '@/components/results'
 
-const FormSection = ({intl}) => {
+const FormSection = ({intl}:{intl:any}) => {
     const [data, setData] = useState(null);
     const [isResult, setIsResult] = useState(false);
     const [isLoader, setIsLoader] = useState(false);
@@ -24,6 +24,7 @@ const FormSection = ({intl}) => {
             setData(response);
             setIsResult(true);
         } catch (err: any | AxiosError) {
+          if(err.code === "ERR_BAD_REQUEST") err.message = "Sorry, Video not found"
             setIsLoader(false);
             setErrorMessage(err.message);
 

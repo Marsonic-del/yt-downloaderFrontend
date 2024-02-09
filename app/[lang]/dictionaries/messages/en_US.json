@@ -1,0 +1,92 @@
+{
+    "Index": {
+      "button": "Download",
+      "placeholder": "Paste your video link here",
+      "showButton": "Show more",
+      "showLess": "Show less",
+      "duration": "Duration",
+      "downloadButton": "Download",
+      "audioOnly": "Audio only",
+      "videoOnly": "Video only",
+      "headerTitle": "download video from youtube",
+      "headerQuestion": "how to download video from youtube?",
+      "quality": "Quality:",
+  
+      "title": "Download video from YouTube - HollywoodDownloader.com",
+      "description": "Easily download videos from YouTube with HollywoodDownloader.com. Paste the video link, press the Download button, and enjoy your favorite content offline.",
+      "keywords": "download video from YouTube, video download, HollywoodDownloader,",
+      "ogTitle": "Download video from YouTube - HollywoodDownloader.com",
+      "ogDescription": "Easily download videos from YouTube with HollywoodDownloader.com. Paste the video link, press the download button, and enjoy your favorite content offline.",
+      "twitterTitle": "Download video from YouTube - HollywoodDownloader.com",
+      "twitterDescription": "Easily download videos from YouTube with HollywoodDownloader.com. Paste the video link, press the download button, and enjoy your favorite content offline.",
+      "contentTitle": "HollywoodDownloader.com - Your perfect hub for downloading videos!",
+      "content": [
+        "Easily turn your favorite YouTube videos into offline treasures by simply pasting the video link in the input field above and clicking the download button."
+      ],
+  
+      "contentCoution": "Please note: Follow the terms of use of HollywoodDownloader.com in accordance with YouTube's terms of service and copyright laws.",
+      "serviceDesc": "Easily turn your favorite YouTube videos into offline treasures. HollywoodDownloader allows you to convert & download video from YouTube, to MP3, MP4, Webm, 3GP, MP4A in HD quality for free.",
+  
+      "insrtuctionsHeader": "Download YouTube Videos: A Step-by-Step Guide",
+      "instructions": [
+        "1.Copy youtube video link you want to download.",
+        "2.Paste it in search field.",
+        "3.Select the Video or Audio quality you need and click the \"Download\" button."
+      ],
+  
+      "insrtuctionsMp3Header": "YouTube to MP3 Conversion: A Quick Guide",
+      "insrtuctionsMp4Header": "Convert YouTube to MP4: Easy and Fast Methods",
+  
+      "instructionsImageCopy": "Image shows how to copy youtube link",
+      "instructionsImagePaste": "Image shows how to paste youtube link on HollywoodDownloader.com search field",
+      "instructionsImageDownload": "Image shows how to download found video",
+  
+      "prosHeader": "Why Hollywood Downloader is the best choice for downloading Youtube videos",
+      "pros": [
+        "Absolutely free.",
+        "Unlimited downloads.",
+        "High speed.",
+        "Without SignUp",
+        "Multiple formats and qualities are supported."
+      ],
+  
+      "youtubeShortsHeader": "YouTube Shorts",
+      "youtubeShorts": "HollywoodDownloader allows users to effortlessly download YouTube Shorts videos, providing a convenient solution for saving and enjoying short-form content offline.",
+      "youtubeShortsAlt": "Image shows possibility Youtube Shorts videos downloading.",
+      "highspeedHeader": "High-speed",
+      "highspeed": "Enables high-speed downloads of YouTube videos, ensuring a swift and efficient experience for users seeking quick access to their favorite content.",
+      "highspeedAlt": "Image shows high-speed downloading.",
+      "multiplatformHeader": "Multiplatform",
+      "multiplatform": "HollywoodDownloader, a versatile and multiplatform tool, empowers users to download YouTube videos seamlessly across various devices and operating systems, offering a flexible and accessible downloading solution.",
+      "multiplatformAlt": "Image shows multiplatform usage.",
+      "safeHeader": "Safe ",
+      "safe": "HollywoodDownloader ensures a secure downloading experience as it requires no signup or signin, prioritizing user privacy and convenience while obtaining YouTube videos hassle-free.",
+      "safeAlt": "Image shows app safe usage.",
+      "freeHeader": "Absolutely free",
+      "free": "We offer an absolutely free solution for downloading YouTube videos, providing users with unrestricted access to their favorite content without any cost.",
+      "freeAlt": "Image shows that app is free.",
+      "nolimitHeader": "No limit",
+      "nolimit": "We present a limitless downloading experience, allowing users to download YouTube videos without any restrictions on the number of downloads, providing unrestricted access to a wide array of content.",
+      "nolimitAlt": "Image shows that app allows users to download YouTube videos without any restrictions on the number of downloads.",
+      "multipleformatsHeader": "Multiple formats",
+      "multipleformats": "HollywoodDownloader supports a variety of formats, including MP3, MP4, Webm, 3GP, MP4A and HD, offering users the flexibility to download YouTube videos in their preferred format for a personalized viewing experience.",
+      "multipleformatsAlt": "Image shows that app supports a variety of formats.",
+      "mp3Header": "Youtube MP3 converter",
+      "mp3Text": [
+        "Introducing our MP3 YouTube Video Converter – the ultimate tool for seamlessly transforming your favorite YouTube videos into high-quality MP3 audio files. This user-friendly converter allows you to effortlessly extract the audio from any YouTube video, enabling you to create personalized playlists, enjoy your favorite music offline, or simply save data while on the go.",
+        "With our converter, the process is as simple as copying and pasting the YouTube video URL, selecting the desired audio quality, and hitting the convert button. Experience lightning-fast conversions without compromising on audio fidelity. Whether you're a music enthusiast, podcast lover, or just want to enjoy your favorite content in audio form, our MP3 YouTube Video Converter is the go-to solution for a convenient and enjoyable listening experience. Upgrade your music library effortlessly and dive into the world of audio excellence with our MP3 YouTube Video Converter today."
+      ],
+      "mp4Header": "Youtube MP4 converter",
+      "mp4Text": [
+        "Experience seamless video transformation with our YouTube MP4 Converter service. Effortlessly convert your favorite YouTube videos into high-quality MP4 files for offline enjoyment. Our user-friendly platform ensures a quick and hassle-free process, allowing you to download and save videos in MP4 format with just a few clicks. Enjoy your favorite content anytime, anywhere, whether you're on the go or simply looking to build your personal media library. Try our YouTube MP4 Converter today and unlock a world of convenience in video playback and storage."
+      ],
+      "shortsHeader": "YouTube Shorts Video Downloader",
+      "shortsText": [
+        "Introducing our cutting-edge YouTube Shorts download service, designed for enthusiasts who wish to seamlessly enjoy their favorite short-form videos anytime, anywhere. With our user-friendly platform, you can effortlessly download YouTube Shorts content in high quality, ensuring a delightful viewing experience on the go. Explore a vast collection of trending and engaging shorts, and with just a few clicks, transform them into easily accessible files for offline enjoyment. Embrace the convenience of our YouTube Shorts download service and never miss a moment of captivating content. Start building your personal library today!"
+      ],
+      "insrtuctionsShortHeader": "Download YouTube Shorts: A Step-by-Step Guide",
+      "removeInputTextButton": "Remove input text button",
+      "altThumbnail": "thumbnail"
+    }
+  }
+  

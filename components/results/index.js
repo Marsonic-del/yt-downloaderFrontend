@@ -13,14 +13,6 @@ const Results = ({ intl, results, setIsResult }) => {
 
     return (
         <div className={styles.container}>
-            {/* <Image
-                src={removeButton}
-                width={25}
-                height={25}
-                alt='Remove button'
-                onClick={() => setIsResult(false)}
-                className={styles.removeButton}
-            /> */}
             <div className={styles.info}>
                 <img className={styles.image} src={results.thumb} alt={intl.altThumbnail} />
                 <p className={styles.title}>{results.title}</p>

@@ -15,6 +15,13 @@
     padding: 2em;
 }
 
+.navlist {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
 .link {
     text-decoration: none;
     color: #fff;

@@ -1,0 +1,84 @@
+{
+  "Index": {
+    "button": "Pobierz",
+    "placeholder": "Wklej tutaj link do filmu",
+    "showButton": "Pokaż więcej",
+    "showLess": "Pokaż mniej",
+    "duration": "Czas trwania",
+    "downloadButton": "Pobierz",
+    "audioOnly": "Tylko dźwięk",
+    "videoOnly": "Tylko wideo",
+    "headerTitle": "pobierz film z YouTube",
+    "headerQuestion": "jak pobrać film z YouTube?",
+    "quality": "Jakość:",
+
+    "title": "Pobierz film z YouTube - HollywoodDownloader.com",
+    "description": "Łatwo pobierz filmy z YouTube za pomocą HollywoodDownloader.com. Wklej link do filmu, naciśnij przycisk Pobierz i ciesz się ulubionym kontentem offline.",
+    "keywords": "pobierz film z YouTube, pobieranie filmów, HollywoodDownloader,",
+    "ogTitle": "Pobierz film z YouTube - HollywoodDownloader.com",
+    "ogDescription": "Łatwo pobierz filmy z YouTube za pomocą HollywoodDownloader.com. Wklej link do filmu, naciśnij przycisk Pobierz i ciesz się ulubionym kontentem offline.",
+    "twitterTitle": "Pobierz film z YouTube - HollywoodDownloader.com",
+    "twitterDescription": "Łatwo pobierz filmy z YouTube za pomocą HollywoodDownloader.com. Wklej link do filmu, naciśnij przycisk Pobierz i ciesz się ulubionym kontentem offline.",
+    "contentTitle": "HollywoodDownloader.com - Twoje idealne centrum do pobierania filmów!",
+    "content": [
+      "Łatwo zamień swoje ulubione filmy z YouTube w skarby offline, po prostu wklej link do filmu w powyższe pole tekstowe i kliknij przycisk pobierania."
+    ],
+
+    "contentCoution": "Proszę zauważyć: Przestrzegaj warunków użytkowania HollywoodDownloader.com zgodnie z warunkami usługi YouTube i prawem autorskim.",
+    "serviceDesc": "Łatwo zamień swoje ulubione filmy z YouTube w skarby offline. HollywoodDownloader pozwala konwertować i pobierać filmy z YouTube do formatów MP3, MP4, Webm, 3GP, MP4A w jakości HD za darmo.",
+
+    "insrtuctionsHeader": "Pobierz filmy z YouTube: Przewodnik krok po kroku",
+    "instructions": ["1. Skopiuj link do filmu z YouTube, który chcesz pobrać.",
+      "2. Wklej go do pola wyszukiwania.",
+      "3. Wybierz jakość wideo lub dźwięku i kliknij przycisk „Pobierz”."
+    ],
+
+    "insrtuctionsMp3Header": "Konwersja YouTube na MP3: Szybki przewodnik",
+    "insrtuctionsMp4Header": "Konwersja YouTube na MP4: Łatwe i szybkie metody",
+
+    "instructionsImageCopy": "Zdjęcie pokazuje, jak skopiować link do filmu z YouTube",
+    "instructionsImagePaste": "Zdjęcie pokazuje, jak wkleić link do filmu z YouTube w pole wyszukiwania na HollywoodDownloader.com",
+    "instructionsImageDownload": "Zdjęcie pokazuje, jak pobrać znaleziony film",
+
+    "prosHeader": "Dlaczego Hollywood Downloader to najlepszy wybór do pobierania filmów z YouTube",
+    "pros": [
+      "Absolutnie za darmo.",
+      "Nieograniczone pobieranie.",
+      "Wysoka prędkość.",
+      "Bez rejestracji",
+      "Obsługiwane są różne formaty i jakości."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "HollywoodDownloader pozwala użytkownikom łatwo pobierać filmy z YouTube Shorts, oferując wygodne rozwiązanie do zapisywania i cieszenia się krótkim treścią offline.",
+    "youtubeShortsAlt": "Zdjęcie pokazuje możliwość pobierania filmów YouTube Shorts.",
+    "highspeedHeader": "Wysoka prędkość",
+    "highspeed": "Umożliwia szybkie pobieranie filmów z YouTube, zapewniając szybką i efektywną obsługę dla użytkowników poszukujących szybkiego dostępu do swojego ulubionego kontentu.",
+    "highspeedAlt": "Zdjęcie pokazuje szybkość pobierania.",
+    "multiplatformHeader": "Multiplatformowy",
+    "multiplatform": "HollywoodDownloader, wszechstronne i wieloplatformowe narzędzie, umożliwia użytkownikom łatwe pobieranie filmów z YouTube na różnych urządzeniach i systemach operacyjnych, oferując elastyczne i dostępne rozwiązanie do pobierania.",
+    "multiplatformAlt": "Zdjęcie pokazuje wieloplatformowe użycie.",
+    "safeHeader": "Bezpieczny ",
+    "safe": "HollywoodDownloader zapewnia bezpieczne doświadczenie pobierania, nie wymaga rejestracji ani logowania, priorytetem jest prywatność i wygoda użytkownika podczas bezproblemowego uzyskiwania filmów z YouTube.",
+    "safeAlt": "Zdjęcie pokazuje bezpieczne użycie aplikacji.",
+    "freeHeader": "Absolutnie za darmo",
+    "free": "Oferujemy całkowicie darmowe rozwiązanie do pobierania filmów z YouTube, zapewniając użytkownikom nieograniczony dostęp do ich ulubionego kontentu bez żadnych kosztów.",
+    "freeAlt": "Zdjęcie pokazuje, że aplikacja jest bezpłatna.",
+    "nolimitHeader": "Bez limitu",
+    "nolimit": "Oferujemy bezlimitowe doświadczenie pobierania, pozwalając użytkownikom pobierać filmy z YouTube bez żadnych ograniczeń co do liczby pobrań, zapewniając nieograniczony dostęp do różnorodnej zawartości.",
+    "nolimitAlt": "Zdjęcie pokazuje, że aplikacja pozwala użytkownikom pobierać filmy z YouTube bez żadnych ograniczeń co do liczby pobrań.",
+    "multipleformatsHeader": "Wiele formatów",
+    "multipleformats": "HollywoodDownloader obsługuje różne formaty, w tym MP3, MP4, Webm, 3GP, MP4A i HD, oferując użytkownikom elastyczność pobierania filmów z YouTube w preferowanym formacie dla spersonalizowanego oglądania.",
+    "multipleformatsAlt": "Zdjęcie pokazuje, że aplikacja obsługuje różne formaty.",
+    "mp3Header": "Konwerter YouTube MP3",
+    "mp3Text": ["Przedstawiamy nasz konwerter MP3 YouTube Video - ostateczne narzędzie do bezproblemowej transformacji ulubionych filmów z YouTube w wysokiej jakości pliki audio MP3. Ten przyjazny użytkownikowi konwerter pozwala łatwo wyodrębnić dźwięk z dowolnego filmu z YouTube, umożliwiając tworzenie spersonalizowanych list odtwarzania, cieszenie się ulubioną muzyką offline lub po prostu oszczędzanie danych w podróży.",
+      "Z naszym konwerterem proces jest równie prosty jak skopiowanie i wklejenie URL-a filmu z YouTube, wybranie pożądanej jakości dźwięku i kliknięcie przycisku konwertuj. Doświadcz błyskawicznych konwersji bez utraty wierności dźwięku. Bez względu na to, czy jesteś miłośnikiem muzyki, wielbicielem podcastów, czy po prostu chcesz cieszyć się ulubionym kontentem w formie audio, nasz konwerter MP3 YouTube Video to idealne rozwiązanie dla wygodnego i przyjemnego słuchania. Ulepsz swoją bibliotekę muzyczną bez wysiłku i zanurz się w świat doskonałości dźwięku dzięki naszemu konwerterowi MP3 YouTube Video już dziś."],
+    "mp4Header": "Konwerter YouTube MP4",
+    "mp4Text": ["Doświadcz bezproblemowej transformacji wideo dzięki naszej usłudze YouTube MP4 Converter. Łatwo konwertuj swoje ulubione filmy z YouTube na wysokiej jakości pliki MP4 do offline enjoyment. Nasza przyjazna użytkownikowi platforma zapewnia szybki i bezproblemowy proces, pozwalając na pobieranie i zapisywanie filmów w formacie MP4 za pomocą zaledwie kilku kliknięć. Ciesz się ulubionym kontentem w dowolnym miejscu i czasie, czy jesteś w podróży czy po prostu chcesz zbudować swoją osobistą bibliotekę multimedialną. Wypróbuj nasz konwerter YouTube MP4 już dziś i odblokuj świat wygody w odtwarzaniu i przechowywaniu wideo."],
+    "shortsHeader": "YouTube Shorts Video Downloader",
+    "shortsText": ["Przedstawiamy naszą nowoczesną usługę pobierania filmów YouTube Shorts, zaprojektowaną dla entuzjastów, którzy chcą płynnie cieszyć się ulubionymi krótkimi filmami w dowolnym miejscu i czasie. Dzięki naszej przyjaznej użytkownikowi platformie możesz łatwo pobierać treści YouTube Shorts w wysokiej jakości, zapewniając przyjemne doświadczenie oglądania w podróży. Odkryj szeroką gamę trendingowych i angażujących krótkometrażówek, i za pomocą zaledwie kilku kliknięć przekształć je w łatwo dostępne pliki do offline enjoyment. Przyjmij wygodę naszej usługi pobierania filmów YouTube Shorts i nigdy nie przegap chwili porywającej treści. Zacznij budować swoją osobistą bibliotekę już dziś!"],
+    "insrtuctionsShortHeader": "Pobierz filmiki YouTube Shorts: Przewodnik krok po kroku",
+    "removeInputTextButton": "Usuń przycisk wprowadzania tekstu",
+    "altThumbnail": "miniatura"
+  }
+}

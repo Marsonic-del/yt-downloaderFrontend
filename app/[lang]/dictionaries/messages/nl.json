@@ -1,0 +1,84 @@
+{
+  "Index": {
+    "button": "Downloaden",
+    "placeholder": "Plak hier de link van je video",
+    "showButton": "Meer tonen",
+    "showLess": "Minder tonen",
+    "duration": "Duur",
+    "downloadButton": "Downloaden",
+    "audioOnly": "Alleen audio",
+    "videoOnly": "Alleen video",
+    "headerTitle": "Video downloaden van YouTube",
+    "headerQuestion": "Hoe download je een video van YouTube?",
+    "quality": "Kwaliteit:",
+
+    "title": "Download video van YouTube - HollywoodDownloader.com",
+    "description": "Download eenvoudig video's van YouTube met HollywoodDownloader.com. Plak de videolink, druk op de Downloaden knop en geniet van je favoriete inhoud offline.",
+    "keywords": "video downloaden van YouTube, video download, HollywoodDownloader,",
+    "ogTitle": "Download video van YouTube - HollywoodDownloader.com",
+    "ogDescription": "Download eenvoudig video's van YouTube met HollywoodDownloader.com. Plak de videolink, druk op de downloaden knop en geniet van je favoriete inhoud offline.",
+    "twitterTitle": "Download video van YouTube - HollywoodDownloader.com",
+    "twitterDescription": "Download eenvoudig video's van YouTube met HollywoodDownloader.com. Plak de videolink, druk op de downloaden knop en geniet van je favoriete inhoud offline.",
+    "contentTitle": "HollywoodDownloader.com - Jouw perfecte hub voor het downloaden van video's!",
+    "content": [
+      "Verander eenvoudig je favoriete YouTube-video's in offline schatten door eenvoudig de videolink in het bovenstaande invoerveld te plakken en op de downloadknop te klikken."
+    ],
+
+    "contentCoution": "Let op: Volg de gebruiksvoorwaarden van HollywoodDownloader.com in overeenstemming met de servicevoorwaarden van YouTube en het auteursrecht.",
+    "serviceDesc": "Verander eenvoudig je favoriete YouTube-video's in offline schatten. HollywoodDownloader stelt je in staat video van YouTube te converteren en te downloaden naar MP3, MP4, Webm, 3GP, MP4A in HD-kwaliteit, helemaal gratis.",
+
+    "insrtuctionsHeader": "Download YouTube-video's: Een stapsgewijze handleiding",
+    "instructions": ["1. Kopieer de YouTube-videolink die je wilt downloaden.",
+      "2. Plak het in het zoekveld.",
+      "3. Selecteer de gewenste video- of audiokwaliteit en klik op de \"Downloaden\" knop."
+    ],
+
+    "insrtuctionsMp3Header": "YouTube naar MP3 Conversie: Een snelle handleiding",
+    "insrtuctionsMp4Header": "Converteer YouTube naar MP4: Gemakkelijke en snelle methoden",
+
+    "instructionsImageCopy": "Afbeelding toont hoe je de YouTube-link kopieert",
+    "instructionsImagePaste": "Afbeelding toont hoe je de YouTube-link plakt op HollywoodDownloader.com zoekveld",
+    "instructionsImageDownload": "Afbeelding toont hoe je de gevonden video downloadt",
+
+    "prosHeader": "Waarom Hollywood Downloader de beste keuze is voor het downloaden van YouTube-video's",
+    "pros": [
+      "Absoluut gratis.",
+      "Onbeperkte downloads.",
+      "Hoge snelheid.",
+      "Zonder aanmelding",
+      "Ondersteunt meerdere formaten en kwaliteiten."
+    ],
+
+    "youtubeShortsHeader": "YouTube Shorts",
+    "youtubeShorts": "HollywoodDownloader stelt gebruikers in staat om moeiteloos YouTube Shorts-video's te downloaden, wat een handige oplossing biedt om korte content offline op te slaan en ervan te genieten.",
+    "youtubeShortsAlt": "Afbeelding toont de mogelijkheid om YouTube Shorts-video's te downloaden.",
+    "highspeedHeader": "Hoge snelheid",
+    "highspeed": "Maakt snelle downloads van YouTube-video's mogelijk, zodat gebruikers snel en efficiënt toegang hebben tot hun favoriete inhoud.",
+    "highspeedAlt": "Afbeelding toont snelle download.",
+    "multiplatformHeader": "Multiplatform",
+    "multiplatform": "HollywoodDownloader, een veelzijdige en multiplatform tool, stelt gebruikers in staat om naadloos YouTube-video's te downloaden op verschillende apparaten en besturingssystemen, en biedt een flexibele en toegankelijke downloadoplossing.",
+    "multiplatformAlt": "Afbeelding toont multiplatformgebruik.",
+    "safeHeader": "Veilig ",
+    "safe": "HollywoodDownloader zorgt voor een veilige downloadervaring, omdat het geen aanmelding vereist, en geeft prioriteit aan gebruikersprivacy en gemak bij het moeiteloos verkrijgen van YouTube-video's.",
+    "safeAlt": "Afbeelding toont veilig app-gebruik.",
+    "freeHeader": "Absoluut gratis",
+    "free": "We bieden een absoluut gratis oplossing voor het downloaden van YouTube-video's, waardoor gebruikers onbeperkte toegang hebben tot hun favoriete inhoud zonder enige kosten.",
+    "freeAlt": "Afbeelding toont dat de app gratis is.",
+    "nolimitHeader": "Geen limiet",
+    "nolimit": "We bieden een onbeperkte downloadervaring, waardoor gebruikers YouTube-video's kunnen downloaden zonder enige beperking op het aantal downloads, met onbeperkte toegang tot een breed scala aan inhoud.",
+    "nolimitAlt": "Afbeelding toont dat de app gebruikers in staat stelt YouTube-video's te downloaden zonder beperkingen op het aantal downloads.",
+    "multipleformatsHeader": "Meerdere formaten",
+    "multipleformats": "HollywoodDownloader ondersteunt verschillende formaten, waaronder MP3, MP4, Webm, 3GP, MP4A en HD, waardoor gebruikers de flexibiliteit hebben om YouTube-video's te downloaden in hun voorkeursformaat voor een gepersonaliseerde kijkervaring.",
+    "multipleformatsAlt": "Afbeelding toont dat de app verschillende formaten ondersteunt.",
+    "mp3Header": "YouTube MP3-converter",
+    "mp3Text": ["Maak kennis met onze MP3 YouTube Video Converter - de ultieme tool voor het naadloos transformeren van je favoriete YouTube-video's in hoogwaardige MP3-audiobestanden. Deze gebruiksvriendelijke converter stelt je in staat om moeiteloos audio te extraheren uit elke YouTube-video, waardoor je gepersonaliseerde afspeellijsten kunt maken, kunt genieten van je favoriete muziek offline, of gewoon gegevens kunt besparen onderweg.",
+      "Met onze converter is het proces zo eenvoudig als het kopiëren en plakken van de YouTube-videolink, het selecteren van de gewenste audiokwaliteit en het klikken op de converteren knop. Ervaar razendsnelle conversies zonder concessies te doen aan de audiokwaliteit. Of je nu een muziekliefhebber bent, een podcastliefhebber, of gewoon wilt genieten van je favoriete content in audiovorm, onze MP3 YouTube Video Converter is de go-to oplossing voor een handige en plezierige luisterervaring. Upgrade moeiteloos je muziekbibliotheek en duik in de wereld van audiouitmuntendheid met onze MP3 YouTube Video Converter vandaag nog."],
+    "mp4Header": "YouTube MP4-converter",
+    "mp4Text": ["Ervaar naadloze videotransformatie met onze YouTube MP4 Converter-service. Zet moeiteloos je favoriete YouTube-video's om in hoogwaardige MP4-bestanden voor offline plezier. Ons gebruiksvriendelijke platform zorgt voor een snel en probleemloos proces, waardoor je video's in MP4-formaat kunt downloaden en opslaan met slechts een paar klikken. Geniet altijd en overal van je favoriete inhoud, of je nu onderweg bent of gewoon je persoonlijke mediatheek wilt opbouwen. Probeer onze YouTube MP4 Converter vandaag nog en ontgrendel een wereld van gemak in videoweergave en opslag."],
+    "shortsHeader": "YouTube Shorts Video Downloader",
+    "shortsText": ["Maak kennis met onze geavanceerde YouTube Shorts-downloadservice, ontworpen voor enthousiastelingen die naadloos van hun favoriete korte video's willen genieten, altijd en overal. Met ons gebruiksvriendelijke platform kun je moeiteloos YouTube Shorts-content downloaden in hoge kwaliteit, voor een plezierige kijkervaring onderweg. Ontdek een uitgebreide collectie van trending en boeiende shorts, en met slechts een paar klikken, transformeer ze tot gemakkelijk toegankelijke bestanden voor offline genot. Omarm het gemak van onze YouTube Shorts-downloadservice en mis nooit meer een moment van boeiende inhoud. Begin vandaag nog met het opbouwen van je persoonlijke bibliotheek!"],
+    "insrtuctionsShortHeader": "Download YouTube Shorts: Een stapsgewijze handleiding",
+    "removeInputTextButton": "Verwijder invoertekstknop",
+    "altThumbnail": "miniatuur"
+  }
+}

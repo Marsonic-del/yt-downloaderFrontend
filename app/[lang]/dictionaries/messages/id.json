@@ -1,0 +1,85 @@
+{
+    "Index": {
+      "button": "Unduh",
+      "placeholder": "Tempel tautan video Anda di sini",
+      "showButton": "Tampilkan lebih banyak",
+      "showLess": "Tampilkan lebih sedikit",
+      "duration": "Durasi",
+      "downloadButton": "Unduh",
+      "audioOnly": "Hanya Audio",
+      "videoOnly": "Hanya Video",
+      "headerTitle": "unduh video dari YouTube",
+      "headerQuestion": "bagaimana cara mengunduh video dari YouTube?",
+      "quality": "Kualitas:",
+      "title": "Unduh video dari YouTube - HollywoodDownloader.com",
+      "description": "Mudah mengunduh video dari YouTube dengan HollywoodDownloader.com. Tempel tautan video, tekan tombol Unduh, dan nikmati konten favorit Anda secara offline.",
+      "keywords": "unduh video dari YouTube, unduh video, HollywoodDownloader,",
+      "ogTitle": "Unduh video dari YouTube - HollywoodDownloader.com",
+      "ogDescription": "Mudah mengunduh video dari YouTube dengan HollywoodDownloader.com. Tempel tautan video, tekan tombol unduh, dan nikmati konten favorit Anda secara offline.",
+      "twitterTitle": "Unduh video dari YouTube - HollywoodDownloader.com",
+      "twitterDescription": "Mudah mengunduh video dari YouTube dengan HollywoodDownloader.com. Tempel tautan video, tekan tombol unduh, dan nikmati konten favorit Anda secara offline.",
+      "contentTitle": "HollywoodDownloader.com - Tempat sempurna Anda untuk mengunduh video!",
+      "content": [
+        "Mudah mengubah video YouTube favorit Anda menjadi harta offline dengan hanya menempelkan tautan video di bidang input di atas dan mengklik tombol unduh."
+      ],
+      "contentCoution": "Harap dicatat: Patuhi syarat penggunaan HollywoodDownloader.com sesuai dengan ketentuan layanan YouTube dan hukum hak cipta.",
+      "serviceDesc": "Mudah mengubah video YouTube favorit Anda menjadi harta offline. HollywoodDownloader memungkinkan Anda mengonversi & mengunduh video dari YouTube ke MP3, MP4, Webm, 3GP, MP4A dalam kualitas HD secara gratis.",
+      "insrtuctionsHeader": "Unduh Video YouTube: Panduan Langkah demi Langkah",
+      "instructions": [
+        "Salin tautan video YouTube yang ingin Anda unduh.",
+        "Tempelkan di bidang pencarian.",
+        "Pilih kualitas Video atau Audio yang Anda butuhkan dan klik tombol \"Unduh\"."
+      ],
+      "insrtuctionsMp3Header": "Konversi YouTube ke MP3: Panduan Cepat",
+      "insrtuctionsMp4Header": "Konversi YouTube ke MP4: Metode Mudah dan Cepat",
+      "instructionsImageCopy": "Gambar menunjukkan cara menyalin tautan YouTube",
+      "instructionsImagePaste": "Gambar menunjukkan cara menempel tautan YouTube di bidang pencarian HollywoodDownloader.com",
+      "instructionsImageDownload": "Gambar menunjukkan cara mengunduh video yang ditemukan",
+      "prosHeader": "Mengapa Hollywood Downloader adalah pilihan terbaik untuk mengunduh video Youtube",
+      "pros": [
+        "Benar-benar gratis.",
+        "Unduhan tanpa batas.",
+        "Kecepatan tinggi.",
+        "Tanpa SignUp",
+        "Dukungan format dan kualitas beragam."
+      ],
+      "youtubeShortsHeader": "YouTube Shorts",
+      "youtubeShorts": "HollywoodDownloader memungkinkan pengguna dengan mudah mengunduh video YouTube Shorts, memberikan solusi yang nyaman untuk menyimpan dan menikmati konten berformat pendek secara offline.",
+      "youtubeShortsAlt": "Gambar menunjukkan kemungkinan pengunduhan video Youtube Shorts.",
+      "highspeedHeader": "Kecepatan Tinggi",
+      "highspeed": "Memungkinkan pengunduhan cepat video YouTube, menjamin pengalaman yang cepat dan efisien bagi pengguna yang mencari akses cepat ke konten favorit mereka.",
+      "highspeedAlt": "Gambar menunjukkan pengunduhan dengan kecepatan tinggi.",
+      "multiplatformHeader": "Multiplatform",
+      "multiplatform": "HollywoodDownloader, alat yang serbaguna dan multiplatform, memberdayakan pengguna untuk mengunduh video YouTube dengan lancar di berbagai perangkat dan sistem operasi, menawarkan solusi pengunduhan yang fleksibel dan mudah diakses.",
+      "multiplatformAlt": "Gambar menunjukkan penggunaan multiplatform.",
+      "safeHeader": "Aman",
+      "safe": "HollywoodDownloader menjamin pengalaman pengunduhan yang aman karena tidak memerlukan pendaftaran atau masuk, memprioritaskan privasi dan kenyamanan pengguna saat mendapatkan video YouTube tanpa ribet.",
+      "safeAlt": "Gambar menunjukkan penggunaan aplikasi dengan aman.",
+      "freeHeader": "Benar-benar Gratis",
+      "free": "Kami menawarkan solusi benar-benar gratis untuk mengunduh video YouTube, memberikan akses tanpa batas kepada pengguna untuk mengakses konten favorit mereka tanpa biaya apa pun.",
+      "freeAlt": "Gambar menunjukkan bahwa aplikasi gratis.",
+      "nolimitHeader": "Tanpa Batas",
+      "nolimit": "Kami menyajikan pengalaman pengunduhan tanpa batas, memungkinkan pengguna untuk mengunduh video YouTube tanpa batasan jumlah unduhan, memberikan akses tanpa batas ke berbagai konten.",
+      "nolimitAlt": "Gambar menunjukkan bahwa aplikasi memungkinkan pengguna mengunduh video YouTube tanpa batasan jumlah unduhan.",
+      "multipleformatsHeader": "Berbagai Format",
+      "multipleformats": "HollywoodDownloader mendukung berbagai format, termasuk MP3, MP4, Webm, 3GP, MP4A, dan HD, menawarkan fleksibilitas kepada pengguna untuk mengunduh video YouTube dalam format pilihan mereka untuk pengalaman menonton yang personal.",
+      "multipleformatsAlt": "Gambar menunjukkan bahwa aplikasi mendukung berbagai format.",
+      "mp3Header": "Konverter Youtube MP3",
+      "mp3Text": [
+        "Perkenalkan konverter video YouTube MP3 kami - alat ultimatif untuk dengan lancar mengubah video YouTube favorit Anda menjadi file audio MP3 berkualitas tinggi. Konverter yang mudah digunakan ini memungkinkan Anda dengan mudah mengekstrak audio dari setiap video YouTube, memungkinkan Anda membuat daftar putar pribadi, menikmati musik favorit Anda secara offline, atau hanya menghemat data saat bepergian.",
+        "Dengan konverter kami, prosesnya seiring sederhana dengan menyalin dan menempelkan URL video YouTube, memilih kualitas audio yang diinginkan, dan menekan tombol konversi. Rasakan konversi yang cepat tanpa mengorbankan kualitas audio. Baik Anda penggemar musik, pecinta podcast, atau hanya ingin menikmati konten favorit Anda dalam bentuk audio, konverter video YouTube MP3 kami adalah solusi terbaik untuk pengalaman mendengarkan yang nyaman dan menyenangkan. Tingkatkan perpustakaan musik Anda dengan mudah dan telusuri dunia keunggulan audio dengan konverter video YouTube MP3 kami hari ini."
+      ],
+      "mp4Header": "Konverter Youtube MP4",
+      "mp4Text": [
+        "Alami transformasi video yang lancar dengan layanan konverter YouTube MP4 kami. Mengubah video YouTube favorit Anda menjadi file MP4 berkualitas tinggi untuk dinikmati secara offline. Platform yang mudah digunakan kami memastikan proses yang cepat dan tanpa masalah, memungkinkan Anda mengunduh dan menyimpan video dalam format MP4 hanya dengan beberapa klik. Nikmati konten favorit Anda kapan saja, di mana saja, baik Anda sedang bepergian atau hanya ingin membangun perpustakaan media pribadi Anda. Cobalah konverter YouTube MP4 kami hari ini dan buka dunia kenyamanan dalam pemutaran dan penyimpanan video."
+      ],
+      "shortsHeader": "Pengunduh Video YouTube Shorts",
+      "shortsText": [
+        "Perkenalkan layanan pengunduhan YouTube Shorts mutakhir kami, dirancang untuk para penggemar yang ingin dengan lancar menikmati video berformat pendek favorit mereka kapan saja, di mana saja. Dengan platform yang mudah digunakan kami, Anda dapat dengan mudah mengunduh konten YouTube Shorts dengan kualitas tinggi, memastikan pengalaman menonton yang menyenangkan saat bepergian. Jelajahi koleksi shorts yang tren dan menarik, dan hanya dengan beberapa klik, ubah mereka menjadi file yang mudah diakses untuk dinikmati secara offline. Cembrani kenyamanan layanan pengunduhan YouTube Shorts kami dan jangan pernah lewatkan momen konten yang memikat. Mulailah membangun perpustakaan pribadi Anda hari ini!"
+      ],
+      "insrtuctionsShortHeader": "Unduh YouTube Shorts: Panduan Langkah demi Langkah",
+      "removeInputTextButton": "Hapus tombol teks input",
+      "altThumbnail": "thumbnail"
+    }
+  }
+  
