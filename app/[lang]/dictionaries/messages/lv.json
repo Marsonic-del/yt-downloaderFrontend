@@ -24,7 +24,7 @@
   "Viegli pārvērtiet savus iecienītos YouTube video par bezsaistes bagātībām, vienkārši ielīmējot video saiti ievades laukā un noklikšķinot uz lejupielādes pogas."
   ],
   "contentCoution": "Lūdzu, ņemiet vērā: Ievērojiet HollywoodDownloader.com lietošanas noteikumus saskaņā ar YouTube pakalpojuma lietošanas noteikumiem un autortiesību likumiem.",
-  "serviceDesc": "Viegli pārvērtiet savus iecienītos YouTube video par bezsaistes bagātībām. HollywoodDownloader ļauj jums konvertēt un lejupielādēt video no YouTube uz MP3, MP4, Webm, 3GP, MP4A HD kvalitātē bez maksas.",
+  "serviceDesc": "Viegli pārvērtiet savus iecienītos YouTube video par bezsaistes bagātībām. HollywoodDownloader ļauj jums konvertēt un lejupielādēt video no YouTube uz MP3, MP4, Webm, 3GP, MP4A HD kvalitātē bez maksas. Jūs arī saņemat daudz svarīgas informācijas par video, kas palīdzēs jums tam piešķirt ekspertu novērtējumu.",
   "insrtuctionsHeader": "Lejupielādēt YouTube video: Soli pa solim ceļvedis",
   "instructions": [
   "1. Nokopējiet YouTube video saiti, kuru vēlaties lejupielādēt.",
@@ -74,6 +74,79 @@
   "shortsText": ["Iepazīstiniet ar mūsu jaunievedumu - YouTube Shorts lejupielādes pakalpojumu, kas paredzēts entuziastiem, kuri vēlas bez problēmām baudīt savus iecienītos īsformāta video jebkur un jebkur. Ar mūsu lietotājam draudzīgo platformu jūs bez pūlēm varat lejupielādēt YouTube Shorts saturu augstā kvalitātē, nodrošinot patīkamu skatīšanās pieredzi ceļojot. Izkustieties pa plašu, iepriekš izraudzītu un iesaistošu īsformāta saturu, un ar tikai dažiem klikšķiem pārvērtiet tos par viegli pieejamiem failiem bezsaistē. Iepazīstiet mūsu YouTube Shorts lejupielādes pakalpojuma ērtības un nekad nesagaidiet brīdi no aizraujoša satura. Sāciet veidot savu personīgo bibliotēku jau šodien!"],
   "insrtuctionsShortHeader": "Lejupielādēt YouTube Shorts: Soli pa solim ceļvedis",
   "removeInputTextButton": "Noņemt ievades teksta pogu",
-  "altThumbnail": "papildattēls"
+  "altThumbnail": "papildattēls",
+
+  "formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, kas nozīmē MPEG Audio Layer III, ir plaši izmantots audio saspiešanas formāts. Tas ir veids, kā samazināt audio failu lielumu, vienlaicīgi saglabājot pieņemamu audio kvalitāti. MP3 formātu izstrādāja Moving Picture Experts Group (MPEG) kā daļu no MPEG-1 un MPEG-2 specifikācijām.",
+
+    "Galvenie MP3 formāta iezīmju punkti ietver:",
+
+    "Saspiešana: MP3 izmanto zaudējošu saspiešanu, kas nozīmē, ka daži audio dati tiek izmesti saspiešanas procesā, lai sasniegtu mazākus failu izmērus. Tomēr saspiešana ir veidota tā, lai būtu perceptuāli caurspīdīga, kas nozīmē, ka cilvēka auss parasti nevar atšķirt atšķirību starp oriģinālo audio un saspiešanas versiju.",
+
+    "Bitreits: MP3 failus var izveidot ar dažādiem bitreitiem, kas nosaka datu daudzumu, kas tiek izmantots audio reprezentācijai. Augstāki bitreiti parasti nodrošina labāku audio kvalitāti, bet arī lielākus failu izmērus. Parastie bitreiti svārstās no 128 kbps (kilobiti sekundē) līdz 320 kbps.",
+
+    "Saderība: MP3 ir plaši atbalstīts formāts un to var atskaņot uz dažādām ierīcēm, ieskaitot datorus, viedtālruņus, MP3 atskaņotājus un dažādas audio atskaņošanas ierīces. Tas ir kļuvis par standartu digitālā audio izplatībai.",
+
+    "Faila paplašinājums: MP3 failiem parasti ir .mp3 faila paplašinājums.",
+
+    "MP3 revolūcija mūzikas industriju pārvērta, iespējot efektīvu digitālā audio izplatību internetā. Tas ir bijis dominējošs formāts mūzikas lejupielādēm, straumēšanai un personīgai audio atskaņošanai vairākus gadus. Tomēr ir vērts atzīmēt, ka tā kā tas izmanto zaudējošu saspiešanu, daža audio kvalitāte tiek upurēta mazākām failu izmēru salīdzinājumā ar bezzaudējuma audio formātiem, piemēram, WAV vai FLAC."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": [
+    "MP4, vai MPEG-4 daļa 14, ir plaši izmantots multivides konteinerformāts audio un video plūsmu, kā arī citu datu, piemēram, subtitru un statisko attēlu, uzglabāšanai. To izstrādāja Moving Picture Experts Group (MPEG) un tas ir daļa no MPEG-4 standarta.",
+    "Galvenās MP4 formāta iezīmes ietver:",
+
+    "Video kodeki: MP4 faili var saturēt video plūsmas, kas saspiežas ar dažādiem kodekiem, piemēram, H.264 (Advanced Video Coding), kas ir augsti efektīvs un plaši izmantots video saspiešanas standarts. Citus kodekus, piemēram, MPEG-4 Visual un H.263, arī atbalsta.",
+
+    "Audio kodeki: MP4 atbalsta dažādus audio kodekus, ieskaitot Advanced Audio Coding (AAC), kas ir populārs izvēle augstas kvalitātes audio saspiešanai. Var izmantot arī MP3 un citus audio kodekus.",
+
+    "Konteinerformāts: MP4 failiem ir .mp4 faila paplašinājums un tie kalpo kā konteineri gan video, gan audio plūsmām, kā arī papildu metadatiem un multivides saturam. Konteiners ir elastīgs un var apstrādāt dažādas mediju veidus.",
+
+    "Saderība: MP4 ir plaši atbalstīts formāts un ir saderīgs ar plašu ierīču, programmatūras lietojumprogrammu un platformu klāstu. To bieži izmanto tiešsaistes straumēšanai, tiešsaistes video, digitālai lejupielādei un mobīlajām ierīcēm.",
+
+    "MP4 ir kļuvis par vienu no standarta formātiem multivides saturam, pateicoties svarīgajai saspiešanas efektivitātei, kvalitātei un plašai saderībai. To izmanto dažādiem mērķiem, ieskaitot video kopīgošanu, straumēšanas pakalpojumus, mobīlās ierīces un citus."],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": [
+    "MP4A formāts atsaucas uz MP4 (MPEG-4 daļa 14) multivides konteinera formāta audio komponenti. MP4 ir plaši izmantots faila formāts audio un video plūsmu, kā arī citiem datiem, piemēram, subtitriem un statiskiem attēliem uzglabāšanai. MP4A precīzi norāda, ka fails satur audio datus, izmantojot vienu no MPEG-4 audio kodekiem.",
+    "'A' nozīmē audio, un MP4A failos var izmantot dažādus audio kodekus. Bieži sastopamie audio kodeki MP4A failos ietver Advanced Audio Coding (AAC), kas plaši izmantojams augstas kvalitātes audio saspiešanai, kā arī citus audio kodekus, piemēram, MP3 vai pat nesaspiešamu PCM (Pulse Code Modulation) audio.",
+    "Kopsavilkumā, sastopot failu ar MP4A paplašinājumu vai atsauci, tas norāda, ka fails ir MP4 konteiners, kas specifiski satur audio datus, un faktiskais audio kodeks var atšķirties atkarībā no konkrētās implementācijas un kodēšanas izvēlēm, kas veiktas satura veidošanas laikā."],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": [
+    "WebM ir multivides konteinera formāts, kas izstrādāts lietošanai tīmeklī. To izstrādāja WebM Project, kas ir Google sponsora projekts. WebM formāts ir izstrādāts kā atvērts, bezmaksas alternatīvs citiem multivides konteinera formātiem, piemēram, MP4.",
+    "WebM galvenās iezīmes ietver:",
+
+    "Video kodeks: WebM parasti izmanto VP9 video kodeku, kas nodrošina efektīvu saspiešanu augstas kvalitātes videoklipiem, saglabājot atvērtību un bezmaksas izmantošanu. To var izmantot arī VP8 video kodeks.",
+
+    "Audio kodeks: WebM failu audio sastāvdaļa bieži izmanto atvērto un bezmaksas Opus audio kodeku, lai gan var izmantot arī Vorbis.",
+
+    "Konteinerformāts: WebM failiem ir .webm faila paplašinājums, un tie kalpo kā konteineri gan video, gan audio plūsmām. WebM konteineris ir izstrādāts, lai būtu viegls un piemērots izmantošanai tīmeklī.",
+
+    "Viens no galvenajiem iemesliem, kāpēc tika izstrādāts WebM, bija piedāvāt formātu, kas ļauj augstas kvalitātes video un audio straumēšanu tīmeklī, neprasa lietotājiem maksas licenču samaksu. Tas ir kļuvis populārs HTML5 video un audio elementu izmantošanai, piedāvājot alternatīvu pretietējiem formātiem, piemēram, H.264 un AAC.",
+    "WebM atbalsta lielākās tīmekļa pārlūkprogrammas, ieskaitot Google Chrome, Mozilla Firefox un Opera. To izmanto tiešsaistes straumēšanai, video konferencēm un citām tīmeklī balstītām multivides lietojumprogrammām."],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": [
+    "3GP formāts ir multivides konteinera formāts, kas izstrādāts mobilajiem telefoniem. Tas nozīmē '3rd Generation Partnership Project', kas ir sadarbība starp telekomunikāciju standartu organizācijām, lai izstrādātu specifikācijas mobilajiem sistēmām, it īpaši 3G mobilajiem tīkliem.",
+    "3GP faili parasti satur video plūsmas, kas saspiežas ar H.263 vai H.264 video kodekiem, un audio plūsmas, kas saspiežas ar AMR-NB vai AAC-LC audio kodekiem. Šis formāts ir optimizēts mobilajām ierīcēm ar ierobežotu uzglabāšanas un joslas platuma iespējām, padarot to piemērotu straumēšanai pār 3G tīkliem.",
+    "Sākotnēji 3GP tika izstrādāts, lai apstrādātu video saturu 3G mobilajos telefona, bet tas ir izmantots arī citos kontekstos, piemēram, tiešsaistes video straumēšanā un koplietošanā. Tomēr ar mobilo tehnoloģiju attīstību un spējīgāku formātu pieaugumu, piemēram, MP4, 3GP izmantošana laika gaitā ir samazinājusies. Tagad MP4 tiek plaši atbalstīts un tiek uzskatīts par daudzpusīgāku un efektīvāku multivides konteinera formātu."],
+
+  "formatHeaderhd": "HD kvalitāte",
+  "formatTexthd": ["Izteiciens 'HD video formāts' attiecas uz video formātiem, kas atbalsta Augstas izšķirtspējas (HD) rezolūciju, kas ir augstāka videokvalitāte salīdzinājumā ar Standarta izšķirtspēju (SD). HD video parasti ir ar lielāku pikseļu skaitu, kas nodrošina asākas un detalizētākas attēlu kvalitātes rezultātu. Ir vairāki izplatīti HD video formāti, kuriem ir dažādi specifikācijas attiecībā uz izšķirtspēju, kadriem un saspiešanas metodēm. Šeit ir daži populāri HD video formāti:",
+
+    "HD Ready (720p): Šim formātam ir izšķirtspēja 1280x720 pikseļi. 'P' nozīmē progresīvo skenēšanu, kas nozīmē, ka katrs kadrs tiek zīmēts secīgi.",
+
+    "Pilna HD (1080p): Šim formātam ir izšķirtspēja 1920x1080 pikseļi, nodrošinot pat augstāku attēla kvalitāti nekā HD Ready. Tāpat kā 720p, 'p' nozīmē progresīvo skenēšanu.",
+
+    "2K (vai Quad HD): Šim formātam ir aptuvena izšķirtspēja 2048x1080 pikseļi. To parasti izmanto digitālajā kino un dažos augstas klases displejos.",
+
+    "Ultra HD (4K): Šim formātam ir izšķirtspēja 3840x2160 pikseļi, piedāvājot četras reizes lielāku izšķirtspēju nekā Pilna HD. To plaši izmanto televizoros, monitoros un digitālās saturu ražošanai.",
+
+    "8K Ultra HD: Ar izšķirtspēju 7680x4320 pikseļi, 8K nodrošina vēl augstāku detalizāciju. Tomēr līdz manas zināšanu sagriezuma datumam janvārī 2022. gadā 8K saturs ir mazāk izplatīts, jo prasa augstas aparatūras prasības gan ierakstīšanai, gan atskaņošanai.",
+
+    "Parastie video kodeki, kas izmantoti HD saturam, ietver H.264 (AVC), H.265 (HEVC) un VP9, citi. Šie kodeki ir atbildīgi par efektīvu video datu saspiešanu, lai samazinātu failu izmērus, vienlaikus saglabājot augstu kvalitāti atskaņošanai.",
+
+    "Runājot par HD video formātiem, svarīgi ir ņemt vērā gan izšķirtspēju, gan kadru ātrumu, jo abi veicina kopējo video kvalitāti."]
   }
 }

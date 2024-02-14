@@ -25,7 +25,7 @@
     ],
 
     "contentCoution": "Let op: Volg de gebruiksvoorwaarden van HollywoodDownloader.com in overeenstemming met de servicevoorwaarden van YouTube en het auteursrecht.",
-    "serviceDesc": "Verander eenvoudig je favoriete YouTube-video's in offline schatten. HollywoodDownloader stelt je in staat video van YouTube te converteren en te downloaden naar MP3, MP4, Webm, 3GP, MP4A in HD-kwaliteit, helemaal gratis.",
+    "serviceDesc": "Verander eenvoudig je favoriete YouTube-video's in offline schatten. HollywoodDownloader stelt je in staat video van YouTube te converteren en te downloaden naar MP3, MP4, Webm, 3GP, MP4A in HD-kwaliteit, helemaal gratis. Ook krijg je veel belangrijke informatie over de video die je zal helpen om het een expertbeoordeling te geven.",
 
     "insrtuctionsHeader": "Download YouTube-video's: Een stapsgewijze handleiding",
     "instructions": ["1. Kopieer de YouTube-videolink die je wilt downloaden.",
@@ -79,6 +79,62 @@
     "shortsText": ["Maak kennis met onze geavanceerde YouTube Shorts-downloadservice, ontworpen voor enthousiastelingen die naadloos van hun favoriete korte video's willen genieten, altijd en overal. Met ons gebruiksvriendelijke platform kun je moeiteloos YouTube Shorts-content downloaden in hoge kwaliteit, voor een plezierige kijkervaring onderweg. Ontdek een uitgebreide collectie van trending en boeiende shorts, en met slechts een paar klikken, transformeer ze tot gemakkelijk toegankelijke bestanden voor offline genot. Omarm het gemak van onze YouTube Shorts-downloadservice en mis nooit meer een moment van boeiende inhoud. Begin vandaag nog met het opbouwen van je persoonlijke bibliotheek!"],
     "insrtuctionsShortHeader": "Download YouTube Shorts: Een stapsgewijze handleiding",
     "removeInputTextButton": "Verwijder invoertekstknop",
-    "altThumbnail": "miniatuur"
+    "altThumbnail": "miniatuur",
+
+    "formatHeadermp3": "MP3",
+    "formatTextmp3": ["MP3, wat staat voor MPEG Audio Layer III, is een veelgebruikt audio-compressieformaat. Het is een methode om audiobestanden te comprimeren om hun grootte te verminderen terwijl redelijke audiokwaliteit behouden blijft. Het MP3-formaat is ontwikkeld door de Moving Picture Experts Group (MPEG) als onderdeel van de MPEG-1 en MPEG-2 specificaties.",
+      "Belangrijke kenmerken van het MP3-formaat zijn:",
+      "Compressie: MP3 maakt gebruik van lossy compressie, wat betekent dat sommige audiogegevens worden verwijderd tijdens het compressieproces om kleinere bestandsgroottes te bereiken. De compressie is echter ontworpen om perceptueel transparant te zijn, wat betekent dat het menselijk oor over het algemeen geen onderscheid kan maken tussen het originele geluid en de gecomprimeerde versie.",
+      "Bitrate: MP3-bestanden kunnen worden gemaakt met verschillende bitrates, die de hoeveelheid gegevens bepalen die wordt gebruikt om het geluid weer te geven. Hogere bitrates resulteren over het algemeen in een betere audiokwaliteit, maar ook in grotere bestandsgroottes. Gangbare bitrates variëren van 128 kbps (kilobits per seconde) tot 320 kbps.",
+      "Compatibiliteit: MP3 is een veel ondersteund formaat en kan worden afgespeeld op een breed scala aan apparaten, waaronder computers, smartphones, MP3-spelers en verschillende audioweergave-apparaten. Het is een standaard geworden voor digitale audioverspreiding.",
+      "Bestandsextensie: MP3-bestanden hebben doorgaans de extensie .mp3.",
+      "MP3 heeft de muziekindustrie gerevolutioneerd door de efficiënte distributie van digitaal geluid via internet mogelijk te maken. Het is jarenlang een dominante indeling geweest voor muziekdownloads, streaming en persoonlijke audioweergaveapparaten. Het is echter vermeldenswaardig dat vanwege de lossy compressie enige audiokwaliteit wordt opgeofferd voor kleinere bestandsgroottes in vergelijking met lossless audioformaten zoals WAV of FLAC."],
+  
+    "formatHeadermp4": "MP4",
+    "formatTextmp4": [
+      "MP4, of MPEG-4 Part 14, is een veelgebruikt multimediabestandsformaat voor het opslaan van audio- en videostreams, evenals andere soorten gegevens zoals ondertitels en stilstaande beelden. Het is ontwikkeld door de Moving Picture Experts Group (MPEG) en maakt deel uit van de MPEG-4-standaard.",
+      "Belangrijke kenmerken van het MP4-formaat zijn:",
+      "Videocodecs: MP4-bestanden kunnen videostreams bevatten die zijn gecomprimeerd met verschillende codecs, zoals H.264 (Advanced Video Coding), wat een zeer efficiënte en veelgebruikte videocompressiestandaard is. Andere codecs zoals MPEG-4 Visual en H.263 worden ook ondersteund.",
+      "Audiocodecs: MP4 ondersteunt een scala aan audiocodecs, waaronder Advanced Audio Coding (AAC), wat een populaire keuze is voor hoogwaardige audiocompressie. Ook kunnen MP3 en andere audiocodecs worden gebruikt.",
+      "Containerformaat: MP4-bestanden hebben de extensie .mp4 en dienen als containers voor zowel video- als audiostreams, evenals aanvullende metadata en multimedia-inhoud. De container is flexibel en kan verschillende mediatypen verwerken.",
+      "Compatibiliteit: MP4 is een veel ondersteund formaat en is compatibel met een breed scala aan apparaten, softwaretoepassingen en platforms. Het wordt veel gebruikt voor streaming, online video, digitale downloads en mobiele apparaten.",
+      "MP4 is een van de standaardformaten geworden voor het leveren van multimediainhoud vanwege de balans tussen compressie-efficiëntie, kwaliteit en brede compatibiliteit. Het wordt gebruikt voor verschillende doeleinden, waaronder het delen van video, streamingdiensten, mobiele apparaten en meer."
+    ],
+  
+    "formatHeadermp4a": "MP4A",
+    "formatTextmp4a": [
+      "Het MP4A-formaat verwijst naar het audiocomponent van het MP4 (MPEG-4 Part 14) multimediabestandsformaat. MP4 is een veelgebruikt bestandsformaat voor het opslaan van audio- en videostreams, evenals andere gegevens zoals ondertitels en stilstaande beelden. MP4A geeft specifiek aan dat het bestand audiogegevens bevat met behulp van een van de MPEG-4-audiocodecs.",
+      "De 'A' in MP4A staat voor audio, en verschillende audiocodecs kunnen worden gebruikt binnen de MP4-container. Gangbare audiocodecs die worden aangetroffen in MP4A-bestanden zijn Advanced Audio Coding (AAC), dat veel wordt gebruikt voor hoogwaardige audiocompressie, evenals andere audiocodecs zoals MP3 of zelfs ongecomprimeerde PCM (Pulse Code Modulation) audio.",
+      "Samenvattend, wanneer je een bestand tegenkomt met de extensie MP4A, geeft dit aan dat het bestand een MP4-container is die specifiek audiogegevens bevat, en de daadwerkelijke audiocodec kan variëren afhankelijk van de specifieke implementatie en coderingskeuzes tijdens het maken van de inhoud."
+    ],
+  
+    "formatHeaderwebm": "WEBM",
+    "formatTextwebm": [
+      "WebM is een multimediabestandsformaat dat is ontworpen voor gebruik op internet. Het is ontwikkeld door het WebM Project, een project gesponsord door Google. Het WebM-formaat is specifiek ontworpen als een open, royalty-vrij alternatief voor andere multimediabestandsformaten, zoals MP4.",
+      "Belangrijke kenmerken van WebM zijn onder andere:",
+      "Videocodec: WebM maakt doorgaans gebruik van de VP9-videocodec, die efficiënte compressie biedt voor hoogwaardige video terwijl deze open en royalty-vrij blijft. Het kan ook de VP8-videocodec gebruiken.",
+      "Audiocodec: Het audiocomponent van WebM-bestanden maakt vaak gebruik van de open en royalty-vrije Opus-audiocodec, hoewel ook Vorbis kan worden gebruikt.",
+      "Containerformaat: WebM-bestanden hebben de extensie .webm en dienen als containers voor zowel video- als audiostreams. De WebM-container is ontworpen om lichtgewicht te zijn en geschikt te zijn voor webgebruik.",
+      "Een van de belangrijkste motivaties achter de ontwikkeling van WebM was om een formaat te bieden dat hoogwaardige video- en audiostreaming op internet mogelijk maakt zonder dat gebruikers licentiekosten hoeven te betalen. Het is populair geworden voor gebruik in HTML5-video- en audio-elementen als alternatief voor proprietair formaat zoals H.264 en AAC.",
+      "WebM wordt ondersteund door belangrijke webbrowsers, waaronder Google Chrome, Mozilla Firefox en Opera. Het wordt gebruikt voor online streaming, videoconferenties en andere op web gebaseerde multimediatoepassingen."
+    ],
+  
+    "formatHeader3gp": "3GP",
+    "formatText3gp": [
+      "Het 3GP-formaat is een multimediabestandsformaat dat is ontworpen voor mobiele telefoons. Het staat voor '3rd Generation Partnership Project', een samenwerking tussen organisaties voor telecommunicatiestandaarden om specificaties te ontwikkelen voor mobiele systemen, met name 3G-mobiele netwerken.",
+      "3GP-bestanden bevatten doorgaans videostreams gecomprimeerd met de H.263- of H.264-videocodecs en audiostreams gecomprimeerd met AMR-NB- of AAC-LC-audiocodecs. Het formaat is geoptimaliseerd voor mobiele apparaten met beperkte opslag- en bandbreedtecapaciteiten, waardoor het geschikt is voor streaming over 3G-netwerken.",
+      "Oorspronkelijk werd 3GP ontwikkeld om video-inhoud op 3G-mobiele telefoons te verwerken, maar het is ook in andere contexten gebruikt, zoals online videostreaming en delen. Met de vooruitgang in mobiele technologie en de opkomst van meer capabele formaten, zoals MP4, is het gebruik van 3GP in de loop der tijd afgenomen. MP4 wordt nu breder ondersteund en wordt beschouwd als een veelzijdiger en efficiënter multimediabestandsformaat."
+    ],
+  
+    "formatHeaderhd": "HD-kwaliteit",
+    "formatTexthd": ["De term 'HD videoformaat' verwijst naar videoformaten die High Definition (HD) resolutie ondersteunen, wat een hoger niveau van videokwaliteit is vergeleken met Standard Definition (SD). HD-video heeft doorgaans een hogere pixeltelling, wat resulteert in scherpere en gedetailleerdere beelden. Er zijn verschillende gangbare HD-videoformaten, elk met verschillende specificaties met betrekking tot resolutie, framesnelheden en compressiemethoden. Hier zijn enkele populaire HD-videoformaten:",
+    "HD Ready (720p): Dit formaat heeft een resolutie van 1280x720 pixels. De 'p' staat voor progressieve scan, wat betekent dat elk frame sequentieel wordt getekend.",
+    "Full HD (1080p): Dit formaat heeft een resolutie van 1920x1080 pixels, wat een nog hogere beeldkwaliteit biedt dan HD Ready. Net als 720p staat de 'p' voor progressieve scan.",
+    "2K (of Quad HD): Dit formaat heeft een resolutie van ongeveer 2048x1080 pixels. Het wordt vaak gebruikt in digitale cinema en sommige hoogwaardige displays.",
+    "Ultra HD (4K): Dit formaat heeft een resolutie van 3840x2160 pixels en biedt vier keer de resolutie van Full HD. Het wordt veel gebruikt in tv's, monitoren en digitale contentproductie.",
+    "8K Ultra HD: Met een resolutie van 7680x4320 pixels biedt 8K een nog hoger detailniveau. Echter, tot mijn kennisafsnijdatum in januari 2022 is 8K-content minder gebruikelijk vanwege de veeleisende hardwarevereisten voor zowel opname als weergave.",
+    "Gemeenschappelijke videocodecs die worden gebruikt voor HD-content zijn H.264 (AVC), H.265 (HEVC) en VP9, onder andere. Deze codecs zijn verantwoordelijk voor het efficiënt comprimeren van videogegevens om bestandsgroottes te verminderen, terwijl ze een hoogwaardige weergave behouden.",
+    "Bij het bespreken van HD-videoformaten is het belangrijk om zowel de resolutie als de framesnelheid in overweging te nemen, omdat beide bijdragen aan de algehele videokwaliteit."
+    ]
   }
 }

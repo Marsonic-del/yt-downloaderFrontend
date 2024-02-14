@@ -25,7 +25,7 @@
     ],
 
     "contentCoution": "Palun märkige: Järgige HollywoodDownloader.com kasutustingimusi vastavalt YouTube'i kasutustingimustele ja autoriõiguse seadustele.",
-    "serviceDesc": "Muutke oma lemmik YouTube'i videod lihtsalt võrguühenduseta aareteks. HollywoodDownloader võimaldab teil konverteerida ja alla laadida YouTube'i videoid MP3, MP4, Webm, 3GP, MP4A kõrge kvaliteediga tasuta.",
+    "serviceDesc": "Muutke oma lemmik YouTube'i videod lihtsalt võrguühenduseta aareteks. HollywoodDownloader võimaldab teil konverteerida ja alla laadida YouTube'i videoid MP3, MP4, Webm, 3GP, MP4A kõrge kvaliteediga tasuta. Te saate ka palju olulist teavet video kohta, mis aitab teil anda sellele eksperti hinnangut.",
 
     "insrtuctionsHeader": "YouTube'i videote allalaadimine: Samm-sammuline juhend",
     "instructions": [
@@ -86,6 +86,58 @@
     ],
     "insrtuctionsShortHeader": "Laadi alla YouTube Shorts: Samm-sammuline juhend",
     "removeInputTextButton": "Eemalda sisestustekst nupp",
-    "altThumbnail": "Pisipilt"
+    "altThumbnail": "Pisipilt",
+
+    "formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, mis tähistab MPEG Audio Layer III, on laialt levinud heli tihendamise vorming. See on meetod helifailide tihendamiseks nende suurust vähendades, säilitades samal ajal mõistliku helikvaliteedi. MP3 vormingut arendas välja Moving Picture Experts Group (MPEG) osana MPEG-1 ja MPEG-2 spetsifikatsioonidest.",
+    "MP3 vormingu põhijooned hõlmavad:",
+    "Tihendamine: MP3 kasutab kaduvat tihendamist, mis tähendab, et mõned heliandmed jäetakse tihendamise käigus välja, et saavutada väiksemad failisuurused. Siiski on tihendamine kavandatud olema tajutavalt läbipaistev, mis tähendab, et inimkõrv ei suuda tavaliselt eristada originaalheli ja tihendatud versiooni vahet.",
+    "Bitrate: MP3 faile saab luua erinevatel bitrate'idel, mis määravad, kui palju andmeid kasutatakse heli esindamiseks. Kõrgemad bitrate'id annavad üldiselt parema helikvaliteedi, kuid ka suuremad failisuurused. Tavalised bitrate'id ulatuvad 128 kbps (kilobitid sekundis) kuni 320 kbps.",
+    "Ühilduvus: MP3 on laialdaselt toetatud vorming ja seda saab mängida mitmesugustel seadmetel, sealhulgas arvutitel, nutitelefonidel, MP3-mängijatel ja erinevatel heli esitusseadmetel. See on saanud digitaalse heli levitamise standardiks.",
+    "Faililaiend: MP3 failidel on tavaliselt .mp3 faililaiend.",
+    "MP3 muutis muusikatööstust, võimaldades tõhusat digitaalsete helide levitamist internetis. See on olnud domineeriv formaat muusika allalaadimiseks, voogesituseks ja isiklike heliseadmete jaoks palju aastaid. Siiski tuleb märkida, et kaduva tihendamise tõttu ohverdatakse mõnda helikvaliteeti võrreldes kaotuseta heliformaatidega nagu WAV või FLAC."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": ["MP4 ehk MPEG-4 Osa 14 on laialt levinud multimeediakonteinerformaat heli- ja videostreamide, samuti subtiitrite ja staatiliste piltide salvestamiseks. Seda arendas välja Moving Picture Experts Group (MPEG) ja see kuulub MPEG-4 standardi hulka.",
+    "MP4 vormingu põhijooned hõlmavad:",
+    "Videocodecid: MP4 failid võivad sisaldada videostreams, mis on kokku surutud erinevate kodekitega, näiteks H.264 (Advanced Video Coding), mis on väga efektiivne ja laialdaselt kasutatav videokompressiooni standard. Toetatakse ka teisi kodekeid nagu MPEG-4 Visual ja H.263.",
+    "Audiocodecid: MP4 toetab mitmeid audiocodekeid, sealhulgas Advanced Audio Coding (AAC), mis on populaarne valik kvaliteetse heli kokkusurumiseks. Kasutada saab ka MP3 ja muid audiocodekeid.",
+    "Konteinerformaat: MP4 failidel on .mp4 faililaiend ja need toimivad nii video- kui ka helistreamide konteineritena, samuti täiendava metaandmete ja multimeediumisisu kandjatena. Konteiner on paindlik ja suudab hakkama saada mitmesuguste meediatüüpidega.",
+    "Ühilduvus: MP4 on laialdaselt toetatud formaat ja on ühilduv laia valiku seadmete, tarkvararakenduste ja platvormidega. Seda kasutatakse tavaliselt voogesituseks, veebivideoks, digitaalseteks allalaadimisteks ja mobiilseadmeteks.",
+    "MP4 on saanud üheks standardiformaadiks multimeediasisu edastamiseks tänu sellele, et see ühendab tõhusa kokkusurumise, kvaliteedi ja laia ühilduvuse. Seda kasutatakse mitmesugustel eesmärkidel, sealhulgas videode jagamisel, voogesitusteenustes, mobiilseadmetes ja mujal."
+  ],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": ["MP4A formaat viitab helikomponendile MP4 (MPEG-4 Osa 14) multimeediakonteinerformaadis. MP4 on laialt levinud failiformaat heli- ja videostreamide, samuti muude andmete salvestamiseks, nagu subtiitrid ja staatilised pildid. MP4A täpsustab, et fail sisaldab heliandmeid kasutades ühte MPEG-4 helikodekeid.",
+    "'A' tähendab MP4A-s heli, ja konteineri sees saab kasutada erinevaid helikodekeid. MP4A failides leiduvad tavalised helikodekid hõlmavad Advanced Audio Coding (AAC), mida laialdaselt kasutatakse kvaliteetse heli kokkusurumiseks, samuti teisi helikodekeid nagu MP3 või isegi pakendamata PCM (Pulse Code Modulation) heli.",
+    "Kokkuvõttes tähendab MP4A laiendiga faili kohtumine, et tegemist on MP4 konteineriga, mis sisaldab spetsiaalselt heliandmeid, ja tegelik helikodek võib varieeruda sõltuvalt konkreetsest rakendusest ja kodeerimisvalikutest sisu loomise ajal."
+  ],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": ["WebM on multimeediakonteinerformaadid, mis on mõeldud kasutamiseks veebis. Seda arendas WebM Project, mis on Google'i rahastatud projekt. WebM formaat on spetsiaalselt loodud olema avatud, tasuta alternatiiv teistele multimeediakonteinerformaatidele, nagu MP4.",
+    "WebM põhijooned hõlmavad:",
+    "Videocodec: WebM kasutab tavaliselt VP9 videocodecit, mis pakub tõhusat kokkusurumist kõrgekvaliteedilise video jaoks, samal ajal püsides avatud ja tasuta. Seda saab kasutada ka VP8 videocodeci korral.",
+    "Audiocodec: WebM failide helikomponent kasutab sageli avatud ja tasuta Opus audiocodecit, kuigi kasutada saab ka Vorbisi.",
+    "Konteinerformaat: WebM failidel on .webm faililaiend ja need toimivad nii video- kui ka helistreamide konteineritena. WebM konteiner on loodud olema kerge ja sobiv veebikasutuseks.",
+    "WebM arendamise peamine motivatsioon oli pakkuda formaati, mis võimaldaks kvaliteetset video- ja helivoogu veebis ilma vajaduseta, et kasutajad maksaksid litsentsitasusid. See on populaarne HTML5 video- ja helielementide kasutamisel, pakkudes alternatiivi propageeritud formaatidele nagu H.264 ja AAC.",
+    "WebM on toetatud suurte veebibrauserite poolt, sealhulgas Google Chrome, Mozilla Firefox ja Opera. Seda kasutatakse veebipõhiseks voogesituseks, videokonverentsideks ja muudeks veebipõhisteks multimeediumirakendusteks."
+  ],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": ["3GP formaat on multimeediakonteinerformaadid, mis on mõeldud mobiiltelefonidele. See tähistab '3rd Generation Partnership Project', mis on koostöötelekommunikatsiooni standardite organisatsioonide vahel spetsifikatsioonide väljatöötamiseks mobiilsüsteemide, eriti 3G-mobiilivõrkude jaoks.",
+    "3GP failid sisaldavad tavaliselt videostreams, mis on kokku surutud H.263 või H.264 videocodec'idega, ja helistreamid, mis on kokku surutud AMR-NB või AAC-LC audiocodec'idega. Formaat on optimeeritud mobiilseadmetele, millel on piiratud salvestusruum ja ribalaius, sobides seega hästi voogesituseks 3G võrkudes.",
+    "Algselt arendati 3GP videote käsitlemiseks 3G mobiiltelefonides, kuid seda on kasutatud ka teistes kontekstides, nagu veebipõhine videovoog ja jagamine. Siiski on 3GP kasutamine aja jooksul vähenenud tänu mobiiltehnoloogia edusammudele ja tõhusamatele formaatidele, nagu MP4. MP4 on nüüd laialdasemalt toetatud ja peetakse mitmekülgsemaks ja tõhusamaks multimeediakonteinerformaadiks."
+  ],
+
+  "formatHeaderhd": "HD-kvaliteet",
+  "formatTexthd": ["Mõiste 'HD-videovorming' viitab videovormingutele, mis toetavad kõrge eraldusvõimega (HD) kvaliteeti, mis on suurem videokvaliteet võrreldes tavalise eraldusvõimega (SD). HD-videol on tavaliselt kõrgem pikselite arv, mis tagab teravamad ja detailsemad pildid. On mitmeid levinud HD-videovorminguid, millel on erinevad spetsifikatsioonid, sealhulgas eraldusvõime, kaadrisagedus ja kompressioonimeetodid. Siin on mõned populaarsed HD-videovormingud:",
+    "HD Ready (720p): See formaat on eraldusvõimega 1280x720 pikslit. 'p' tähistab progressiivset skannimist, mis tähendab, et iga kaader joonistatakse järjestikku.",
+    "Täis-HD (1080p): Sellel formaadil on eraldusvõimega 1920x1080 pikslit, pakkudes veelgi paremat pildikvaliteeti kui HD Ready. Nagu 720p puhul, tähistab 'p' progressiivset skannimist.",
+    "2K (või Quad HD): Sellel formaadil on eraldusvõime umbes 2048x1080 pikslit. See on tavaline digitaalses kinoteatris ja mõnedes kõrgema klassi ekraanides.",
+    "Ultra HD (4K): Sellel formaadil on eraldusvõime 3840x2160 pikslit, pakkudes neli korda suuremat eraldusvõimet kui täis-HD. Seda laialdaselt kasutatakse telerites, monitorides ja digitaalse sisu tootmises.",
+    "8K Ultra HD: Eraldusvõimega 7680x4320 pikslit pakub 8K veelgi suuremat detailide taset. Siiski, alates minu teadmiste lõikest jaanuaris 2022, on 8K sisu vähem levinud nõudliku riistvara nõuete tõttu nii salvestamise kui ka taasesituse jaoks.",
+    "Tavalised videocodecid HD-sisu jaoks hõlmavad H.264 (AVC), H.265 (HEVC) ja VP9, teiste hulgas. Need kodekid vastutavad videoteabe tõhusa kokkusurumise eest, et vähendada failide suurust, säilitades samal ajal kvaliteetse taasesituse.",
+    "HD-videovormatseid arutledes on oluline arvestada nii eraldusvõime kui ka kaadrisagedusega, kuna mõlemad aitavad kaasa üldisele videokvaliteedile."
+  ]
   }
 }

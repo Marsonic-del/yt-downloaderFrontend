@@ -11,7 +11,7 @@ export default async function Home({ params: { lang } }: Props) {
   const intl = await getDictionary(lang);
   return (
     <>
-      <Main intl={intl.Index} />
+      <Main intl={intl.Index} locale={lang} />
     </>
   )
 }

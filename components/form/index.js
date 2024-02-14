@@ -38,6 +38,7 @@ const FormComponent = ({ intl, handleSubmit }) => {
   useEffect(() => {
     if (!isSubmitted) {
       if (values.youtubeLink && formik.isValid) {
+        console.log('submit')
         formik.submitForm();
         setIsSubmitted(true);
       }
@@ -49,10 +50,9 @@ const FormComponent = ({ intl, handleSubmit }) => {
 
   return (
     <search className={styles.form}>
-      <form ref={formRef} onSubmit={
+      <form onSubmit={
         (e) => {
           e.preventDefault();
-          formik.handleSubmit(e)
         }
       } noValidate>
         <div className={styles.wrapper}>

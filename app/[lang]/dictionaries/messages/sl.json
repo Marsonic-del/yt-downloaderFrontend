@@ -25,7 +25,7 @@
         ],
       
         "contentCoution": "Prosimo, upoštevajte: Upoštevajte pogoje uporabe storitve HollywoodDownloader.com v skladu s pogoji storitve YouTube in avtorskimi pravicami.",
-        "serviceDesc": "Enostavno pretvorite svoje najljubše videe s platforme YouTube v offline zaklade. HollywoodDownloader vam omogoča pretvorbo in prenos videa s platforme YouTube v MP3, MP4, Webm, 3GP, MP4A v visoki kakovosti brezplačno.",
+        "serviceDesc": "Enostavno pretvorite svoje najljubše videe s platforme YouTube v offline zaklade. HollywoodDownloader vam omogoča pretvorbo in prenos videa s platforme YouTube v MP3, MP4, Webm, 3GP, MP4A v visoki kakovosti brezplačno. Prav tako dobite veliko pomembnih informacij o videoposnetku, ki vam bodo pomagale pri dajanju strokovne ocene.",
         "insrtuctionsHeader": "Prenos videov s platforme YouTube: Vodnik korak za korakom",
         "instructions": ["1. Kopirajte povezavo do videa s platforme YouTube, ki ga želite prenesti.",
           "2. Prilepite jo v iskalno polje.",
@@ -78,6 +78,69 @@
       "shortsText": ["Predstavljamo našo napredno storitev prenosa YouTube Shorts, zasnovano za navdušence, ki želijo nemoteno uživati v svojih najljubših videih v kratki obliki kadar koli in kjerkoli. S pomočjo naše uporabniku prijazne platforme lahko brez težav prenesete vsebino YouTube Shorts visoke kakovosti in zagotovite prijetno izkušnjo gledanja med potovanjem. Raziščite obsežno zbirko trendovskih in privlačnih posnetkov in jih z le nekaj kliki pretvorite v enostavno dostopne datoteke za uživanje brez povezave. Sprejmite udobje naše storitve prenosa YouTube Shorts in nikoli ne zamudite trenutka očarljive vsebine. Začnite graditi svojo osebno knjižnico danes!"],
       "insrtuctionsShortHeader": "Prenos YouTube Shorts: Vodnik korak za korakom",
       "removeInputTextButton": "Odstrani gumb za vnos besedila",
-      "altThumbnail": "sličica"
+      "altThumbnail": "sličica",
+
+      "formatHeadermp3": "MP3",
+   "formatTextmp3": ["MP3, kar pomeni MPEG Audio Layer III, je široko uporabljen zvočni stiskalni format. Gre za metodo stiskanja zvočnih datotek, da se zmanjša njihova velikost, hkrati pa ohrani razumno kakovost zvoka. MP3 format je razvil skupina strokovnjakov za gibljive slike (MPEG) kot del specifikacij MPEG-1 in MPEG-2.",
+
+      "Glavne značilnosti formata MP3 vključujejo:",
+
+      "Stiskanje: MP3 uporablja izgubno stiskanje, kar pomeni, da se med postopkom stiskanja nekaj zvočnih podatkov zavrže, da se doseže manjše velikosti datotek. Vendar je stiskanje zasnovano tako, da je zaznavno transparentno, kar pomeni, da človeško uho običajno ne more razlikovati med originalnim zvokom in stisnjeno različico.",
+
+      "Bitna hitrost: MP3 datoteke je mogoče ustvariti pri različnih bitnih hitrostih, ki določajo količino podatkov, uporabljenih za predstavitev zvoka. Višje bitne hitrosti običajno prinašajo boljšo kakovost zvoka, vendar tudi večje velikosti datotek. Običajne bitne hitrosti segajo od 128 kbps (kilobitov na sekundo) do 320 kbps.",
+
+      "Združljivost: MP3 je široko podprt format in ga je mogoče predvajati na različnih napravah, vključno z računalniki, pametnimi telefoni, predvajalniki MP3 in različnimi napravami za predvajanje zvoka. Postal je standard za distribucijo digitalnega zvoka.",
+
+      "Končnica datoteke: MP3 datoteke običajno imajo končnico datoteke .mp3.",
+
+      "MP3 je revolucioniral glasbeno industrijo z omogočanjem učinkovite distribucije digitalnega zvoka prek interneta. Dolgo časa je bil prevladujoč format za prenose glasbe, pretakanje in osebne naprave za predvajanje zvoka. Vendar je treba opozoriti, da zaradi izgubnega stiskanja nekaj kakovosti zvoka žrtvujemo za manjše velikosti datotek v primerjavi z brezizgubnimi zvočnimi formati, kot sta WAV ali FLAC."],
+
+   "formatHeadermp4": "MP4",
+   "formatTextmp4": [
+        "MP4 ali MPEG-4 Part 14 je široko uporabljen večpredstavni vsebnik za shranjevanje zvočnih in video tokov ter drugih vrst podatkov, kot so podnapisi in nepremičnine slik. Razvil ga je skupina strokovnjakov za gibljive slike (MPEG) in je del standarda MPEG-4.",
+        "Glavne značilnosti formata MP4 vključujejo:",
+        "Video kodeki: MP4 datoteke lahko vsebujejo video tokove, stisnjene z različnimi kodeki, kot je H.264 (Napredno kodiranje videa), ki je visoko učinkovit in široko uporabljen standard za stiskanje videa. Podprti so tudi drugi kodeki, kot so MPEG-4 Visual in H.263.",
+        "Zvočni kodeki: MP4 podpira paleto zvočnih kodekov, vključno z naprednim kodiranjem zvoka (AAC), ki je priljubljena izbira za stiskanje visokokakovostnega zvoka. Lahko se uporabljajo tudi drugi zvočni kodeki, kot je MP3.",
+        "Vsebnik: MP4 datoteke imajo končnico datoteke .mp4 in služijo kot vsebniki za video in zvočne tokove ter dodatne metapodatke in večpredstavne vsebine. Vsebnik je prilagodljiv in lahko obvladuje različne vrste medijev.",
+        "Združljivost: MP4 je široko podprt format in je združljiv z različnimi napravami, programskimi aplikacijami in platformami. Pogosto se uporablja za pretakanje, spletni video, digitalne prenose in mobilne naprave.",
+        "MP4 je postal eden od standardnih formatov za dostavo večpredstavnih vsebin zaradi ravnotežja med učinkovitostjo stiskanja, kakovostjo in široko združljivostjo. Uporablja se za različne namene, vključno s skupno rabo videoposnetkov, storitvami pretakanja, mobilnimi napravami in drugim."
+      ],
+
+   "formatHeadermp4a": "MP4A",
+   "formatTextmp4a": [
+        "Format MP4A se nanaša na zvočno komponento večpredstavnega vsebnika MP4 (MPEG-4 Part 14). MP4 je široko uporabljen format za shranjevanje zvočnih in video tokov ter drugih podatkov, kot so podnapisi in nepremičnine slik. MP4A natančneje pomeni, da datoteka vsebuje zvočne podatke z uporabo enega od zvočnih kodekov MPEG-4.",
+        "Črka 'A' v MP4A pomeni zvok, in v večpredstavnih vsebnikih MP4 lahko uporabljate različne zvočne kodeke. Običajni zvočni kodeki v datotekah MP4A vključujejo napredno kodiranje zvoka (AAC), ki je široko uporabljeno za stiskanje visokokakovostnega zvoka, ter druge zvočne kodeke, kot je MP3 ali celo nepomembno PCM (modulacija impulzov) zvok.",
+        "Povzetek: Ko naletite na datoteko z razširitvijo MP4A ali omembo, to pomeni, da je datoteka večpredstavni vsebnik MP4, ki vsebuje zvočne podatke, dejanski zvočni kodek pa se lahko razlikuje glede na določeno izvedbo in izbire kodiranja med ustvarjanjem vsebine."
+      ],
+
+   "formatHeaderwebm": "WEBM",
+   "formatTextwebm": [
+        "WebM je večpredstavni vsebnik, zasnovan za uporabo na spletu. Razvila ga je skupina WebM Project, ki jo sponzorira Google. Format WebM je posebej zasnovan kot odprta, brezplačna alternativa drugim večpredstavnim vsebnikom, kot je MP4.",
+        "Ključne značilnosti WebM vključujejo:",
+        "Video kodek: WebM običajno uporablja video kodek VP9, ki zagotavlja učinkovito stiskanje visokokakovostnega videa, hkrati pa ostaja odprt in brezplačen. Lahko uporablja tudi video kodek VP8.",
+        "Zvočni kodek: Zvočna komponenta datotek WebM pogosto uporablja odprt in brezplačen zvočni kodek Opus, vendar lahko uporablja tudi Vorbis.",
+        "Vsebnik: Datoteke WebM imajo končnico .webm in služijo kot vsebniki za video in zvočne tokove. Vsebnik WebM je zasnovan, da je lahek in primeren za uporabo na spletu.",
+        "Eden glavnih motivov za razvoj WebM je zagotoviti format, ki omogoča pretakanje visokokakovostnega videa in zvoka na spletu brez potrebe po plačilu licenčnin. Postal je priljubljen za uporabo v elementih HTML5 video in zvoka, kot alternativa lastniškim formatom, kot sta H.264 in AAC.",
+        "WebM podpirajo glavni spletni brskalniki, vključno z Google Chrome, Mozilla Firefox in Opero. Uporablja se za spletno pretakanje, videokonference in druge večpredstavne aplikacije na spletu."
+      ],
+
+   "formatHeader3gp": "3GP",
+   "formatText3gp": [
+        "Format 3GP je večpredstavni vsebnik, zasnovan za mobilne telefone. Pomeni '3rd Generation Partnership Project', ki je sodelovanje med organizacijami za standarde telekomunikacij za razvoj specifikacij za mobilne sisteme, zlasti 3G mobilna omrežja.",
+        "3GP datoteke običajno vsebujejo video tokove, stisnjene z video kodeki H.263 ali H.264, ter zvočne tokove, stisnjene z zvočnimi kodeki AMR-NB ali AAC-LC. Format je optimiziran za mobilne naprave z omejenim shranjevanjem in pasovno širino, kar ga naredi primeren za pretakanje prek 3G omrežij.",
+        "Sprva je bil 3GP razvit za obdelavo videovsebin na mobilnih telefonih 3G, vendar se je uporabljal tudi v drugih kontekstih, kot so pretakanje in deljenje videoposnetkov na spletu. Kljub napredkom v mobilni tehnologiji in vzponu zmogljivejših formatov, kot je MP4, se je uporaba 3GP sčasoma zmanjšala. MP4 je zdaj širše podprt in velja za bolj vsestranski in učinkovit večpredstavni vsebnik."
+      ],
+
+   "formatHeaderhd": "HD kakovost",
+   "formatTexthd": ["Izraz 'HD video format' se nanaša na video formate, ki podpirajo visoko ločljivost (HD), kar je višja raven kakovosti videa v primerjavi s standardno ločljivostjo (SD). HD video običajno ima večjo število slikovnih pik, kar prinaša bolj ostre in podrobne slike. Obstaja več običajnih HD video formatov, vsak s različnimi specifikacijami glede ločljivosti, števila sličic na sekundo in metod stiskanja. Tu so nekateri priljubljeni HD video formati:",
+      "HD Ready (720p): Ta format ima ločljivost 1280x720 slikovnih pik. 'P' označuje progresivno skeniranje, kar pomeni, da se vsaka slika prikazuje zaporedoma.",
+      "Polna visoka ločljivost (1080p): Ta format ima ločljivost 1920x1080 slikovnih pik in zagotavlja še višjo kakovost slike kot HD Ready. Kot pri 720p označuje 'p' progresivno skeniranje.",
+      "2K (ali Quad HD): Ta format ima ločljivost približno 2048x1080 slikovnih pik. Pogosto se uporablja v digitalnih kinematografijah in nekaterih visokokakovostnih zaslonih.",
+      "Ultra HD (4K): Ta format ima ločljivost 3840x2160 slikovnih pik in ponuja štirikrat višjo ločljivost kot Full HD. Pogosto se uporablja v televizorjih, monitorjih in produkciji digitalnih vsebin.",
+      "8K Ultra HD: Z ločljivostjo 7680x4320 slikovnih pik 8K ponuja še višjo raven podrobnosti. Vendar pa je treba opozoriti, da je bilo glede na moje podatke, ki so veljali do januarja 2022, 8K vsebina manj pogosta zaradi zahtevne strojne opreme tako za snemanje kot za predvajanje.",
+      "Pogosti video kodeki, uporabljeni za HD vsebino, vključujejo H.264 (AVC), H.265 (HEVC) in VP9, med drugim. Ti kodeki so odgovorni za učinkovito stiskanje video podatkov za zmanjšanje velikosti datotek, hkrati pa ohranjajo visokokakovostno predvajanje.",
+      "Pri razpravi o HD video formatih je pomembno upoštevati tako ločljivost kot število sličic na sekundo, saj oboje prispeva k celotni kakovosti videa."
+    
+    ]
         }
       }

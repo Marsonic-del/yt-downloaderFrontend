@@ -16,7 +16,7 @@ const MenuButton = ({locale}:{locale:string}) => {
                         <Link href={`/${locale}`} className={style.link}>Home</Link>
                     </li>
                     <li itemProp="name">
-                        <Link href={`/${locale}/youtube-shorts`} className={style.link}>YouTube Shorts</Link>
+                        <Link href={`/${locale}/download-youtube-shorts`} className={style.link}>YouTube Shorts</Link>
                     </li>
                     <li itemProp="name">
                         <Link href={`/${locale}/mp3-converter`} className={style.link}>YouTube to MP3</Link>

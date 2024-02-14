@@ -25,7 +25,7 @@
     ],
 
     "contentCoution": "Nota: Segui i termini d'uso di HollywoodDownloader.com in conformità con i termini di servizio di YouTube e le leggi sul copyright.",
-    "serviceDesc": "Trasforma facilmente i tuoi video YouTube preferiti in tesori offline. HollywoodDownloader ti consente di convertire e scaricare video da YouTube, in MP3, MP4, Webm, 3GP, MP4A in alta qualità gratuitamente.",
+    "serviceDesc": "Trasforma facilmente i tuoi video YouTube preferiti in tesori offline. HollywoodDownloader ti consente di convertire e scaricare video da YouTube, in MP3, MP4, Webm, 3GP, MP4A in alta qualità gratuitamente. Anche ottieni molte informazioni importanti sul video che ti aiuteranno a dargli una valutazione da esperto.",
 
     "insrtuctionsHeader": "Scarica video da YouTube: Guida passo dopo passo",
     "instructions": ["1. Copia il link del video di YouTube che desideri scaricare.",
@@ -82,7 +82,63 @@
 
 "insrtuctionsShortHeader": "Scarica YouTube Shorts: Guida passo dopo passo",
 "removeInputTextButton": "Rimuovi pulsante di testo di input",
-"altThumbnail": "miniatura"
+"altThumbnail": "miniatura",
+
+"formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, che sta per MPEG Audio Layer III, è un formato di compressione audio ampiamente utilizzato. Si tratta di un metodo per comprimere i file audio per ridurne le dimensioni preservando al contempo una qualità audio ragionevole. Il formato MP3 è stato sviluppato dal gruppo Moving Picture Experts Group (MPEG) come parte delle specifiche MPEG-1 e MPEG-2.",
+  "Le caratteristiche chiave del formato MP3 includono:",
+  "Compressione: MP3 utilizza la compressione con perdita, il che significa che alcuni dati audio vengono eliminati durante il processo di compressione per ottenere dimensioni di file più piccole. Tuttavia, la compressione è progettata per essere percettivamente trasparente, il che significa che l'orecchio umano generalmente non può distinguere la differenza tra l'audio originale e la versione compressa.",
+  "Bitrate: I file MP3 possono essere creati a diverse velocità di bit, che determinano la quantità di dati utilizzata per rappresentare l'audio. Velocità di bit più elevate generalmente risultano in una migliore qualità audio ma anche dimensioni di file più grandi. Le velocità di bit comuni vanno da 128 kbps (kilobit al secondo) a 320 kbps.",
+  "Compatibilità: MP3 è un formato ampiamente supportato e può essere riprodotto su una vasta gamma di dispositivi, tra cui computer, smartphone, lettori MP3 e vari dispositivi di riproduzione audio. È diventato uno standard per la distribuzione di audio digitale.",
+  "Estensione file: I file MP3 hanno tipicamente l'estensione file .mp3.",
+  "MP3 ha rivoluzionato l'industria musicale consentendo la distribuzione efficiente di audio digitale su Internet. È stato un formato dominante per il download di musica, lo streaming e i dispositivi personali di riproduzione audio per molti anni. Tuttavia, è importante notare che a causa della sua compressione con perdita, si sacrifica una certa qualità audio per dimensioni di file più piccole rispetto ai formati audio senza perdita come WAV o FLAC."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": [
+    "MP4, o MPEG-4 Part 14, è un formato di contenitore multimediale ampiamente utilizzato per archiviare flussi audio e video, oltre ad altri tipi di dati come sottotitoli e immagini fisse. È stato sviluppato dal gruppo Moving Picture Experts Group (MPEG) e fa parte dello standard MPEG-4.",
+    "Le caratteristiche chiave del formato MP4 includono:",
+    "Codec video: I file MP4 possono contenere flussi video compressi con vari codec, come H.264 (Advanced Video Coding), che è uno standard di compressione video altamente efficiente e ampiamente utilizzato. Sono supportati anche altri codec come MPEG-4 Visual e H.263.",
+    "Codec audio: MP4 supporta una serie di codec audio, tra cui Advanced Audio Coding (AAC), che è una scelta popolare per la compressione audio di alta qualità. Possono essere utilizzati anche codec audio come MP3 e altri.",
+    "Formato contenitore: I file MP4 hanno l'estensione file .mp4 e fungono da contenitori sia per flussi video che audio, oltre a metadati aggiuntivi e contenuti multimediali. Il contenitore è flessibile e può gestire una varietà di tipi di supporti.",
+    "Compatibilità: MP4 è un formato ampiamente supportato e compatibile con una vasta gamma di dispositivi, applicazioni software e piattaforme. È comunemente utilizzato per lo streaming, la distribuzione digitale, il download e i dispositivi mobili.",
+    "MP4 è diventato uno dei formati standard per la distribuzione di contenuti multimediali grazie al suo equilibrio tra efficienza di compressione, qualità e ampia compatibilità. Viene utilizzato per scopi vari, tra cui la condivisione video, i servizi di streaming, i dispositivi mobili e altro ancora."
+  ],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": [
+    "Il formato MP4A si riferisce al componente audio del formato di contenitore multimediale MP4 (MPEG-4 Part 14). MP4 è un formato di file ampiamente utilizzato per archiviare flussi audio e video, oltre ad altri dati come sottotitoli e immagini fisse. MP4A indica specificamente che il file contiene dati audio utilizzando uno dei codec audio MPEG-4.",
+    "La 'A' in MP4A sta per audio, e vari codec audio possono essere utilizzati all'interno del contenitore MP4. I codec audio comuni trovati nei file MP4A includono Advanced Audio Coding (AAC), ampiamente utilizzato per la compressione audio di alta qualità, così come altri codec audio come MP3 o addirittura audio PCM (Pulse Code Modulation) non compresso.",
+    "In sintesi, quando ti trovi di fronte a un file con estensione MP4A o al riferimento ad esso, indica che il file è un contenitore MP4 contenente specificamente dati audio, e il codec audio effettivamente utilizzato può variare a seconda dell'implementazione specifica e delle scelte di codifica effettuate durante la creazione del contenuto."
+  ],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": [
+    "WebM è un formato di contenitore multimediale progettato per l'uso su Internet. È stato sviluppato dal progetto WebM, sponsorizzato da Google. Il formato WebM è specificamente progettato come alternativa aperta e senza royalty ad altri formati di contenitore multimediale, come MP4.",
+    "Le caratteristiche chiave di WebM includono:",
+    "Codec video: WebM utilizza tipicamente il codec video VP9, che offre una compressione efficiente per video di alta qualità rimanendo aperto e senza royalty. Può anche utilizzare il codec video VP8.",
+    "Codec audio: La componente audio dei file WebM utilizza spesso il codec audio Opus, aperto e senza royalty, sebbene possa anche utilizzare Vorbis.",
+    "Formato contenitore: I file WebM hanno l'estensione file .webm e fungono da contenitori sia per flussi video che audio. Il contenitore WebM è progettato per essere leggero e adatto all'uso su Internet.",
+    "Una delle principali motivazioni dietro lo sviluppo di WebM è fornire un formato che consenta lo streaming di video e audio di alta qualità su Internet senza la necessità che gli utenti paghino tariffe di licenza. Ha guadagnato popolarità nell'uso degli elementi video e audio di HTML5, fornendo un'alternativa a formati proprietari come H.264 e AAC.",
+    "WebM è supportato dai principali browser web, tra cui Google Chrome, Mozilla Firefox e Opera. È utilizzato per lo streaming online, le videoconferenze e altre applicazioni multimediali basate su web."
+  ],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": [
+    "Il formato 3GP è un formato di contenitore multimediale progettato per i telefoni cellulari. Sta per '3rd Generation Partnership Project', che è una collaborazione tra organizzazioni di standard delle telecomunicazioni per sviluppare specifiche per sistemi mobili, in particolare reti mobili 3G.",
+    "I file 3GP contengono comunemente flussi video compressi con i codec video H.263 o H.264 e flussi audio compressi con i codec audio AMR-NB o AAC-LC. Il formato è ottimizzato per dispositivi mobili con capacità di archiviazione e larghezza di banda limitate, rendendolo adatto allo streaming su reti 3G.",
+    "Originariamente, il 3GP è stato sviluppato per gestire contenuti video su telefoni cellulari 3G, ma è stato utilizzato anche in altri contesti, come lo streaming e la condivisione di video online. Tuttavia, con gli sviluppi nella tecnologia mobile e l'ascesa di formati più capaci, come MP4, l'uso del 3GP è diminuito nel tempo. MP4 è ora più ampiamente supportato e considerato un formato di contenitore multimediale più versatile ed efficiente."
+  ],
+
+  "formatHeaderhd": "Qualità HD",
+  "formatTexthd": ["Il termine 'formato video HD' si riferisce ai formati video che supportano la risoluzione High Definition (HD), che è un livello superiore di qualità video rispetto alla Standard Definition (SD). Il video HD ha tipicamente una maggiore quantità di pixel, risultando in immagini più nitide e dettagliate. Ci sono diversi formati video HD comuni, ciascuno con specifiche diverse riguardo a risoluzione, frame rate e metodi di compressione. Ecco alcuni popolari formati video HD:",
+  "HD Ready (720p): Questo formato ha una risoluzione di 1280x720 pixel. La 'p' sta per scansione progressiva, il che significa che ogni frame viene disegnato sequenzialmente.",
+  "Full HD (1080p): Questo formato ha una risoluzione di 1920x1080 pixel, offrendo una qualità delle immagini ancora superiore rispetto all'HD Ready. Come il 720p, la 'p' sta per scansione progressiva.",
+  "2K (o Quad HD): Questo formato ha una risoluzione di circa 2048x1080 pixel. È comunemente usato nel cinema digitale e in alcuni display di alta gamma.",
+  "Ultra HD (4K): Questo formato ha una risoluzione di 3840x2160 pixel, offrendo quattro volte la risoluzione del Full HD. È ampiamente usato in TV, monitor e produzione di contenuti digitali.",
+  "8K Ultra HD: Con una risoluzione di 7680x4320 pixel, l'8K fornisce un livello ancora più elevato di dettaglio. Tuttavia, fino alla mia conoscenza nel gennaio 2022, i contenuti 8K sono meno comuni a causa dei requisiti hardware impegnativi sia per la registrazione che per la riproduzione.",
+  "I codec video comuni utilizzati per i contenuti HD includono H.264 (AVC), H.265 (HEVC) e VP9, tra gli altri. Questi codec sono responsabili della compressione efficiente dei dati video per ridurre le dimensioni dei file mantenendo una riproduzione di alta qualità.",
+  "Quando si discute dei formati video HD, è importante considerare sia la risoluzione che il frame rate, poiché entrambi contribuiscono alla qualità complessiva del video."
+  ]
 
   }
 }

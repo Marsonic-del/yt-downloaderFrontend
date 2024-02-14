@@ -3,7 +3,7 @@ import { BASE_URL } from '@/app/lib/constants'
 
 let locales = ['en', 'ru', 'hu', 'pl', 'cz', 'de', 'fr', 'it', 'es', 'pt', 'dk', 'no', 'fi', 'se', 'nl', 'lv', 'lt', 'ee', 'in', 'jp', 'en-US', 'en-GB', 'ar', 'bg', 'el', 'he', 'id', 'ko', 'ro', 'sk', 'sl', 'th', 'tr', 'uk', 'vi', 'zh', 'zh', 'zh-SG', 'zh-TW', 'zh-HK']
 
-const routes =[ '', '/mp3-converter', '/mp4-converter', '/privacy-policy', '/terms-of-use', '/youtube-shorts', '/contact-us']
+const routes =[ '', '/mp3-converter', '/mp4-converter', '/privacy-policy', '/terms-of-use', '/download-youtube-shorts', '/contact-us']
  
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrls =  locales.map((locale) => {
