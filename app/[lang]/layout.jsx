@@ -25,7 +25,7 @@ export const metadata = {
     languages: {
       'en-US': '/en-US',
       'en-GB': '/en-GB',
-      // 'en': '/en',
+      'en': '/en',
       'zh-CN': '/zh-CN',
       'zh-SG': '/zh-SG',
       'zh-TW': '/zh-TW',
