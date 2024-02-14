@@ -23,7 +23,7 @@
         "Mudah mengubah video YouTube favorit Anda menjadi harta offline dengan hanya menempelkan tautan video di bidang input di atas dan mengklik tombol unduh."
       ],
       "contentCoution": "Harap dicatat: Patuhi syarat penggunaan HollywoodDownloader.com sesuai dengan ketentuan layanan YouTube dan hukum hak cipta.",
-      "serviceDesc": "Mudah mengubah video YouTube favorit Anda menjadi harta offline. HollywoodDownloader memungkinkan Anda mengonversi & mengunduh video dari YouTube ke MP3, MP4, Webm, 3GP, MP4A dalam kualitas HD secara gratis.",
+      "serviceDesc": "Mudah mengubah video YouTube favorit Anda menjadi harta offline. HollywoodDownloader memungkinkan Anda mengonversi & mengunduh video dari YouTube ke MP3, MP4, Webm, 3GP, MP4A dalam kualitas HD secara gratis. Anda juga mendapatkan banyak informasi penting tentang video yang akan membantu Anda memberikan penilaian ahli.",
       "insrtuctionsHeader": "Unduh Video YouTube: Panduan Langkah demi Langkah",
       "instructions": [
         "Salin tautan video YouTube yang ingin Anda unduh.",
@@ -79,7 +79,63 @@
       ],
       "insrtuctionsShortHeader": "Unduh YouTube Shorts: Panduan Langkah demi Langkah",
       "removeInputTextButton": "Hapus tombol teks input",
-      "altThumbnail": "thumbnail"
+      "altThumbnail": "thumbnail",
+
+      "formatHeadermp3": "MP3",
+   "formatTextmp3": ["MP3, yang merupakan singkatan dari MPEG Audio Layer III, adalah format kompresi audio yang banyak digunakan. Ini adalah metode untuk mengompres file audio untuk mengurangi ukuran mereka sambil tetap mempertahankan kualitas audio yang wajar. Format MP3 dikembangkan oleh Kelompok Ahli Gambar Bergerak (MPEG) sebagai bagian dari spesifikasi MPEG-1 dan MPEG-2.",
+      "Fitur kunci dari format MP3 meliputi:",
+      "Kompresi: MP3 menggunakan kompresi kehilangan, yang berarti beberapa data audio dibuang selama proses kompresi untuk mencapai ukuran file yang lebih kecil. Namun, kompresi ini dirancang agar secara perseptual transparan, artinya telinga manusia umumnya tidak dapat membedakan perbedaan antara audio asli dan versi yang terkompresi.",
+      "Bitrate: File MP3 dapat dibuat pada bitrate yang berbeda, yang menentukan jumlah data yang digunakan untuk merepresentasikan audio. Bitrate yang lebih tinggi umumnya menghasilkan kualitas audio yang lebih baik tetapi juga ukuran file yang lebih besar. Bitrate umumnya berkisar dari 128 kbps (kilobit per detik) hingga 320 kbps.",
+      "Kompatibilitas: MP3 adalah format yang banyak didukung dan dapat diputar pada berbagai perangkat, termasuk komputer, ponsel cerdas, pemutar MP3, dan berbagai perangkat pemutaran audio. Ini telah menjadi standar distribusi audio digital.",
+      "Ekstensi File: File MP3 biasanya memiliki ekstensi file .mp3.",
+      "MP3 merevolusi industri musik dengan memungkinkan distribusi audio digital yang efisien melalui internet. Ini telah menjadi format dominan untuk unduhan musik, streaming, dan perangkat pemutaran audio pribadi selama bertahun-tahun. Namun, perlu dicatat bahwa karena kompresi kehilangan, beberapa kualitas audio dikorbankan untuk ukuran file yang lebih kecil dibandingkan dengan format audio tanpa kehilangan seperti WAV atau FLAC."],
+
+   "formatHeadermp4": "MP4",
+   "formatTextmp4": [
+      "MP4, atau MPEG-4 Bagian 14, adalah format kontainer multimedia yang banyak digunakan untuk menyimpan aliran audio dan video, serta jenis data lain seperti teks terjemahan dan gambar diam. Ini dikembangkan oleh Kelompok Ahli Gambar Bergerak (MPEG) dan merupakan bagian dari standar MPEG-4.",
+      "Fitur kunci dari format MP4 meliputi:",
+      "Codec Video: File MP4 dapat berisi aliran video yang terkompresi dengan berbagai codec, seperti H.264 (Pemograman Video Lanjutan), yang merupakan standar kompresi video yang sangat efisien dan banyak digunakan. Codec lain seperti MPEG-4 Visual dan H.263 juga didukung.",
+      "Codec Audio: MP4 mendukung berbagai codec audio, termasuk Advanced Audio Coding (AAC), yang merupakan pilihan populer untuk kompresi audio berkualitas tinggi. MP3 dan codec audio lainnya juga dapat digunakan.",
+      "Format Kontainer: File MP4 memiliki ekstensi file .mp4 dan berfungsi sebagai kontainer untuk aliran video dan audio, serta metadata tambahan dan konten multimedia lainnya. Kontainer ini fleksibel dan dapat menangani berbagai jenis media.",
+      "Kompatibilitas: MP4 adalah format yang banyak didukung dan kompatibel dengan berbagai perangkat, aplikasi perangkat lunak, dan platform. Ini umumnya digunakan untuk streaming, video online, unduhan digital, dan perangkat seluler.",
+      "MP4 telah menjadi salah satu format standar untuk menyampaikan konten multimedia karena keseimbangan efisiensi kompresi, kualitas, dan kompatibilitas yang luas. Ini digunakan untuk berbagai tujuan, termasuk berbagi video, layanan streaming, perangkat seluler, dan lainnya."
+   ],
+
+   "formatHeadermp4a": "MP4A",
+   "formatTextmp4a": [
+      "Format MP4A mengacu pada komponen audio dari format kontainer multimedia MP4 (MPEG-4 Bagian 14). MP4 adalah format file yang banyak digunakan untuk menyimpan aliran audio dan video, serta data lain seperti teks terjemahan dan gambar diam. MP4A secara khusus menunjukkan bahwa file tersebut berisi data audio menggunakan salah satu codec audio MPEG-4.",
+      "'H' dalam MP4A melambangkan audio, dan berbagai codec audio dapat digunakan dalam kontainer MP4. Codec audio umum yang ditemukan dalam file MP4A termasuk Advanced Audio Coding (AAC), yang banyak digunakan untuk kompresi audio berkualitas tinggi. MP3 dan codec audio lainnya juga dapat digunakan.",
+      "Secara ringkas, ketika Anda menemui file dengan ekstensi MP4A atau referensi, itu menunjukkan bahwa file tersebut adalah kontainer MP4 yang secara khusus berisi data audio, dan codec audio yang digunakan sebenarnya dapat bervariasi tergantung pada implementasi spesifik dan pilihan encoding yang dibuat selama pembuatan konten."
+   ],
+
+   "formatHeaderwebm": "WEBM",
+   "formatTextwebm": [
+      "WebM adalah format kontainer multimedia yang dirancang untuk digunakan di web. Ini dikembangkan oleh Proyek WebM, yang merupakan proyek yang disponsori oleh Google. Format WebM dirancang khusus untuk menjadi alternatif terbuka dan bebas royalti untuk format kontainer multimedia lain, seperti MP4.",
+      "Fitur kunci dari WebM meliputi:",
+      "Codec Video: WebM biasanya menggunakan codec video VP9, yang menyediakan kompresi efisien untuk video berkualitas tinggi sambil tetap terbuka dan bebas royalti. Ini juga dapat menggunakan codec video VP8.",
+      "Codec Audio: Komponen audio dari file WebM sering menggunakan codec audio Opus yang terbuka dan bebas royalti, meskipun juga dapat menggunakan Vorbis.",
+      "Format Kontainer: File WebM memiliki ekstensi file .webm dan berfungsi sebagai kontainer untuk aliran video dan audio. Kontainer WebM dirancang untuk menjadi ringan dan cocok untuk penggunaan web.",
+      "Salah satu motivasi utama di balik pengembangan WebM adalah untuk menyediakan format yang memungkinkan streaming video dan audio berkualitas tinggi di web tanpa perlu membayar biaya lisensi. Ini telah menjadi populer untuk digunakan dalam elemen video dan audio HTML5, menyediakan alternatif terhadap format propietary seperti H.264 dan AAC.",
+      "WebM didukung oleh browser web utama, termasuk Google Chrome, Mozilla Firefox, dan Opera. Ini digunakan untuk streaming online, konferensi video, dan aplikasi multimedia berbasis web lainnya."
+   ],
+
+   "formatHeader3gp": "3GP",
+   "formatText3gp": [
+      "Format 3GP adalah format kontainer multimedia yang dirancang untuk ponsel cerdas. Ini singkatan dari '3rd Generation Partnership Project,' yang merupakan kolaborasi antara organisasi standar telekomunikasi untuk mengembangkan spesifikasi sistem seluler, khususnya jaringan seluler 3G.",
+      "File 3GP umumnya berisi aliran video yang terkompresi dengan codec video H.263 atau H.264 dan aliran audio yang terkompresi dengan codec audio AMR-NB atau AAC-LC. Format ini dioptimalkan untuk perangkat seluler dengan kapasitas penyimpanan dan lebar pita terbatas, menjadikannya cocok untuk streaming melalui jaringan 3G.",
+      "Awalnya, 3GP dikembangkan untuk menangani konten video di ponsel seluler 3G, tetapi juga telah digunakan dalam konteks lain, seperti streaming dan berbagi video online. Namun, dengan kemajuan teknologi seluler dan popularitas format yang lebih mampu, seperti MP4, penggunaan 3GP telah berkurang dari waktu ke waktu. MP4 sekarang lebih banyak didukung dan dianggap sebagai format kontainer multimedia yang lebih serbaguna dan efisien."
+   ],
+
+   "formatHeaderhd": "Kualitas HD",
+   "formatTexthd": ["Istilah 'format video HD' merujuk pada format video yang mendukung resolusi High Definition (HD), yang merupakan tingkat kualitas video yang lebih tinggi dibandingkan dengan Standar Definition (SD). Video HD umumnya memiliki jumlah piksel yang lebih tinggi, menghasilkan gambar yang lebih tajam dan detail. Ada beberapa format video HD umum, masing-masing dengan spesifikasi yang berbeda mengenai resolusi, frame rate, dan metode kompresi. Berikut beberapa format video HD populer:",
+      "HD Ready (720p): Format ini memiliki resolusi 1280x720 piksel. 'p' melambangkan pemindaian progresif, yang berarti setiap frame digambar secara berurutan.",
+      "Full HD (1080p): Format ini memiliki resolusi 1920x1080 piksel, memberikan kualitas gambar yang lebih tinggi dibandingkan dengan HD Ready. Seperti 720p, 'p' melambangkan pemindaian progresif.",
+      "2K (atau Quad HD): Format ini memiliki resolusi sekitar 2048x1080 piksel. Umumnya digunakan dalam sinema digital dan beberapa layar yang berkualitas tinggi.",
+      "Ultra HD (4K): Format ini memiliki resolusi 3840x2160 piksel, menawarkan empat kali lipat resolusi Full HD. Umum digunakan dalam TV, monitor, dan produksi konten digital.",
+      "8K Ultra HD: Dengan resolusi 7680x4320 piksel, 8K memberikan tingkat detail yang lebih tinggi. Namun, sejauh pengetahuan saya yang terakhir pada Januari 2022, konten 8K masih kurang umum karena persyaratan perangkat keras yang tinggi baik untuk perekaman maupun pemutaran.",
+      "Codec video umum yang digunakan untuk konten HD meliputi H.264 (AVC), H.265 (HEVC), dan VP9, antara lain. Codec ini bertanggung jawab untuk mengompres data video secara efisien untuk mengurangi ukuran file sambil tetap mempertahankan pemutaran berkualitas tinggi.",
+      "Ketika membahas format video HD, penting untuk mempertimbangkan baik resolusi maupun frame rate, karena keduanya berkontribusi pada kualitas video secara keseluruhan."
+   ]
     }
   }
   

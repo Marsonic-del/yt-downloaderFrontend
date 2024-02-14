@@ -25,7 +25,7 @@
         ],
       
         "contentCoution": "Lütfen dikkat: HollywoodDownloader.com'un kullanım koşullarını, YouTube'un hizmet koşulları ve telif hakları yasalarına uygun olarak izleyin.",
-        "serviceDesc": "Favori YouTube videolarınızı çevrimdışı hazinelere dönüştürün. HollywoodDownloader, YouTube videolarını MP3, MP4, Webm, 3GP, MP4A formatına ücretsiz yüksek kalitede dönüştürmenize ve indirmenize olanak tanır.",
+        "serviceDesc": "Favori YouTube videolarınızı çevrimdışı hazinelere dönüştürün. HollywoodDownloader, YouTube videolarını MP3, MP4, Webm, 3GP, MP4A formatına ücretsiz yüksek kalitede dönüştürmenize ve indirmenize olanak tanır. Ayrıca, video hakkında size bir uzman değerlendirmesi yapmanıza yardımcı olacak birçok önemli bilgi de alırsınız.",
         "insrtuctionsHeader": "YouTube Videolarını İndirme: Adım Adım Kılavuz",
         "instructions": ["1. İndirmek istediğiniz YouTube video bağlantısını kopyalayın.",
           "2. Arama alanına yapıştırın.",
@@ -78,6 +78,59 @@
       "shortsText": ["En sevdiğiniz kısa formatlı videolarınızı her zaman ve her yerde sorunsuz bir şekilde keyfini çıkarmak isteyen tutkunlar için tasarlanan son teknoloji YouTube Shorts indirme servisimizi tanıtalım. Kullanıcı dostu platformumuz sayesinde YouTube Shorts içeriğini yüksek kalitede zahmetsizce indirebilir, gittiğiniz yerde keyifli bir izleme deneyimi yaşayabilirsiniz. Trend olan ve ilgi çeken kısa videoların geniş bir koleksiyonunu keşfedin ve birkaç tıklama ile bunları çevrimdışı keyif alınabilir dosyalara dönüştürerek kişisel kütüphanenizi oluşturmaya başlayın. YouTube Shorts indirme servisimizin konforunu benimseyin ve büyüleyici içeriğin bir anını asla kaçırmayın. Bugün kişisel kütüphanenizi oluşturmaya başlayın!"],
       "insrtuctionsShortHeader": "YouTube Shorts İndirme: Adım Adım Kılavuz",
       "removeInputTextButton": "Giriş metni düğmesini kaldır",
-      "altThumbnail": "küçük resim"
+      "altThumbnail": "küçük resim",
+
+      "formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, MPEG Audio Layer III tarafından temsil edilen, geniş bir şekilde kullanılan bir ses sıkıştırma formatıdır. Ses dosyalarını boyutlarını küçültmek ve makul ses kalitesini korurken sıkıştırmak için bir yöntemdir. MP3 formatı, Hareketli Görüntü Uzmanları Grubu (MPEG) tarafından MPEG-1 ve MPEG-2 spesifikasyonlarının bir parçası olarak geliştirilmiştir.",
+    "MP3 formatının temel özellikleri şunlardır:", "Sıkıştırma: MP3 kayıplı sıkıştırma kullanır, yani sıkıştırma işlemi sırasında bazı ses verileri atılır ve daha küçük dosya boyutları elde edilir. Ancak, sıkıştırma genellikle algısal olarak şeffaf olacak şekilde tasarlanmıştır, yani insan kulağı genellikle orijinal ses ve sıkıştırılmış versiyon arasındaki farkı ayırt edemez.",
+    "Bit Hızı: MP3 dosyaları farklı bit hızlarında oluşturulabilir, bu da sesi temsil etmek için kullanılan veri miktarını belirler. Daha yüksek bit hızları genellikle daha iyi ses kalitesine, ancak aynı zamanda daha büyük dosya boyutlarına yol açar. Yaygın bit hızları 128 kbps'den (kilobit/saniye) 320 kbps'ye kadar değişir.",
+    "Uyumluluk: MP3, geniş bir cihaz yelpazesinde, bilgisayarlar, akıllı telefonlar, MP3 çalarlar ve çeşitli ses oynatma cihazları dahil olmak üzere desteklenen bir formattır. Dijital ses dağıtımı için bir standart haline gelmiştir.",
+    "Dosya Uzantısı: MP3 dosyalarının genellikle .mp3 dosya uzantısına sahip olduğu görülür.",
+    "MP3, dijital sesin internet üzerinden verimli bir şekilde dağıtılmasını sağlayarak müzik endüstrisini devrimleştirmiştir. Birçok yıl boyunca müzik indirmeleri, yayını ve kişisel ses oynatma cihazları için baskın bir formattı. Ancak, kayıplı sıkıştırma nedeniyle WAV veya FLAC gibi kayıpsız ses formatlarına göre daha küçük dosya boyutları için bazı ses kalitesinin feda edildiğini belirtmek önemlidir."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": [
+    "MP4 veya MPEG-4 Part 14, ses ve video akışlarını, altyazıları ve sabit görüntüleri depolamak için geniş bir şekilde kullanılan bir multimedya konteyner formatıdır. Bu, Hareketli Görüntü Uzmanları Grubu (MPEG) tarafından geliştirilmiş ve MPEG-4 standardının bir parçasıdır.",
+    "MP4 formatının temel özellikleri şunlardır:", "Video Kod çözücüleri: MP4 dosyaları çeşitli kod çözücülerle sıkıştırılmış video akışlarını içerebilir, örneğin H.264 (Gelişmiş Video Kodlama), yüksek verimliliği ve geniş kullanımı olan bir video sıkıştırma standardıdır. Diğer kod çözücüler arasında MPEG-4 Visual ve H.263 bulunmaktadır.",
+    "Ses Kod çözücüleri: MP4, yüksek kaliteli ses sıkıştırması için popüler bir seçenek olan Advanced Audio Coding (AAC) de dahil olmak üzere çeşitli ses kod çözücülerini destekler. MP3 ve diğer ses kod çözücüleri de kullanılabilir.",
+    "Konteyner Formatı: MP4 dosyaları .mp4 dosya uzantısına sahiptir ve hem video hem de ses akışlarına, ayrıca ek metaveri ve multimedya içeriğine konteyner olarak hizmet eder. Konteyner esnek ve çeşitli medya türleriyle başa çıkabilir.",
+    "Uyumluluk: MP4, geniş bir cihaz, yazılım uygulaması ve platform yelpazesi ile uyumlu olan geniş destek gören bir formattır. Yaygın olarak akış, çevrimiçi video, dijital indirmeler ve mobil cihazlar için kullanılır.",
+    "MP4, sıkıştırma verimliliği, kalite ve geniş uyumluluğunun bir dengesi nedeniyle çoklu ortam içeriği sunmanın standart formatlarından biri haline gelmiştir. Video paylaşımı, akış hizmetleri, mobil cihazlar ve daha fazlası için kullanılır."
+  ],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": [
+    "MP4A formatı, MP4 (MPEG-4 Part 14) multimedya konteyner formatının ses bileşenini ifade eder. MP4, ses ve video akışlarını, altyazıları ve sabit görüntüleri depolamak için geniş bir şekilde kullanılan bir dosya formatıdır. MP4A özellikle dosyanın bir MPEG-4 ses kod çözücüsü kullanarak ses içerdiğini belirtir.",
+    "MP4A'daki 'A', ses için olduğunu belirtir ve MP4 konteyneri içinde çeşitli ses kod çözücülerini içerebilir. MP4A dosyalarında bulunan yaygın ses kod çözücüleri arasında Advanced Audio Coding (AAC) bulunur, bu, yüksek kaliteli ses sıkıştırması için yaygın olarak kullanılan bir seçenektir. MP3 veya hatta sıkıştırılmamış PCM (Pulse Code Modulation) ses gibi diğer ses kod çözücüleri de kullanılabilir.",
+    "Özetle, MP4A uzantılı veya referans yapılan bir dosya ile karşılaştığınızda, dosyanın özel olarak ses verisi içeren bir MP4 konteyneri olduğunu ve gerçek ses kod çözücüsünün içerik oluşturma sırasında yapılan özel uygulamalara ve kodlama seçimlerine bağlı olarak değişebileceğini belirtir."
+  ],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": [
+    "WebM, web üzerinde kullanım için tasarlanmış bir multimedya konteyner formatıdır. Google tarafından desteklenen bir proje olan WebM Projesi tarafından geliştirilmiştir. WebM formatı özellikle diğer multimedya konteyner formatlarına, örneğin MP4'e açık, telifsiz bir alternatif olması amacıyla tasarlanmıştır.",
+    "WebM'nin temel özellikleri şunlardır:", "Video Kod çözücü: WebM genellikle yüksek kaliteli video için verimli sıkıştırma sağlayan ve açık ve telifsiz kalan VP9 video kod çözücüsünü kullanır. Ayrıca VP8 video kod çözücüsünü de kullanabilir.",
+    "Ses Kod çözücü: WebM dosyalarının ses bileşeni genellikle açık ve telifsiz Opus ses kod çözücüsünü kullanır, ancak Vorbis de kullanılabilir.",
+    "Konteyner Formatı: WebM dosyaları .webm dosya uzantısına sahiptir ve hem video hem de ses akışları için konteyner olarak hizmet eder. WebM konteyneri hafif ve web kullanımı için uygundur.",
+    "WebM'nin geliştirilmesinin ana motivasyonlarından biri, kullanıcıların lisans ücreti ödemeden web üzerinde yüksek kaliteli video ve ses akışına izin veren bir format sağlamaktı. HTML5 video ve ses öğelerinde kullanılmak üzere H.264 ve AAC gibi özel formatlara alternatif olarak popülerlik kazanmıştır.",
+    "WebM, Google Chrome, Mozilla Firefox ve Opera gibi büyük web tarayıcıları tarafından desteklenir. Çevrimiçi akış, video konferans ve diğer web tabanlı multimedya uygulamaları için kullanılır."
+  ],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": [
+    "3GP formatı, mobil telefonlar için tasarlanmış bir multimedya konteyner formatıdır. '3rd Generation Partnership Project' (3GPP), özellikle 3G mobil ağlar için özellikler geliştirmek amacıyla telekomünikasyon standartları organizasyonları arasındaki bir işbirliğidir.",
+    "3GP dosyaları genellikle H.263 veya H.264 video kod çözücüsü ile sıkıştırılmış video akışları ve AMR-NB veya AAC-LC ses kod çözücüsü ile sıkıştırılmış ses akışları içerir. Format, sınırlı depolama ve bant genişliği kapasitelerine sahip mobil cihazlar için optimize edilmiştir ve 3G ağlarında yayın yapmak için uygundur.",
+    "Başlangıçta 3GP, 3G mobil telefonlarda video içeriği yönetmek için geliştirilmiş olsa da, çevrimiçi video akışı ve paylaşım gibi diğer bağlamlarda da kullanılmıştır. Ancak, mobil teknolojinin gelişmeleri ve daha yetenekli formatların, örneğin MP4'ün yükselmesiyle 3GP'nin kullanımı zaman içinde azalmıştır. MP4 şu anda daha geniş desteklenen ve daha çok yönlü ve verimli bir multimedya konteyner formatı olarak kabul edilmektedir."
+  ],
+
+  "formatHeaderhd": "HD Kalitesi",
+  "formatTexthd": ["Terim 'HD video formatı', Yüksek Çözünürlük (HD) çözünürlüğü destekleyen video formatlarını ifade eder, bu da Standart Çözünürlük (SD) ile karşılaştırıldığında daha yüksek bir video kalitesidir. HD video genellikle daha yüksek piksel sayısına sahiptir, bu da daha keskin ve detaylı görüntüler sağlar. Farklı çözünürlükler, kare hızları ve sıkıştırma yöntemleri ile birkaç yaygın HD video formati bulunmaktadır.",
+    "HD Ready (720p): Bu formatın çözünürlüğü 1280x720 pikseldir. 'p', her karesinin sıralı olarak çizildiği progressif tarama anlamına gelir.",
+    "Full HD (1080p): Bu formatın çözünürlüğü 1920x1080 pikseldir ve HD Ready'den daha yüksek görüntü kalitesi sunar. 720p gibi, 'p' progressif tarama anlamına gelir.",
+    "2K (veya Quad HD): Bu formatın çözünürlüğü yaklaşık olarak 2048x1080 pikseldir. Genellikle dijital sinemada ve bazı yüksek kaliteli ekranlarda kullanılır.",
+    "Ultra HD (4K): Bu formatın çözünürlüğü 3840x2160 pikseldir ve Full HD'nin dört katı çözünürlük sunar. Geniş TV'lerde, monitörlerde ve dijital içerik üretiminde yaygın olarak kullanılır.",
+    "8K Ultra HD: 7680x4320 piksel çözünürlüğü ile 8K, daha yüksek bir detay seviyesi sağlar. Ancak, bilgi kesim tarihim olan Ocak 2022 itibarıyla, hem kayıt hem de oynatma için talep edilen donanım gereksinimleri nedeniyle 8K içeriği daha az yaygındır.",
+    "HD içerik için kullanılan yaygın video kod çözücüleri arasında H.264 (AVC), H.265 (HEVC) ve VP9 bulunur. Bu kod çözücüler, yüksek kaliteli oynatımı sürdürürken video verilerini etkili bir şekilde sıkıştırmaktan sorumludur.",
+    "HD video formatlarını tartışırken, çözünürlük ve kare hızını düşünmek önemlidir, çünkü her ikisi de genel video kalitesine katkıda bulunur."
+  ]
         }
       }

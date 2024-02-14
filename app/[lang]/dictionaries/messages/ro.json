@@ -24,7 +24,7 @@
     "Transformați cu ușurință videoclipurile preferate de pe YouTube în comori offline prin simpla lipire a link-ului videoclipului în câmpul de introducere de mai sus și apăsând butonul de descărcare."
     ],
     "contentCoution": "Vă rugăm să rețineți: Respectați termenii de utilizare a HollywoodDownloader.com în conformitate cu termenii de serviciu și legile privind drepturile de autor ale YouTube.",
-    "serviceDesc": "Transformați cu ușurință videoclipurile preferate de pe YouTube în comori offline. HollywoodDownloader vă permite să convertiți și să descărcați videoclipuri de pe YouTube, în formatele MP3, MP4, Webm, 3GP, MP4A în calitate HD, gratuit.",
+    "serviceDesc": "Transformați cu ușurință videoclipurile preferate de pe YouTube în comori offline. HollywoodDownloader vă permite să convertiți și să descărcați videoclipuri de pe YouTube, în formatele MP3, MP4, Webm, 3GP, MP4A în calitate HD, gratuit. Primi, de asemenea, o mulțime de informații importante despre videoclip care te vor ajuta să-i acorzi o evaluare de expert.",
     "insrtuctionsHeader": "Descărcați videoclipuri YouTube: Un ghid pas cu pas",
     "instructions": [
     "1. Copiați link-ul videoclipului de pe YouTube pe care doriți să-l descărcați.",
@@ -74,6 +74,62 @@
     "shortsText": ["Vă prezentăm serviciul nostru avansat de descărcare a videoclipurilor YouTube Shorts, conceput pentru entuziaștii care doresc să se bucure fără probleme de videoclipurile lor scurte preferate oricând și oriunde. Cu platforma noastră prietenoasă, puteți descărca fără efort conținutul YouTube Shorts în calitate înaltă, asigurându-vă o experiență de vizionare plăcută în mișcare. Explorați o colecție vastă de videoclipuri scurte de tendință și captivante și, cu doar câteva clicuri, transformați-le în fișiere ușor accesibile pentru bucurie offline. Adoptați confortul serviciului nostru de descărcare a videoclipurilor YouTube Shorts și nu pierdeți niciodată un moment din conținutul captivant. Începeți să vă construiți biblioteca personală astăzi!"],
     "insrtuctionsShortHeader": "Descărcare videoclipuri YouTube Shorts: Ghid pas cu pas",
     "removeInputTextButton": "Eliminați butonul textului de intrare",
-    "altThumbnail": "miniatură"
+    "altThumbnail": "miniatură",
+
+    "formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, care înseamnă MPEG Audio Layer III, este un format larg utilizat pentru compresia audio. Este o metodă de comprimare a fișierelor audio pentru a reduce dimensiunea lor, păstrând totuși o calitate audio rezonabilă. Formatul MP3 a fost dezvoltat de grupul Moving Picture Experts Group (MPEG) ca parte a specificațiilor MPEG-1 și MPEG-2.",
+  "Caracteristici cheie ale formatului MP3 includ:",
+  "Comprimare: MP3 utilizează compresie cu pierdere, ceea ce înseamnă că unele date audio sunt eliminate în timpul procesului de comprimare pentru a obține dimensiuni de fișiere mai mici. Cu toate acestea, compresia este proiectată să fie perceptibil transparentă, ceea ce înseamnă că urechea umană în general nu poate distinge diferența între sunetul original și versiunea comprimată.",
+  "Bitrate: Fișierele MP3 pot fi create la diferite rate de biți, care determină cantitatea de date folosită pentru a reprezenta sunetul. Ratele de biți mai mari în general duc la o calitate audio mai bună, dar și la dimensiuni de fișiere mai mari. Ratele de biți comune variază de la 128 kbps (kilograame pe secundă) la 320 kbps.",
+  "Compatibilitate: MP3 este un format larg acceptat și poate fi redat pe o gamă variată de dispozitive, inclusiv computere, smartphone-uri, playere MP3 și diverse dispozitive de redare audio. A devenit un standard pentru distribuția audio digitală.",
+  "Extensie de fișier: Fișierele MP3 au în mod tipic extensia de fișier .mp3.",
+  "MP3 a revoluționat industria muzicală, permitând distribuția eficientă a audio-ului digital prin internet. A fost un format dominant pentru descărcările de muzică, streaming și dispozitive personale de redare audio timp de mulți ani. Cu toate acestea, este important de menționat că, datorită compresiei cu pierdere, unele calități audio sunt sacrificare în favoarea dimensiunilor mai mici ale fișierului în comparație cu formatele audio fără pierderi precum WAV sau FLAC."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": [
+    "MP4, sau MPEG-4 Part 14, este un format de container multimedia larg utilizat pentru stocarea fluxurilor audio și video, precum și a altor tipuri de date, cum ar fi subtitrările și imagini statice. A fost dezvoltat de grupul Moving Picture Experts Group (MPEG) și face parte din standardul MPEG-4.",
+    "Caracteristici cheie ale formatului MP4 includ:",
+    "Codecuri video: Fișierele MP4 pot conține fluxuri video comprimate cu diverse codecuri, cum ar fi H.264 (Advanced Video Coding), care este un standard de compresie video extrem de eficient și larg utilizat. Alte codecuri precum MPEG-4 Visual și H.263 sunt, de asemenea, acceptate.",
+    "Codecuri audio: MP4 suportă o gamă de codecuri audio, inclusiv Advanced Audio Coding (AAC), care este o opțiune populară pentru compresia audio de înaltă calitate. MP3 și alte codecuri audio pot fi, de asemenea, utilizate.",
+    "Format container: Fișierele MP4 au extensia de fișier .mp4 și servesc ca containere pentru fluxurile video și audio, precum și pentru metadatele suplimentare și conținutul multimedia. Containerul este flexibil și poate gestiona o varietate de tipuri de media.",
+    "Compatibilitate: MP4 este un format larg acceptat și este compatibil cu o gamă largă de dispozitive, aplicații software și platforme. Este folosit în mod obișnuit pentru streaming, video online, descărcări digitale și dispozitive mobile.",
+    "MP4 a devenit unul dintre formatele standard pentru livrarea conținutului multimedia datorită echilibrului său între eficiența compresiei, calitatea și compatibilitatea extinsă. Este utilizat pentru diverse scopuri, inclusiv partajarea video, serviciile de streaming, dispozitivele mobile și altele."
+  ],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": [
+    "Formatul MP4A se referă la componenta audio a formatului de container multimedia MP4 (MPEG-4 Part 14). MP4 este un format larg utilizat pentru stocarea fluxurilor audio și video, precum și a altor date, cum ar fi subtitrările și imagini statice. MP4A indică în mod specific faptul că fișierul conține date audio utilizând unul dintre codecurile audio MPEG-4.",
+    "Litera 'A' în MP4A înseamnă audio, iar în containerul MP4 pot fi utilizate diverse codecuri audio. Codecurile audio comune găsite în fișierele MP4A includ Advanced Audio Coding (AAC), care este larg utilizat pentru compresia audio de înaltă calitate, precum și alte codecuri audio precum MP3 sau chiar PCM (Pulse Code Modulation) audio necomprimat.",
+    "În rezumat, atunci când întâlniți un fișier cu extensia MP4A sau referire, acest lucru indică faptul că fișierul este un container MP4 care conține în mod specific date audio, iar codec-ul audio real utilizat poate varia în funcție de implementarea specifică și de alegerile de codificare făcute în timpul creării conținutului."
+  ],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": [
+    "WebM este un format de container multimedia proiectat pentru utilizare pe web. A fost dezvoltat de proiectul WebM, sponsorizat de Google. Formatul WebM este conceput în mod specific ca o alternativă deschisă și fără taxe de licență față de alte formate de container multimedia, cum ar fi MP4.",
+    "Caracteristici cheie ale WebM includ:",
+    "Codec video: WebM utilizează în mod tipic codecul video VP9, care oferă o compresie eficientă pentru video de înaltă calitate, rămânând deschis și fără taxe de licență. Se poate utiliza și codecul video VP8.",
+    "Codec audio: Componenta audio a fișierelor WebM folosește adesea codecul audio Opus, deschis și fără taxe de licență, deși poate utiliza și Vorbis.",
+    "Format container: Fișierele WebM au extensia de fișier .webm și servesc ca containere pentru fluxurile video și audio. Containerul WebM este proiectat să fie ușor și potrivit pentru utilizare pe web.",
+    "Una dintre principalele motivații în spatele dezvoltării WebM a fost furnizarea unui format care permite streamingul de video și audio de înaltă calitate pe web fără ca utilizatorii să plătească taxe de licență. A devenit popular pentru utilizarea în elementele video și audio HTML5, oferind o alternativă la formatele proprietare precum H.264 și AAC.",
+    "WebM este acceptat de marile browsere web, inclusiv Google Chrome, Mozilla Firefox și Opera. Este utilizat pentru streaming online, videoconferințe și alte aplicații multimedia bazate pe web."
+  ],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": [
+    "Formatul 3GP este un format de container multimedia proiectat pentru telefoanele mobile. Înseamnă '3rd Generation Partnership Project', care este o colaborare între organizații de standarde de telecomunicații pentru a dezvolta specificații pentru sistemele mobile, în special rețelele mobile 3G.",
+    "Fișierele 3GP conțin în mod obișnuit fluxuri video comprimate cu codecurile video H.263 sau H.264 și fluxuri audio comprimate cu codecurile audio AMR-NB sau AAC-LC. Formatul este optimizat pentru dispozitive mobile cu stocare și capacități de bandă limitate, făcându-l potrivit pentru streaming pe rețelele 3G.",
+    "Inițial, 3GP a fost dezvoltat pentru gestionarea conținutului video pe telefoanele mobile 3G, dar a fost folosit și în alte contexte, cum ar fi streamingul și partajarea video online. Cu toate acestea, odată cu avansarea tehnologiei mobile și creșterea formatelor mai capabile, precum MP4, utilizarea formatului 3GP a scăzut în timp. MP4 este acum mai larg acceptat și este considerat un format de container multimedia mai versatil și eficient."
+  ],
+
+  "formatHeaderhd": "Calitate HD",
+  "formatTexthd": ["Termenul 'format video HD' se referă la formatele video care susțin rezoluția High Definition (HD), ceea ce înseamnă un nivel mai înalt de calitate video în comparație cu Standard Definition (SD). Video HD are în mod tipic un număr mai mare de pixeli, rezultând imagini mai clare și mai detaliate. Există mai multe formate video HD comune, fiecare cu specificații diferite privind rezoluția, ratele de cadre și metodele de compresie. Iată câteva formate video HD populare:",
+  "HD Ready (720p): Acest format are o rezoluție de 1280x720 pixeli. 'p' înseamnă scanare progresivă, ceea ce înseamnă că fiecare cadru este desenat secvențial.",
+  "Full HD (1080p): Acest format are o rezoluție de 1920x1080 pixeli, oferind o calitate a imaginii chiar mai bună decât HD Ready. La fel ca 720p, 'p' înseamnă scanare progresivă.",
+  "2K (sau Quad HD): Acest format are o rezoluție de aproximativ 2048x1080 pixeli. Este folosit în mod obișnuit în cinematografia digitală și unele ecrane de înaltă calitate.",
+  "Ultra HD (4K): Acest format are o rezoluție de 3840x2160 pixeli, oferind de patru ori rezoluția Full HD. Este larg utilizat în televizoare, monitoare și producția de conținut digital.",
+  "8K Ultra HD: Cu o rezoluție de 7680x4320 pixeli, 8K oferă un nivel și mai înalt de detaliu. Cu toate acestea, până la cunoștințele mele din ianuarie 2022, conținutul 8K este mai puțin obișnuit din cauza cerințelor hardware ridicate atât pentru înregistrare, cât și pentru redare.",
+  "Codecurile video comune utilizate pentru conținutul HD includ H.264 (AVC), H.265 (HEVC) și VP9, printre altele. Aceste codecuri sunt responsabile pentru comprimarea eficientă a datelor video pentru a reduce dimensiunile fișierelor, menținând totodată redarea de înaltă calitate.",
+  "Când discutăm despre formatele video HD, este important să luăm în considerare atât rezoluția, cât și rata de cadre, deoarece ambele contribuie la calitatea generală a video-ului."
+  ]
     }
 }

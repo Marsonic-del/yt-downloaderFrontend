@@ -25,7 +25,7 @@
         ],
       
         "contentCoution": "Vui lòng lưu ý: Tuân theo các điều khoản sử dụng của HollywoodDownloader.com theo điều khoản dịch vụ và luật bản quyền của YouTube.",
-        "serviceDesc": "Dễ dàng biến những video YouTube yêu thích của bạn thành những kho báu ngoại tuyến. HollywoodDownloader cho phép bạn chuyển đổi và tải video từ YouTube, sang các định dạng MP3, MP4, Webm, 3GP, MP4A với chất lượng HD miễn phí.",
+        "serviceDesc": "Dễ dàng biến những video YouTube yêu thích của bạn thành những kho báu ngoại tuyến. HollywoodDownloader cho phép bạn chuyển đổi và tải video từ YouTube, sang các định dạng MP3, MP4, Webm, 3GP, MP4A với chất lượng HD miễn phí. Bạn cũng nhận được rất nhiều thông tin quan trọng về video sẽ giúp bạn đưa ra đánh giá chuyên gia.",
       
         "insrtuctionsHeader": "Tải video YouTube: Hướng dẫn từng bước",
         "instructions": [
@@ -80,7 +80,63 @@
         "shortsText": ["Giới thiệu dịch vụ tải video YouTube Shorts tiên tiến của chúng tôi, được thiết kế cho những người đam mê muốn thưởng thức mượt mà những video ngắn yêu thích của họ bất cứ khi nào, ở bất kỳ đâu. Với nền tảng thân thiện với người dùng của chúng tôi, bạn có thể dễ dàng tải nội dung video YouTube Shorts với chất lượng cao, đảm bảo một trải nghiệm xem thú vị khi bạn đang di chuyển. Khám phá bộ sưu tập rộng lớn của những video ngắn phổ biến và hấp dẫn, và chỉ với vài cú nhấp chuột, biến chúng thành các tệp dễ truy cập để thưởng thức ngoại tuyến. Đón nhận sự thuận tiện của dịch vụ tải video YouTube Shorts của chúng tôi và đừng bao giờ bỏ lỡ khoảnh khắc của nội dung hấp dẫn. Bắt đầu xây dựng thư viện cá nhân của bạn ngay hôm nay!"],
         "insrtuctionsShortHeader": "Tải video YouTube Shorts: Hướng dẫn từng bước",
         "removeInputTextButton": "Xóa nút văn bản đầu vào",
-        "altThumbnail": "Ảnh xem trước"
+        "altThumbnail": "Ảnh xem trước",
+
+        "formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, viết tắt của MPEG Audio Layer III, là định dạng nén âm thanh phổ biến được sử dụng rộng rãi. Đây là một phương pháp nén tập tin âm thanh để giảm kích thước của chúng trong khi vẫn giữ chất lượng âm thanh hợp lý. Định dạng MP3 được phát triển bởi Nhóm Chuyên gia Hình ảnh Chuyển động (MPEG) là một phần của các thông số kỹ thuật MPEG-1 và MPEG-2.",
+    "Các tính năng chính của định dạng MP3 bao gồm:",
+    "Nén: MP3 sử dụng phương pháp nén mất mát, có nghĩa là một số dữ liệu âm thanh bị loại bỏ trong quá trình nén để đạt được kích thước tập tin nhỏ hơn. Tuy nhiên, quá trình nén được thiết kế để làm cho sự chênh lệch giữa âm thanh gốc và phiên bản nén khá không thể phân biệt được bằng tai người.",
+    "Bitrate: Tập tin MP3 có thể được tạo ở các bitrate khác nhau, xác định lượng dữ liệu được sử dụng để biểu diễn âm thanh. Bitrate cao thường dẫn đến chất lượng âm thanh tốt hơn nhưng cũng làm tăng kích thước tập tin. Bitrate phổ biến nằm trong khoảng từ 128 kbps (kilobit mỗi giây) đến 320 kbps.",
+    "Tương thích: MP3 là một định dạng được hỗ trợ rộng rãi và có thể phát trên nhiều thiết bị khác nhau, bao gồm máy tính, điện thoại thông minh, máy nghe nhạc MP3 và nhiều thiết bị phát âm thanh khác. Nó đã trở thành một tiêu chuẩn cho phân phối âm thanh số.",
+    "Phần mở rộng tập tin: Các tập tin MP3 thường có phần mở rộng tập tin là .mp3.",
+    "MP3 đã làm thay đổi ngành công nghiệp âm nhạc bằng cách cho phép phân phối hiệu quả âm thanh kỹ thuật số qua internet. Đã là một định dạng quen thuộc cho tải nhạc, phát trực tuyến và thiết bị nghe nhạc cá nhân trong nhiều năm. Tuy nhiên, cần lưu ý rằng do nén mất mát, một số chất lượng âm thanh bị hy sinh để có kích thước tập tin nhỏ hơn so với các định dạng âm thanh không mất mát như WAV hoặc FLAC."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": [
+    "MP4, hoặc MPEG-4 Part 14, là một định dạng container đa phương tiện được sử dụng rộng rãi để lưu trữ luồng âm thanh và video, cũng như các loại dữ liệu khác như phụ đề và hình ảnh tĩnh. Nó được phát triển bởi Nhóm Chuyên gia Hình ảnh Chuyển động (MPEG) và là một phần của tiêu chuẩn MPEG-4.",
+    "Các tính năng chính của định dạng MP4 bao gồm:",
+    "Codec Video: Tập tin MP4 có thể chứa các luồng video được nén bằng các codec khác nhau, như H.264 (Advanced Video Coding), một tiêu chuẩn nén video hiệu quả và được sử dụng rộng rãi. Các codec khác như MPEG-4 Visual và H.263 cũng được hỗ trợ.",
+    "Codec Âm thanh: MP4 hỗ trợ một loạt các codec âm thanh, bao gồm Advanced Audio Coding (AAC), một lựa chọn phổ biến cho việc nén âm thanh chất lượng cao. MP3 và các codec âm thanh khác cũng có thể được sử dụng.",
+    "Định dạng Container: Các tập tin MP4 có phần mở rộng tập tin là .mp4 và chúng phục vụ như các container cho cả luồng video và âm thanh, cũng như siêu dữ liệu và nội dung đa phương tiện khác. Container này linh hoạt và có thể xử lý nhiều loại phương tiện khác nhau.",
+    "Tương thích: MP4 là một định dạng được hỗ trợ rộng rãi và tương thích với nhiều thiết bị, ứng dụng phần mềm và nền tảng khác nhau. Thông thường được sử dụng cho việc truyền phát, video trực tuyến, tải xuống số và thiết bị di động.",
+    "MP4 đã trở thành một trong những định dạng tiêu chuẩn để phân phối nội dung đa phương tiện do sự cân bằng giữa hiệu suất nén, chất lượng và sự tương thích rộng rãi. Nó được sử dụng trong nhiều mục đích, bao gồm chia sẻ video, dịch vụ trực tuyến, thiết bị di động và nhiều hơn nữa."
+  ],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": [
+    "Định dạng MP4A đề cập đến thành phần âm thanh của định dạng container đa phương tiện MP4 (MPEG-4 Part 14). MP4 là một định dạng tập tin phổ biến được sử dụng để lưu trữ luồng âm thanh và video, cũng như dữ liệu khác như phụ đề và hình ảnh tĩnh. MP4A cụ thể chỉ ra rằng tập tin chứa dữ liệu âm thanh bằng một trong các codec âm thanh MPEG-4.",
+    "'A' trong MP4A đứng cho âm thanh, và nhiều codec âm thanh có thể được sử dụng trong container MP4. Các codec âm thanh phổ biến trong các tập tin MP4A bao gồm Advanced Audio Coding (AAC), một lựa chọn phổ biến cho việc nén âm thanh chất lượng cao, cũng như các codec âm thanh khác như MP3 hoặc thậm chí là âm thanh PCM (Pulse Code Modulation) không nén.",
+    "Tóm lại, khi bạn gặp một tập tin với phần mở rộng MP4A hoặc tham chiếu, nó cho biết rằng tập tin là một container MP4 chứa đặc điểm âm thanh, và codec âm thanh cụ thể sử dụng có thể thay đổi tùy thuộc vào cách triển khai cụ thể và các lựa chọn mã hóa được thực hiện trong quá trình tạo nội dung."
+  ],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": [
+    "WebM là một định dạng container đa phương tiện được thiết kế để sử dụng trên web. Nó được phát triển bởi Dự án WebM, là một dự án được tài trợ bởi Google. Định dạng WebM được thiết kế đặc biệt để là một sự lựa chọn mở, không thuế cho các định dạng container đa phương tiện khác như MP4.",
+    "Các tính năng chính của WebM bao gồm:",
+    "Codec Video: WebM thường sử dụng codec video VP9, cung cấp sự nén hiệu quả cho video chất lượng cao trong khi vẫn mở và không thuế. Nó cũng có thể sử dụng codec video VP8.",
+    "Codec Âm thanh: Thành phần âm thanh của các tập tin WebM thường sử dụng codec âm thanh Opus mở và không thuế, mặc dù cũng có thể sử dụng Vorbis.",
+    "Định dạng Container: Các tập tin WebM có phần mở rộng tập tin là .webm và chúng phục vụ như các container cho cả luồng video và âm thanh. Container WebM được thiết kế để nhẹ và phù hợp cho việc sử dụng trên web.",
+    "Một trong những động lực chính đằng sau việc phát triển WebM là cung cấp một định dạng cho phép video và âm thanh chất lượng cao trên web mà không cần người dùng phải trả các khoản phí cấp phép. Nó đã trở nên phổ biến cho việc sử dụng trong các yếu tố video và âm thanh HTML5, cung cấp một lựa chọn thay thế cho các định dạng chủ quyền như H.264 và AAC.",
+    "WebM được hỗ trợ bởi các trình duyệt web phổ biến, bao gồm Google Chrome, Mozilla Firefox và Opera. Nó được sử dụng cho streaming trực tuyến, họp trực tuyến và các ứng dụng đa phương tiện trên web khác."
+  ],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": [
+    "Định dạng 3GP là một định dạng container đa phương tiện được thiết kế cho điện thoại di động. Nó viết tắt của '3rd Generation Partnership Project', là một sự hợp tác giữa các tổ chức tiêu chuẩn viễn thông để phát triển các quy định cho các hệ thống di động, đặc biệt là mạng di động 3G.",
+    "Các tập tin 3GP thường chứa các luồng video được nén bằng các codec video H.263 hoặc H.264 và các luồng âm thanh được nén bằng các codec âm thanh AMR-NB hoặc AAC-LC. Định dạng này được tối ưu hóa cho các thiết bị di động có khả năng lưu trữ và băng thông giới hạn, phù hợp cho việc truyền phát trên mạng 3G.",
+    "Ban đầu, 3GP được phát triển để xử lý nội dung video trên điện thoại di động 3G, nhưng nó cũng đã được sử dụng trong các bối cảnh khác như streaming và chia sẻ video trực tuyến. Tuy nhiên, với sự tiến triển trong công nghệ di động và sự gia tăng của các định dạng có khả năng hơn, như MP4, việc sử dụng 3GP đã giảm đi theo thời gian. MP4 hiện đang được hỗ trợ rộng rãi hơn và được coi là một định dạng container đa phương tiện linh hoạt và hiệu quả hơn."
+  ],
+
+  "formatHeaderhd": "Chất lượng HD",
+  "formatTexthd": ["Thuật ngữ 'định dạng video HD' đề cập đến các định dạng video hỗ trợ độ phân giải High Definition (HD), một cấp độ chất lượng video cao hơn so với định dạng Standard Definition (SD). Video HD thường có độ phân giải cao hơn, dẫn đến hình ảnh sắc nét và chi tiết hơn. Có một số định dạng video HD phổ biến, mỗi định dạng đều có các thông số kỹ thuật khác nhau liên quan đến độ phân giải, tốc độ khung hình và phương pháp nén. Dưới đây là một số định dạng video HD phổ biến:",
+    "HD Ready (720p): Định dạng này có độ phân giải 1280x720 pixel. 'p' đứng cho quét tiến, có nghĩa là mỗi khung hình được vẽ tuần tự.",
+    "Full HD (1080p): Định dạng này có độ phân giải 1920x1080 pixel, cung cấp chất lượng hình ảnh cao hơn so với HD Ready. Như 720p, 'p' đứng cho quét tiến.",
+    "2K (hoặc Quad HD): Định dạng này có độ phân giải khoảng 2048x1080 pixel. Thường được sử dụng trong điện ảnh số và một số màn hình cao cấp.",
+    "Ultra HD (4K): Định dạng này có độ phân giải 3840x2160 pixel, cung cấp bốn lần độ phân giải so với Full HD. Thường được sử dụng trong TV, màn hình và sản xuất nội dung số.",
+    "8K Ultra HD: Với độ phân giải 7680x4320 pixel, 8K cung cấp một mức độ chi tiết cao hơn. Tuy nhiên, đến thời điểm kiến thức của tôi cắt đứt vào tháng 1 năm 2022, nội dung 8K ít phổ biến do yêu cầu phần cứng đòi hỏi cao cả về cả quay và phát lại.",
+    "Các codec video phổ biến được sử dụng cho nội dung HD bao gồm H.264 (AVC), H.265 (HEVC) và VP9, giữa những người khác. Các codec này chịu trách nhiệm nén dữ liệu video một cách hiệu quả để giảm kích thước tập tin trong khi vẫn duy trì chất lượng phát lại cao.",
+    "Khi thảo luận về định dạng video HD, quan trọng là cân nhắc cả về độ phân giải và tốc độ khung hình, vì cả hai đều đóng góp vào chất lượng video tổng thể."
+  ]
       }
       
 }

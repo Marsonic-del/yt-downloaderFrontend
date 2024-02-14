@@ -9,13 +9,13 @@ import MainContent from '../mainContent';
 import ServiceDescription from '../serviceDescription'
 import DescriptionBox from '../DescriptionBox'
 
-const Main = ({ intl }) => {
+const Main = ({ intl, locale }) => {
 
 
     return (
         <main className={styles.main}>
-            <ServiceDescription intl={intl} />
-            <DescriptionBox intl={intl} />
+            <ServiceDescription intl={intl} locale={locale} />
+            <DescriptionBox intl={intl} locale={locale} />
             <MainContent intl={intl} header={intl.insrtuctionsHeader} />
         </main>
     )

@@ -24,7 +24,7 @@
       "Muuta helposti suosikki YouTube-videosi offline-aarteiksi yksinkertaisesti liittämällä videolinkki yllä olevaan syötekenttään ja napsauttamalla Lataa-nappia."
     ],
 
-    "contentCoution": "Huomioithan: Noudata HollywoodDownloader.comin käyttöehtoja YouTube:n käyttöehtojen ja tekijänoikeuslakien mukaisesti.",
+    "contentCoution": "Huomioithan: Noudata HollywoodDownloader.comin käyttöehtoja YouTube:n käyttöehtojen ja tekijänoikeuslakien mukaisesti. Saat myös paljon tärkeää tietoa videosta, mikä auttaa sinua antamaan sille asiantuntijatason arvio.",
     "serviceDesc": "Muuta helposti suosikki YouTube-videosi offline-aarteiksi. HollywoodDownloader mahdollistaa YouTube-videoiden muuntamisen ja lataamisen MP3, MP4, Webm, 3GP, MP4A -laadulla ilmaiseksi.",
 
     "insrtuctionsHeader": "YouTube-videoiden lataus: Askel-askeleelta opas",
@@ -86,6 +86,54 @@
     ],
     "insrtuctionsShortHeader": "Lataa YouTube Shorts: Askel-askeleelta opas",
     "removeInputTextButton": "Poista syötekenttänappi",
-    "altThumbnail": "Esikatselukuva"
+    "altThumbnail": "Esikatselukuva",
+
+    "formatHeadermp3": "MP3",
+    "formatTextmp3": ["MP3, joka on lyhenne sanoista MPEG Audio Layer III, on laajasti käytetty äänipakkausmuoto. Se on menetelmä äänitiedostojen pakkaamiseksi niiden koon pienentämiseksi säilyttäen samalla kohtuullinen äänenlaatu. MP3-muoto kehittyi Moving Picture Experts Groupin (MPEG) toimesta osana MPEG-1- ja MPEG-2-määrittelyjä.",
+      "MP3-muodon tärkeimpiä ominaisuuksia ovat:", "Pakkaus: MP3 käyttää menetelmää, jossa osa äänidatasta poistetaan pakkausprosessin aikana tiedostojen koon pienentämiseksi. Kuitenkin pakkaus on suunniteltu olemaan havaitsemattomissa ihmiskorvalla, mikä tarkoittaa, että yleensä eroa alkuperäisen äänen ja pakatun version välillä ei voi erottaa.",
+      "Bittinopeus: MP3-tiedostoja voidaan luoda eri bittinopeuksilla, jotka määrittävät äänen edustamiseen käytetyn datan määrän. Korkeammat bittinopeudet yleensä johtavat parempaan äänenlaatuun, mutta myös suurempiin tiedostokokoihin. Yleisiä bittinopeuksia ovat 128 kbps (kilobittiä sekunnissa) - 320 kbps välillä.",
+      "Yhteensopivuus: MP3 on laajalti tuettu muoto ja sitä voidaan toistaa monilla laitteilla, kuten tietokoneilla, älypuhelimilla, MP3-soittimilla ja erilaisilla äänilaitteilla. Siitä on tullut standardi digitaaliselle äänenjakelulle.",
+      "Tiedostotunniste: MP3-tiedostoilla on tyypillisesti .mp3-tiedostotunniste.",
+      "MP3 mullisti musiikkiteollisuuden mahdollistaen tehokkaan digitaalisen äänen jakelun internetissä. Se on ollut vallitseva formaatti musiikin latauksessa, suoratoistossa ja henkilökohtaisissa äänentoistolaitteissa monien vuosien ajan. On kuitenkin huomionarvoista, että sen menetetty pakkaus voi johtaa hieman pienempään äänenlaatuun verrattuna pakkaamattomiin ääniformaatteihin, kuten WAV tai FLAC."],
+  
+    "formatHeadermp4": "MP4",
+    "formatTextmp4": [
+      "MP4 eli MPEG-4 Osa 14 on laajalti käytetty multimediakonttimuoto äänen ja videovirtojen sekä muiden tietotyyppien, kuten tekstitysten ja still-kuvien, tallentamiseen. Se kehitettiin Moving Picture Experts Groupin (MPEG) toimesta ja se kuuluu MPEG-4-standardiin.",
+      "MP4-muodon tärkeimpiä ominaisuuksia ovat:", "Videokoodekit: MP4-tiedostoissa voi olla videovirtoja, jotka on pakattu erilaisilla koodekeilla, kuten H.264 (Advanced Video Coding), joka on erittäin tehokas ja laajalti käytetty videon pakkausstandardi. Myös muut koodekit kuten MPEG-4 Visual ja H.263 ovat tuettuja.",
+      "Äänikoodekit: MP4 tukee joukkoa äänikoodekkeja, mukaan lukien Advanced Audio Coding (AAC), joka on suosittu valinta korkealaatuiseen äänen pakkaamiseen. MP3 ja muut äänikoodekit ovat myös käyttökelpoisia.",
+      "Konttimuoto: MP4-tiedostoilla on .mp4-tiedostotunniste ja ne toimivat kontteina sekä video- että äänivirroille, sekä lisämetatiedoille ja multimediasisällölle. Kontti on joustava ja voi käsitellä erilaisia mediatyyppejä.",
+      "Yhteensopivuus: MP4 on laajasti tuettu muoto ja se on yhteensopiva monien laitteiden, ohjelmistosovellusten ja alustojen kanssa. Sitä käytetään yleisesti suoratoistoon, verkkovideoon, digitaaliseen lataamiseen ja mobiililaitteisiin.",
+      "MP4:stä on tullut yksi standardimuodoista monimediasisällön toimittamisessa sen tasapainon ansiosta pakkaustehokkuuden, laadun ja laajan yhteensopivuuden välillä. Sitä käytetään monissa tarkoituksissa, kuten videon jakamisessa, suoratoistopalveluissa, mobiililaitteissa ja muissa."],
+  
+    "formatHeadermp4a": "MP4A",
+    "formatTextmp4a": [
+      "MP4A-muoto viittaa MP4 (MPEG-4 Osa 14) multimediakontinormaatin äänikomponenttiin. MP4 on laajalti käytetty tiedostomuoto äänen ja videovirtojen sekä muiden tietojen, kuten tekstitysten ja still-kuvien, tallentamiseen. MP4A osoittaa erityisesti, että tiedosto sisältää äänitietoja käyttäen yhtä MPEG-4-äänikoodekeista.",
+      "'A' MP4A:ssa viittaa ääneen, ja MP4-kontin sisällä voi käyttää erilaisia äänikoodekkeja. Yleisiä äänikoodekkeja MP4A-tiedostoissa ovat Advanced Audio Coding (AAC), joka on laajalti käytetty korkealaatuisessa äänen pakkaamisessa, sekä muut äänikoodekit kuten MP3 tai jopa pakkaamaton PCM (Pulse Code Modulation) ääni.",
+      "Yhteenvetona, kun törmäät tiedostoon, jolla on MP4A-tiedostotunniste tai viite, se osoittaa, että tiedosto on MP4-kontti, joka sisältää nimenomaan äänitietoja, ja käytetty äänikoodekki voi vaihdella riippuen tietystä toteutuksesta ja koodauksen valinnoista sisällön luomisen aikana."],
+  
+    "formatHeaderwebm": "WEBM",
+    "formatTextwebm": [
+      "WebM on multimediakonttimuoto, joka on suunniteltu käytettäväksi verkossa. Sen kehitti WebM Project, joka on Googlen sponsoroima projekti. WebM-formaatti on erityisesti suunniteltu olemaan avoin, rojaltivapaa vaihtoehto muille multimediakonttimuodoille, kuten MP4.",
+      "WebMin tärkeimpiä ominaisuuksia ovat:", "Videokoodekki: WebM käyttää yleensä VP9-videokoodekkia, joka tarjoaa tehokasta pakkausta korkealaatuiselle videolle säilyttäen samalla avoimuuden ja rojaltivapauden. Se voi myös käyttää VP8-videokoodekkia.",
+      "Äänikoodekki: WebM-tiedostojen ääniosio käyttää usein avointa ja rojaltivapaata Opus-äänikoodekkia, vaikka se voi myös käyttää Vorbisia.",
+      "Konttimuoto: WebM-tiedostoilla on .webm-tiedostotunniste ja ne toimivat kontteina sekä video- että äänivirroille. WebM-kontti on suunniteltu olemaan kevyt ja sopiva verkkokäyttöön.",
+      "Yksi WebMin kehityksen päätavoitteista oli tarjota formaatti, joka mahdollistaa korkealaatuisen videon ja äänen suoratoiston verkossa ilman käyttäjien tarvetta maksaa lisenssimaksuja. Se on saavuttanut suosiota HTML5-videon ja äänen elementeissä tarjoten vaihtoehdon suljetuille formaateille, kuten H.264 ja AAC.",
+      "WebM:ää tukevat suuret verkkoselaimet, kuten Google Chrome, Mozilla Firefox ja Opera. Sitä käytetään verkkosuoratoistoon, videoneuvotteluihin ja muihin verkkopohjaisiin multimediasovelluksiin."],
+  
+    "formatHeader3gp": "3GP",
+    "formatText3gp": [
+      "3GP-formaatti on multimediakonttimuoto, joka on suunniteltu matkapuhelimille. Se tarkoittaa '3rd Generation Partnership Project', joka on yhteistyö telekommunikaatiostandardien organisaatioiden välillä kehittääkseen määrityksiä erityisesti 3G-matkapuhelinverkoille.",
+      "3GP-tiedostoissa on yleensä videovirtoja, jotka on pakattu H.263- tai H.264-videokoodekeilla, sekä äänivirtoja, jotka on pakattu AMR-NB- tai AAC-LC-äänikoodekeilla. Formaatti on optimoitu matkapuhelimille, joilla on rajoitetut tallennus- ja kaistanleveysominaisuudet, mikä tekee siitä sopivan suoratoistoon 3G-verkoissa.",
+      "Alun perin 3GP kehitettiin käsittelemään videomateriaalia 3G-matkapuhelimissa, mutta sitä on käytetty myös muissa yhteyksissä, kuten verkkovideosuoratoistossa ja -jakelussa. Kuitenkin, kun matkateknologia on kehittynyt ja tehokkaampia formaatteja, kuten MP4, on tullut enemmän käytettyjä, 3GP:n käyttö on vähentynyt ajan myötä. MP4 on nyt laajemmin tuettu ja katsotaan monipuolisemmaksi ja tehokkaammaksi multimediakonttimuodoksi."],
+  
+    "formatHeaderhd": "HD-laatu",
+    "formatTexthd": ["Termi 'HD-videomuoto' viittaa videoformaatteihin, jotka tukevat korkean resoluution (HD) laatua, mikä on korkeampi videolaatu verrattuna tavalliseen määritelmään (SD). HD-videolla on yleensä suurempi pikselimäärä, mikä johtaa terävämpiin ja yksityiskohtaisempiin kuviin. On useita yleisiä HD-videomuotoja, joilla on erilaiset määrittelyt resoluution, kuvataajuuksien ja pakkausmenetelmien suhteen. Tässä ovat joitakin suosittuja HD-videomuotoja:",
+      "HD Ready (720p): Tällä muodolla on 1280x720 pikselin resoluutio. 'p' tarkoittaa progressiivista skannausta, mikä tarkoittaa, että jokainen kehys piirretään peräkkäin.",
+      "Full HD (1080p): Tällä muodolla on 1920x1080 pikselin resoluutio, tarjoten vielä korkeamman kuvanlaadun kuin HD Ready. Kuten 720p, 'p' tarkoittaa progressiivista skannausta.",
+      "2K (tai Quad HD): Tällä muodolla on noin 2048x1080 pikselin resoluutio. Sitä käytetään yleisesti digitaalisessa elokuvateollisuudessa ja joillakin korkean tason näytöillä.",
+      "Ultra HD (4K): Tällä muodolla on 3840x2160 pikselin resoluutio, tarjoten neljä kertaa enemmän resoluutiota kuin Full HD. Sitä käytetään laajalti televisioissa, näytöissä ja digitaalisen sisällön tuotannossa.",
+      "8K Ultra HD: 7680x4320 pikselin resoluutiolla 8K tarjoaa vielä korkeamman tason yksityiskohtia. Kuitenkin tammikuun 2022 tietojeni leikkauspäivänä 8K-sisältöä oli vähemmän yleistä johtuen vaativista laitteistovaatimuksista sekä tallennuksessa että toistossa.",
+      "Yleisiä HD-sisällön koodekkeja ovat H.264 (AVC), H.265 (HEVC) ja VP9, muiden joukossa. Nämä koodekit ovat vastuussa videodatan tehokkaasta pakkaamisesta tiedostokokojen pienentämiseksi ylläpitäen samalla korkealaatuista toistoa.",
+      "HD-videomuotoja käsitellessä on tärkeää ottaa huomioon sekä resoluutio että kuvataajuus, koska molemmat vaikuttavat kokonaisuudessaan videon laatuun."]
   }
 }

@@ -25,7 +25,7 @@
     ],
 
     "contentCoution": "Poznámka: Dodržujte podmínky používání HollywoodDownloader.com v souladu s podmínkami služby YouTube a autorskými zákony.",
-    "serviceDesc": "Snadno převeďte svá oblíbená videa z YouTube na offline poklady. HollywoodDownloader vám umožňuje převádět a stahovat video z YouTube do formátů MP3, MP4, Webm, 3GP, MP4A ve vysoké kvalitě zdarma.",
+    "serviceDesc": "Snadno převeďte svá oblíbená videa z YouTube na offline poklady. HollywoodDownloader vám umožňuje převádět a stahovat video z YouTube do formátů MP3, MP4, Webm, 3GP, MP4A ve vysoké kvalitě zdarma. Také získáte mnoho důležitých informací o videu, které vám pomohou udělit mu odborné hodnocení.",
 
     "insrtuctionsHeader": "Stahujte videa z YouTube: Krok za krokem průvodce",
     "instructions": [
@@ -86,6 +86,87 @@
     ],
     "insrtuctionsShortHeader": "Stáhněte si YouTube Shorts: Krok za krokem průvodce",
     "removeInputTextButton": "Odebrat tlačítko pro vložení textu",
-    "altThumbnail": "Náhled"
+    "altThumbnail": "Náhled",
+
+
+    "formatHeadermp3": "MP3",
+      "formatTextmp3": ["MP3, což znamená MPEG Audio Layer III, je široce používaný formát komprese zvuku. Jedná se o metodu komprese zvukových souborů s cílem snížit jejich velikost při zachování přijatelné kvality zvuku. Formát MP3 byl vyvinut skupinou Moving Picture Experts Group (MPEG) jako součást specifikací MPEG-1 a MPEG-2.",
+
+      "Klíčové vlastnosti formátu MP3 zahrnují:",
+      
+      "Kompresi: MP3 používá ztrátovou kompresi, což znamená, že během procesu komprese je některá zvuková data zahozena s cílem dosáhnout menších velikostí souborů. Nicméně komprese je navržena tak, aby byla vnímavě transparentní, což znamená, že lidské ucho obvykle nedokáže rozlišit rozdíl mezi původním zvukem a komprimovanou verzí.",
+      
+      "Bitrate: MP3 soubory lze vytvářet s různými bitraty, které určují množství dat použitých k reprezentaci zvuku. Vyšší bitraty obvykle vedou k lepší kvalitě zvuku, ale také k větším velikostem souborů. Běžné bitraty se pohybují od 128 kbps (kilobitů za sekundu) do 320 kbps.",
+      
+      "Kompatibilita: MP3 je široce podporovaný formát a lze ho přehrávat na široké škále zařízení, včetně počítačů, chytrých telefonů, přehrávačů MP3 a různých zařízení pro přehrávání zvuku. Stal se standardem pro digitální distribuci zvuku.",
+      
+      "Přípona souboru: MP3 soubory obvykle mají příponu souboru .mp3.",
+      
+      "MP3 revolucionizoval hudební průmysl tím, že umožnil efektivní distribuci digitálního zvuku přes internet. Po mnoho let byl dominantním formátem pro stahování hudby, streamování a osobní přehrávání zvuku. Nicméně je třeba poznamenat, že kvůli ztrátové kompresi dochází k obětování některé kvality zvuku ve prospěch menších velikostí souborů ve srovnání s bezztrátovými zvukovými formáty jako jsou WAV nebo FLAC."],
+
+      "formatHeadermp4": "MP4",
+      "formatTextmp4": [],
+
+      "formatHeadermp4a": "MP4A",
+      "formatTextmp4a": [
+        "MP4, neboli MPEG-4 část 14, je široce používaný multimediální kontejnerový formát pro ukládání zvukových a video proudů, stejně jako dalších typů dat, jako jsou titulky a statické obrázky. Byl vyvinut skupinou Moving Picture Experts Group (MPEG) a je součástí standardu MPEG-4.",
+
+       "Klíčové vlastnosti formátu MP4 zahrnují:",
+        
+       " Kodeky videa: MP4 soubory mohou obsahovat videoproudy komprimované různými kodeky, jako je H.264 (Advanced Video Coding), což je vysoce efektivní a široce používaný standard pro kompresi videa. Jsou podporovány i další kodeky, jako MPEG-4 Visual a H.263.",
+        
+        "Kodeky zvuku: MP4 podporuje řadu zvukových kodeků, včetně Advanced Audio Coding (AAC), který je populární volbou pro kompresi zvuku ve vysoké kvalitě. Lze také používat kodeky jako MP3 a další.",
+        
+        "Formát kontejneru: MP4 soubory mají příponu souboru .mp4 a slouží jako kontejnery pro videoproudy, zvukové proudy a další metadata a multimediální obsah. Kontejner je flexibilní a může zpracovávat různé typy médií.",
+        
+        "Kompatibilita: MP4 je široce podporovaný formát a kompatibilní s širokou škálou zařízení, softwarových aplikací a platforem. Je běžně používán pro streamování, online video, digitální stahování a mobilní zařízení.",
+        
+        "MP4 se stal jedním z standardních formátů pro dodávání multimediálního obsahu díky svému vyváženému poměru efektivity komprese, kvality a široké kompatibility. Používá se pro různé účely, včetně sdílení videa, streamovacích služeb, mobilních zařízení a dalších."
+      ],
+
+      "formatHeaderwebm": "WEBM",
+      "formatTextwebm": [
+       " WebM je multimediální kontejnerový formát navržený pro použití na webu. Byl vyvinut projektem WebM, který je sponzorován společností Google. Formát WebM je speciálně navržen jako otevřená a bezlicenční alternativa k jiným multimediálním kontejnerovým formátům, jako je například MP4.",
+
+      "Klíčové vlastnosti formátu WebM zahrnují:",
+
+      "Kodek videa: WebM obvykle používá video kodek VP9, který poskytuje efektivní kompresi pro video ve vysoké kvalitě a zároveň zůstává otevřený a bezlicenční. Může také používat video kodek VP8.",
+
+      "Kodek zvuku: Zvuková složka souborů WebM často využívá otevřený a bezlicenční zvukový kodek Opus, ačkoliv může také používat Vorbis.",
+
+      "Formát kontejneru: Soubory WebM mají příponu souboru .webm a slouží jako kontejnery pro videoproudy a zvukové proudy. Kontejner WebM je navržen tak, aby byl lehký a vhodný pro použití na webu.",
+
+      "Jedním z hlavních důvodů vývoje WebM bylo poskytnout formát umožňující streamování videa a zvuku ve vysoké kvalitě na webu bez potřeby, aby uživatelé platili licenční poplatky. Získal popularitu při použití v prvcích HTML5 pro video a zvuk jako alternativa k vlastnickým formátům jako H.264 a AAC.",
+
+      "WebM je podporován hlavními webovými prohlížeči, včetně Google Chrome, Mozilla Firefox a Opery. Je používán pro online streamování, video konferencing a další webové multimediální aplikace."
+      ],
+
+      "formatHeader3gp": "3GP",
+      "formatText3gp": [
+        "Formát 3GP je multimediální kontejnerový formát navržený pro mobilní telefony. Znamená to '3rd Generation Partnership Project' neboli 'Projekt partnerství třetí generace', což je spolupráce mezi organizacemi pro standardy telekomunikací s cílem vyvíjet specifikace pro mobilní systémy, zejména pro 3G mobilní sítě.",
+
+"Soubory ve formátu 3GP obvykle obsahují videoproudy komprimované video kodeky H.263 nebo H.264 a zvukové proudy komprimované audio kodeky AMR-NB nebo AAC-LC. Formát je optimalizován pro mobilní zařízení s omezeným úložištěm a šířkou pásma, což ho činí vhodným pro streamování přes 3G sítě.",
+
+"Původně byl formát 3GP vyvinut pro zpracování videokontentu na 3G mobilních telefonech, ale byl také používán v jiných kontextech, jako je online streamování a sdílení videa. Nicméně s pokrokem v mobilní technologii a vzestupem více schopných formátů, jako je MP4, používání formátu 3GP se časem snížilo. MP4 je nyní širší podporován a považuje se za vícestranný a efektivní multimediální kontejnerový formát."
+      ],
+
+      "formatHeaderhd": "HD quality",
+      "formatTexthd": ["Termín 'HD video formát' odkazuje na video formáty, které podporují rozlišení High Definition (HD), což je vyšší úroveň kvality videa ve srovnání se Standard Definition (SD). HD video obvykle má vyšší počet pixelů, což vede k ostřejším a detailnějším obrazům. Existuje několik běžných HD video formátů s různými specifikacemi týkajícími se rozlišení, snímkových frekvencí a metod komprese. Zde jsou některé populární HD video formáty:",
+
+      "HD Ready (720p): Tento formát má rozlišení 1280x720 pixelů. 'p' znamená postupné snímání, což znamená, že každý snímek je kreslen postupně.",
+      
+     " Full HD (1080p): Tento formát má rozlišení 1920x1080 pixelů, poskytující ještě vyšší kvalitu obrazu než HD Ready. Stejně jako u 720p znamená 'p' postupné snímání.",
+      
+      "2K (nebo Quad HD): Tento formát má rozlišení přibližně 2048x1080 pixelů. Je běžně používán v digitálním kině a některých vysoce výkonných displejích.",
+      
+      "Ultra HD (4K): Tento formát má rozlišení 3840x2160 pixelů, nabízí čtyři krát vyšší rozlišení než Full HD. Je široce používán v televizích, monitorech a produkci digitálního obsahu.",
+      
+      "8K Ultra HD: S rozlišením 7680x4320 pixelů poskytuje 8K ještě vyšší úroveň detailu. Nicméně, k mému datu uzávěrky znalostí v lednu 2022, je obsah ve formátu 8K méně běžný kvůli náročným hardwarovým požadavkům pro nahrávání i přehrávání.",
+      
+      "Běžně používané video kodeky pro HD obsah zahrnují H.264 (AVC), H.265 (HEVC) a VP9, mezi ostatními. Tyto kodeky jsou zodpovědné za efektivní kompresi video dat s cílem snížit velikost souborů při zachování přehrávání ve vysoké kvalitě.",
+      
+      "Při diskusi o HD video formátech je důležité zohlednit jak rozlišení, tak snímkovou frekvenci, protože oba přispívají k celkové kvalitě videa."
+    
+    ]
   }
 }

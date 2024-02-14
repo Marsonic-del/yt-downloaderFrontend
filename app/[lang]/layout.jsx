@@ -9,7 +9,7 @@ import FormSection from '@/components/FormSection';
 import { locales, defaultLocale } from '@/app/lib/constants'
 
 export const viewport = {
-  themeColor: '#220066',
+  themeColor: '#000066',
   colorScheme: 'light',
 }
 
@@ -21,7 +21,7 @@ const roboto = Roboto({
 export const metadata = {
   metadataBase: new URL('https://hollywooddownloader.com'),
   alternates: {
-    canonical: '/en',
+    canonical: '/en-US',
     languages: {
       'en-US': '/en-US',
       'en-GB': '/en-GB',

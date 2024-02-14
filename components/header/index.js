@@ -15,7 +15,7 @@ const Header = ({ intl, locale }) => {
                         <Link href={`/${locale}`} className={`${styles.link} ${styles.headerTitle}`}>HollywoodDownloader</Link>
                     </li>
                     <li itemProp="name">
-                        <Link href={`/${locale}/youtube-shorts`} className={styles.link}>YouTube Shorts</Link>
+                        <Link href={`/${locale}/download-youtube-shorts`} className={styles.link}>YouTube Shorts</Link>
                     </li>
                     <li itemProp="name">
                         <Link href={`/${locale}/mp3-converter`} className={styles.link}>YouTube to MP3</Link>

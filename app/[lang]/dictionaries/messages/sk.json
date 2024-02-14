@@ -23,7 +23,7 @@
         "Ľahko si premenujte svoje obľúbené videá z YouTube na offline poklady tým, že jednoducho vložíte odkaz na video do vyššie uvedeného vstupného poľa a kliknete na tlačidlo Stiahnuť."
       ],
       "contentCoution": "Upozornenie: Dodržujte podmienky používania HollywoodDownloader.com v súlade s podmienkami služby YouTube a autorskými právami.",
-      "serviceDesc": "Ľahko si premenujte svoje obľúbené videá z YouTube na offline poklady. HollywoodDownloader vám umožňuje konvertovať a stiahnuť video z YouTube do formátov MP3, MP4, Webm, 3GP, MP4A vo vysokom rozlíšení zadarmo.",
+      "serviceDesc": "Ľahko si premenujte svoje obľúbené videá z YouTube na offline poklady. HollywoodDownloader vám umožňuje konvertovať a stiahnuť video z YouTube do formátov MP3, MP4, Webm, 3GP, MP4A vo vysokom rozlíšení zadarmo. Taktiež získate veľa dôležitých informácií o videu, ktoré vám pomôžu poskytnúť mu odborné hodnotenie.",
       "insrtuctionsHeader": "Stiahnite si videá z YouTube: Krok za krokom sprievodca",
       "instructions": [
         "1. Skopírujte odkaz na video z YouTube, ktoré chcete stiahnuť.",
@@ -79,7 +79,63 @@
       ],
       "insrtuctionsShortHeader": "Stiahnite si videá YouTube Shorts: Krok za krokom sprievodca",
       "removeInputTextButton": "Odstrániť tlačidlo s textom vstupu",
-      "altThumbnail": "Náhľad"
+      "altThumbnail": "Náhľad",
+
+      "formatHeadermp3": "MP3",
+      "formatTextmp3": ["MP3, čo znamená MPEG Audio Layer III, je široko používaný audio kompresný formát. Ide o metódu komprimovania audio súborov na zmenšenie ich veľkosti s zachovaním primeranej kvality zvuku. Formát MP3 bol vyvinutý skupinou Moving Picture Experts Group (MPEG) ako súčasť špecifikácií MPEG-1 a MPEG-2.",
+        "Kľúčové vlastnosti formátu MP3 zahŕňajú:",
+        "Kompresia: MP3 používa stratu kompresie, čo znamená, že počas procesu kompresie je niektorý audio dátum odstránený s cieľom dosiahnuť menšie veľkosti súborov. Avšak kompresia je navrhnutá tak, aby bola vnímaná ako transparentná, čo znamená, že ľudské ucho všeobecne nemôže rozlíšiť rozdiel medzi pôvodným zvukom a komprimovanou verziou.",
+        "Bitrate: MP3 súbory môžu byť vytvorené pri rôznych bitrátoch, ktoré určujú množstvo dát použitých na reprezentáciu zvuku. Vyššie bitráty obvykle vedú k lepšej kvalite zvuku, ale aj k väčším veľkostiam súborov. Časté bitráty sa pohybujú od 128 kbps (kilobitov za sekundu) do 320 kbps.",
+        "Kompatibilita: MP3 je široko podporovaný formát a môže byť prehrávaný na širokej škále zariadení, vrátane počítačov, smartfónov, prehrávačov MP3 a rôznych zariadení pre prehrávanie zvuku. Stal sa štandardom pre distribúciu digitálneho zvuku.",
+        "Prípona súboru: MP3 súbory obvykle majú príponu súboru .mp3.",
+        "MP3 revolúcionizoval hudobný priemysel tým, že umožnil efektívnu distribúciu digitálneho zvuku cez internet. Bol dominantným formátom pre sťahovanie hudby, streamovanie a osobné prehrávače zvuku po mnoho rokov. Treba však poznamenať, že v dôsledku svojej strátnej kompresie obetuje niektorú kvalitu zvuku na úkor menších veľkostí súborov v porovnaní s bezstratovými audio formátmi ako WAV alebo FLAC."],
+    
+      "formatHeadermp4": "MP4",
+      "formatTextmp4": [
+        "MP4, alebo MPEG-4 Part 14, je široko používaný multimediálny kontajnerový formát na ukladanie audio a video tokov, ako aj iných typov dát, ako sú titulky a statické obrázky. Bol vyvinutý skupinou Moving Picture Experts Group (MPEG) a je súčasťou štandardu MPEG-4.",
+        "Kľúčové vlastnosti formátu MP4 zahŕňajú:",
+        "Kodeky videa: MP4 súbory môžu obsahovať video toky komprimované rôznymi kodekmi, ako napríklad H.264 (Advanced Video Coding), ktorý je vysoce efektívny a široko používaný štandard kompresie videa. Podporované sú aj iné kodeky ako MPEG-4 Visual a H.263.",
+        "Kodeky zvuku: MP4 podporuje rad kodekov zvuku, vrátane kodeku Advanced Audio Coding (AAC), ktorý je populárnou voľbou pre kompresiu audio vo vysokom kvalitnom režime. Môžu sa používať aj iné kodeky zvuku, ako je MP3 alebo dokonca nekomprimovaný PCM (Pulse Code Modulation) zvuk.",
+        "Kontajnerový formát: MP4 súbory majú príponu súboru .mp4 a slúžia ako kontajnery pre video a audio toky, ako aj dodatočné metadáta a multimediálne obsahy. Kontajner je flexibilný a dokáže spracovať rôzne typy médií.",
+        "Kompatibilita: MP4 je široko podporovaný formát a kompatibilný s celým radom zariadení, softvérových aplikácií a platforiem. Je bežne používaný na streamovanie, online video, digitálne sťahovanie a mobilné zariadenia.",
+        "MP4 sa stal jedným z štandardných formátov pre dodávanie multimediálnych obsahov vzhľadom na jeho rovnováhu medzi efektívnosťou kompresie, kvalitou a širokou kompatibilitou. Používa sa na rôzne účely, vrátane zdieľania videa, streamovacích služieb, mobilných zariadení a ďalších."
+      ],
+    
+      "formatHeadermp4a": "MP4A",
+      "formatTextmp4a": [
+        "Formát MP4A sa vzťahuje na zvukovú časť multimediálneho kontajnerového formátu MP4 (MPEG-4 Part 14). MP4 je široko používaný súborový formát na ukladanie audio a video tokov, ako aj iných dát, ako sú titulky a statické obrázky. MP4A konkrétne označuje, že súbor obsahuje zvukové dáta pomocou jedného z audio kodekov MPEG-4.",
+        "Písmeno 'A' v MP4A znamená zvuk, a v rámci kontajneru MP4 môžu byť použité rôzne audio kodeky. Bežné audio kodeky v súboroch MP4A zahŕňajú Advanced Audio Coding (AAC), ktorý je široko používaný pre kompresiu vysokokvalitného zvuku, ako aj iné audio kodeky ako MP3 alebo dokonca nekomprimovaný PCM (Pulse Code Modulation) zvuk.",
+        "V zhrnutí, keď sa stretneš so súborom s príponou MP4A alebo odkazom, naznačuje to, že súbor je kontajnerom MP4 špecificky obsahujúcim zvukové dáta, a skutočný audio kodek môže byť rôzny v závislosti na konkrétnej implementácii a voľbách kódovania počas vytvárania obsahu."
+      ],
+    
+      "formatHeaderwebm": "WEBM",
+      "formatTextwebm": [
+        "WebM je multimediálny kontajnerový formát navrhnutý na použitie na webe. Bol vyvinutý projektom WebM, ktorý je sponzorovaný spoločnosťou Google. Formát WebM je špecificky navrhnutý ako otvorená, bezlicenčná alternatíva k iným multimediálnym kontajnerovým formátom, ako je napríklad MP4.",
+        "Kľúčové vlastnosti WebM zahŕňajú:",
+        "Video kodek: WebM bežne používa video kodek VP9, ktorý poskytuje efektívnu kompresiu pre vysokokvalitné video pri zachovaní otvorenosti a bezlicenčnosti. Môže sa tiež použiť video kodek VP8.",
+        "Audio kodek: Zvuková časť súborov WebM často využíva otvorený a bezlicenčný zvukový kodek Opus, hoci môže používať aj Vorbis.",
+        "Kontajnerový formát: Súbory WebM majú príponu súboru .webm a slúžia ako kontajnery pre video a audio toky. Kontajner WebM je navrhnutý tak, aby bol ľahký a vhodný pre použitie na webe.",
+        "Jedným z hlavných dôvodov vývoja WebM bolo poskytnúť formát, ktorý umožňuje streamovanie videa a zvuku vysokokvalitne na webe bez potreby platenia licenčných poplatkov. Získal popularitu pre použitie v HTML5 video a audio elementoch ako alternatíva k vlastným formátom ako H.264 a AAC.",
+        "WebM je podporovaný hlavnými webovými prehliadačmi, vrátane Google Chrome, Mozilla Firefox a Opery. Používa sa na online streamovanie, video konferencie a ďalšie webové multimediálne aplikácie."
+      ],
+    
+      "formatHeader3gp": "3GP",
+      "formatText3gp": [
+        "Formát 3GP je multimediálny kontajnerový formát navrhnutý pre mobilné telefóny. Znamená '3rd Generation Partnership Project', čo je spolupráca medzi organizáciami štandardov telekomunikácií na vývoji špecifikácií pre mobilné systémy, najmä 3G mobilné siete.",
+        "3GP súbory zvyčajne obsahujú video toky komprimované pomocou video kodekov H.263 alebo H.264 a zvukové toky komprimované pomocou zvukových kodekov AMR-NB alebo AAC-LC. Formát je optimalizovaný pre mobilné zariadenia s obmedzeným úložiskom a šírkou pásma, čo ho robí vhodným pre streamovanie cez 3G siete.",
+        "Pôvodne bol 3GP vyvinutý na spracovanie videí na 3G mobilných telefónoch, ale bol tiež používaný v iných kontextoch, ako sú online streamovanie videa a zdieľanie. Avšak s postupným rozvojom mobilných technológií a vzostupom výkonnejších formátov, ako je MP4, používanie 3GP kleslo. MP4 je teraz širšie podporovaný a považuje sa za univerzálny a efektívny multimediálny kontajnerový formát."
+      ],
+    
+      "formatHeaderhd": "HD kvalita",
+      "formatTexthd": ["Termín 'HD video formát' sa vzťahuje na video formáty, ktoré podporujú rozlíšenie High Definition (HD), čo je vyšší stupeň kvality videa oproti štandardnému rozlíšeniu (SD). HD video zvyčajne má vyšší počet pixelov, čo vedie k ostrejším a detailnejším obrazom. Existuje niekoľko bežných HD video formátov, každý s rôznymi špecifikáciami týkajúcimi sa rozlíšenia, snímkových frekvencií a metód kompresie. Tu sú niektoré populárne HD video formáty:",
+        "HD Ready (720p): Tento formát má rozlíšenie 1280x720 pixelov. 'p' znamená postupné skenovanie, čo znamená, že každý snímok je kreslený postupne.",
+        "Full HD (1080p): Tento formát má rozlíšenie 1920x1080 pixelov, poskytujúce ešte vyššiu kvalitu obrazu ako HD Ready. Podobne ako 720p, 'p' znamená postupné skenovanie.",
+        "2K (alebo Quad HD): Tento formát má rozlíšenie približne 2048x1080 pixelov. Je bežne používaný v digitálnom kine a niektorých vysoko kvalitných displejoch.",
+        "Ultra HD (4K): Tento formát má rozlíšenie 3840x2160 pixelov, ponúkajúce štyrikrát vyššie rozlíšenie ako Full HD. Je široko používaný v televíziách, monitoroch a produkcii digitálneho obsahu.",
+        "8K Ultra HD: S rozlíšením 7680x4320 pixelov poskytuje 8K ešte vyššiu úroveň detailu. Avšak, k mojej znalostnej hranici v januári 2022, 8K obsah je menej bežný kvôli náročným hardvérovým požiadavkám na nahrávanie aj prehrávanie.",
+        "Bežné video kodeky používané pre HD obsah zahŕňajú H.264 (AVC), H.265 (HEVC) a VP9, medzi inými. Tieto kodeky sú zodpovedné za efektívnu kompresiu video dát s cieľom znížiť veľkosti súborov a zároveň udržať vysokú kvalitu prehrávania.",
+        "Pri diskusii o formátoch HD video je dôležité zvažovať nielen rozlíšenie, ale aj snímkovú frekvenciu, pretože oboje prispievajú k celkovej kvalite videa."
+      ]
     }
   }
   

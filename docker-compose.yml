@@ -15,8 +15,12 @@ services:
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf
       - /etc/letsencrypt:/etc/letsencrypt
+
     depends_on:
       - app
+=======
+
+>>>>>>> 473eb647cc566a41a41069d39d9d67664e983ab1
 
   certbot:
     image: certbot/certbot

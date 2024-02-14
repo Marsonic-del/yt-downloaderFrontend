@@ -23,7 +23,7 @@
       "Lengvai pavirkite savo mėgstamus „YouTube“ vaizdus į offline lobiai, tiesiog įklijuodami vaizdo nuorodą į viršuje esančią įvesties lauką ir spustelėdami Atsisiųsti mygtuką."
     ],
     "contentCoution": "Prašome pastebėti: Laikykitės HollywoodDownloader.com naudojimo sąlygų, atitinkančių „YouTube“ paslaugų sąlygas ir autorių teisių įstatymus.",
-    "serviceDesc": "Lengvai pavirkite savo mėgstamus „YouTube“ vaizdus į offline lobiai. „HollywoodDownloader“ leidžia jums konvertuoti ir atsisiųsti vaizdus iš „YouTube“ į MP3, MP4, Webm, 3GP, MP4A aukštos kokybės nemokamai.",
+    "serviceDesc": "Lengvai pavirkite savo mėgstamus „YouTube“ vaizdus į offline lobiai. „HollywoodDownloader“ leidžia jums konvertuoti ir atsisiųsti vaizdus iš „YouTube“ į MP3, MP4, Webm, 3GP, MP4A aukštos kokybės nemokamai. Jūs taip pat gaunate daug svarbios informacijos apie vaizdo įrašą, kuri jums padės suteikti jam ekspertų įvertinimą.",
     "insrtuctionsHeader": "Atsisiųskite „YouTube“ vaizdus: Žingsnis po žingsnio vadovas",
     "instructions": [
       "1. Nukopijuokite norimo atsisiųsti „YouTube“ vaizdo nuorodą.",
@@ -73,7 +73,62 @@
     "shortsText": ["Pristatome mūsų naujovišką „YouTube Shorts“ atsisiuntimo paslaugą, sukurtą entuziastams, kurie nori nemokamai mėgautis savo mėgstamais trumpų vaizdų formatu bet kuriuo metu ir bet kur. Su mūsų naudotojo draugiška platforma galite lengvai atsisiųsti „YouTube Shorts“ turinį aukštos kokybės, užtikrindami malonų žiūrėjimo patyrimą judėjimo metu. Ištyrinkite didelį mados ir įdomių trumpų vaizdų kolekciją ir vos keliais paspaudimais juos paverčiate lengvai pasiekiamais failais mėgautis neprisijungę prie interneto. Prisitaikykite prie mūsų „YouTube Shorts“ atsisiuntimo paslaugos patogumo ir niekada nepraleiskite žavinančio turinio momento. Pradėkite kurti savo asmeninę biblioteką jau šiandien!"],
     "insrtuctionsShortHeader": "„YouTube Shorts“ vaizdų atsisiuntimo vadovas: Žingsnis po žingsnio",
     "removeInputTextButton": "Pašalinti įvesties lauko mygtuką",
-    "altThumbnail": "miniatiūra"
+    "altThumbnail": "miniatiūra",
+
+    "formatHeadermp3": "MP3",
+  "formatTextmp3": ["MP3, kas reiškia MPEG garso lygio III, yra plačiai naudojamas garso suspaudimo formatas. Tai yra būdas suspausti garso failus, sumažinant jų dydį, išlaikant palyginti gerą garso kokybę. MP3 formatas buvo sukurtas judančios vaizdo ekspertų grupės (MPEG) kaip dalis MPEG-1 ir MPEG-2 specifikacijų.",
+    "Pagrindinės MP3 formato savybės:",
+    "Suspaudimas: MP3 naudoja nuostolius sukeliantį suspaudimą, tai reiškia, kad suspaudimo proceso metu kai kuria garso informacija yra pašalinama siekiant pasiekti mažesnius failų dydžius. Tačiau suspaudimas yra suprojektuotas būti suvokiamai permatomas, tai reiškia, kad žmogaus ausis paprastai negali atskirti skirtumo tarp originalaus garso ir suspausto versijos.",
+    "Bitrai: MP3 failai gali būti sukurti su skirtingais bitrais, kurie nustato naudojamą duomenų kiekį garso atvaizdavimui. Dideli bitrai paprastai lemia geresnę garso kokybę, bet ir didesni failų dydžiai. Įprasti bitrai svyruoja nuo 128 kbps (kilobitų per sekundę) iki 320 kbps.",
+    "Suderinamumas: MP3 yra plačiai palaikomas formatas ir gali būti atklausomas įvairiose įrangos, tokių kaip kompiuteriai, išmaniausi telefonai, MP3 grotuvai ir įvairūs garso atkūrimo įrenginiai. Tai tapo standartu skaitmeniniams garso platinimui.",
+    "Failo plėtinys: MP3 failai paprastai turi .mp3 failo plėtinį.",
+    "MP3 pakeitė muzikos industriją, įgalindamas efektyvų skaitmeninio garso platinimą internete. Jis buvo dominuojantis muzikos atsisiuntimo, transliavimo ir asmeninių garso atkūrimo įrenginių formatas daugelį metų. Tačiau svarbu paminėti, kad dėl jo nuostolinio suspaudimo, tam tikra garso kokybė aukojama mažesniems failų dydžiams, palyginti su nuostoliniais garso formatiais, tokiais kaip WAV ar FLAC."],
+
+  "formatHeadermp4": "MP4",
+  "formatTextmp4": [
+    "MP4, arba MPEG-4 dalis 14, yra plačiai naudojamas daugiamedžio konteinerio formatas garso ir vaizdo srautams, taip pat kitų tipų duomenims, tokiems kaip subtitrai ir statinės nuotraukos. Jį sukūrė judančios vaizdo ekspertų grupė (MPEG) ir jis yra dalis MPEG-4 standarto.",
+    "Pagrindinės MP4 formato savybės:",
+    "Vaizdo kodekai: MP4 failuose gali būti vaizdo srautai, suspausti įvairiais kodekais, tokiais kaip H.264 (aukštos kokybės vaizdo kodavimas), kuris yra labai efektyvus ir plačiai naudojamas vaizdo suspaudimo standartas. Palaikomi ir kiti kodekai, tokie kaip MPEG-4 Visual ir H.263.",
+    "Garso kodekai: MP4 palaiko įvairius garso kodekus, įskaitant Advanced Audio Coding (AAC), kuris yra populiari pasirinktis aukštos kokybės garso suspaudimui. Taip pat gali būti naudojami MP3 ir kiti garso kodekai.",
+    "Konteinerio formatas: MP4 failai turi .mp4 failo plėtinį ir tarnauja kaip konteineriai tiek vaizdo, tiek garso srautams, taip pat papildomai metaduomenims ir daugiamedžio turiniui. Konteineris yra lankstus ir gali tvarkyti įvairius medijos tipus.",
+    "Suderinamumas: MP4 yra plačiai palaikomas formatas ir suderinamas su įvairiomis įrangos, programinės įrangos taikymais ir platformomis. Jis dažnai naudojamas transliacijoms, internetiniams vaizdo įrašams, skaitmeniniams atsisiuntimams ir mobiliajai įrangai.",
+    "MP4 tapo vienu iš standartinių formatų tiekiant daugiamedžio turinio dėl jo efektyvaus suspaudimo, kokybės ir platesnio suderinamumo balanso. Jis naudojamas įvairiais tikslais, įskaitant vaizdo bendrinimą, transliavimo paslaugas, mobiliąsias įrangas ir kt."
+  ],
+
+  "formatHeadermp4a": "MP4A",
+  "formatTextmp4a": [
+    "MP4A formatas nurodo MP4 (MPEG-4 dalies 14) daugiamedžio konteinerio garso komponentą. MP4 yra plačiai naudojamas failo formatas garso ir vaizdo srautams, taip pat kitiems duomenims, tokiems kaip subtitrai ir statinės nuotraukos. MP4A konkretus nurodo, kad failas turi garso duomenis, naudojant vieną iš MPEG-4 garso kodekų.",
+    "'A' MP4A reiškia garso, ir įvairūs garso kodekai gali būti naudojami MP4 konteineryje. Dažnai MP4A failuose galima rasti Advanced Audio Coding (AAC), kuris plačiai naudojamas aukštos kokybės garso suspaudimui, taip pat kitus garso kodekus, tokie kaip MP3 ar net nespaudžiamą PCM (Pulse Code Modulation) garso.",
+    "Apibendrinant, kai susiduriate su failu, turinčiu MP4A plėtinį ar nuorodą, tai rodo, kad failas yra MP4 konteineris, kuriame yra tik garso duomenys, o naudojamas konkretus garso kodekas gali skirtis priklausomai nuo specifinės įgyvendinimo ir kodavimo pasirinkimų, padarytų kuriant turinį."
+  ],
+
+  "formatHeaderwebm": "WEBM",
+  "formatTextwebm": [
+    "WebM yra daugiamedžio konteinerio formatas, sukurtas naudoti internete. Jį sukūrė WebM Project, tai projektas, kurį remia „Google“. WebM formatas yra specialiai sukurta atvira, licencijų mokama alternatyva kitokiems daugiamedžio konteinerio formatams, tokiais kaip MP4.",
+    "WebM pagrindinės savybės:",
+    "Vaizdo kodekas: WebM dažniausiai naudoja VP9 vaizdo kodeką, kuris suteikia efektyvų suspaudimą aukštos kokybės vaizdo, išliekant atvira ir licencijų mokamą. Taip pat gali būti naudojamas VP8 vaizdo kodekas.",
+    "Garso kodekas: WebM failų garso komponentas dažnai naudoja atvira ir licencijų mokamą Opus garso kodeką, nors gali būti naudojamas ir Vorbis.",
+    "Konteinerio formatas: WebM failai turi .webm failo plėtinį ir tarnauja kaip konteineriai tiek vaizdo, tiek garso srautams. WebM konteineris yra sukurta būti lengvas ir tinkamas naudojimui internete.",
+    "Vienas pagrindinių motyvų, kodėl buvo sukurtas WebM, buvo suteikti formatą, leidžiantį aukštos kokybės vaizdo ir garso srautams internete be poreikio, kad vartotojai mokėtų licencijos mokestį. Jis įgijo populiarumą naudojant HTML5 vaizdo ir garso elementams, suteikiant alternatyvą licencijuotiems formatus kaip H.264 ir AAC.",
+    "WebM palaikomas pagrindiniais interneto naršyklėmis, įskaitant „Google Chrome“, „Mozilla Firefox“ ir „Opera“. Jis naudojamas tiesioginiam srautiniam perdavimui, vaizdo konferencijoms ir kitoms internetinėms multimedijos programoms."
+  ],
+
+  "formatHeader3gp": "3GP",
+  "formatText3gp": [
+    "3GP formatas yra daugiamedžio konteinerio formatas, sukurtas mobiliųjų telefonų. Tai reiškia „3rd Generation Partnership Project“, tai yra bendradarbiavimas tarp telekomunikacijos standartų organizacijų, kurios kūrė specifikacijas mobiliosioms sistemoms, ypač 3G mobiliesiems tinklams.",
+    "3GP failuose dažnai yra vaizdo srautai, suspausti H.263 arba H.264 vaizdo kodekais, ir garso srautai, suspausti AMR-NB arba AAC-LC garso kodekais. Šis formatas optimizuotas mobiliesiems įrenginiams su ribotu atminties ir juostos plotu, todėl tinkamas srautui per 3G tinklus.",
+    "Iš pradžių 3GP buvo sukurtas tvarkyti vaizdinį turinį 3G mobiliuose telefonuose, bet jis taip pat buvo naudojamas kitose situacijose, tokiose kaip tiesioginė vaizdo transliacija ir bendrinimas. Tačiau su mobiliųjų technologijų pažanga ir platesnių, efektyvesnių formatų, pavyzdžiui, MP4, atsiradimu, 3GP naudojimas laikui bėgant sumažėjo. MP4 šiuo metu plačiau palaikomas ir laikomas universalumu ir efektyvumu daugiamedžio konteinerio formate."
+  ],
+
+  "formatHeaderhd": "HD kokybė",
+  "formatTexthd": ["Terminas „HD vaizdo formatas“ reiškia vaizdo formatus, palaikančius aukštąsias (HD) raiškas, tai yra aukštesnį vaizdo kokybės lygį palyginti su standartine (SD) raiška. HD vaizdas paprastai turi didesnį pikselių skaičių, dėl ko vaizdai tampa aiškesni ir detaliau atvaizduoti. Yra keletas populiarių HD vaizdo formatų, kuriuose skiriasi specifikacijos, įskaitant raišką, kadrų dažnį ir suspaudimo metodus. Štai keli populiariausi HD vaizdo formatai:",
+  "HD Ready (720p): Šis formatas turi 1280x720 pikselių raišką. 'P' reiškia progresyvų skenavimą, tai reiškia, kad kiekvienas kadras yra piešiamas nuosekliai.",
+  "Pilnas HD (1080p): Šis formatas turi 1920x1080 pikselių raišką, suteikiantį dar didesnę vaizdo kokybę nei HD Ready. Kaip ir 720p, 'p' reiškia progresyvų skenavimą.",
+  "2K (arba Kvadratinė HD): Šis formatas turi apie 2048x1080 pikselių raišką. Jis dažnai naudojamas kino srityje ir kai kuriuose aukštos kokybės ekranuose.",
+  "Ultra HD (4K): Šis formatas turi 3840x2160 pikselių raišką, suteikiantį keturis kartus didesnę raišką nei Pilnas HD. Jis plačiai naudojamas televizoriams, monitoriams ir skaitmeninių turinių gamybai.",
+  "8K Ultra HD: Su 7680x4320 pikselių raiška, 8K suteikia dar didesnę detalumo lygį. Tačiau mano žinios buvo nutrauktos sausio mėnesį 2022 m., Ir 8K turinys yra mažiau paplitęs dėl reikalaujančių įrašymo ir atkūrimo galingosios aparatinės įrangos reikalavimų.",
+  "Dauguma HD turinio naudojamų vaizdo kodekų apima H.264 (AVC), H.265 (HEVC) ir VP9, tarp kitų. Šie kodekai atsakingi už efektyvų vaizdo duomenų suspaudimą, siekiant sumažinti failų dydžius, išlaikant aukštą kokybę atkūrimą.",
+  "Kalbant apie HD vaizdo formatus, svarbu atsižvelgti tiek į raišką, tiek į kadro dažnį, nes abu prisideda prie bendros vaizdo kokybės."]
   }
   
 }

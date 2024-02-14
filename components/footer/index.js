@@ -3,7 +3,6 @@ import React from 'react'
 import style from './style.module.css'
 
 const Footer = ({ intl, locale }) => {
-    console.log('locale: ', locale)
     return (
         <footer className={style.footer}>
             <nav itemScope itemType="http://schema.org/SiteNavigationElement" className={style.nav}>

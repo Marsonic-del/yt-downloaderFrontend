@@ -25,7 +25,7 @@
     ],
 
     "contentCoution": "Kérjük, vegye figyelembe: Tartsa be a HollywoodDownloader.com használati feltételeit a YouTube szolgáltatási feltételei és szerzői jogi törvények szerint.",
-    "serviceDesc": "Egyszerűen alakítsa át kedvenc YouTube-videóit offline kincsekké. A HollywoodDownloader lehetővé teszi a videók konvertálását és letöltését a YouTube-ról MP3, MP4, Webm, 3GP, MP4A formátumban HD minőségben ingyenesen.",
+    "serviceDesc": "Egyszerűen alakítsa át kedvenc YouTube-videóit offline kincsekké. A HollywoodDownloader lehetővé teszi a videók konvertálását és letöltését a YouTube-ról MP3, MP4, Webm, 3GP, MP4A formátumban HD minőségben ingyenesen. Ezenkívül sok fontos információt is kapsz a videóval kapcsolatban, ami segít abban, hogy szakértői értékelést adj neki.",
 
     "insrtuctionsHeader": "YouTube-videók letöltése: Lépésről lépésre útmutató",
     "instructions": [
@@ -86,6 +86,62 @@
     ],
     "insrtuctionsShortHeader": "YouTube Shorts videók letöltése: Lépésről lépésre útmutató",
     "removeInputTextButton": "Távolítsa el a bemeneti szöveg gombot",
-    "altThumbnail": "Alternatív bélyegkép"
+    "altThumbnail": "Alternatív bélyegkép",
+
+
+    "formatHeadermp3": "MP3",
+    "formatTextmp3": ["Az MP3, amely a MPEG Audio Layer III rövidítése, egy széles körben használt hangtömörítési formátum. Ez egy módszer a hangfájlok tömörítésére, hogy csökkentsék méretüket, miközben elfogadható hangminőséget őriznek meg. Az MP3 formátumot a Moving Picture Experts Group (MPEG) fejlesztette ki, mint része a MPEG-1 és MPEG-2 specifikációknak.",
+      "Az MP3 formátum főbb jellemzői közé tartozik:",
+      "Tömörítés: Az MP3 veszteséges tömörítést használ, ami azt jelenti, hogy a tömörítés során néhány hangadat eldobásra kerül a fájlméretek csökkentése érdekében. Azonban a tömörítés úgy van kialakítva, hogy észlelhetetlen legyen az emberi fül számára a különbség az eredeti hang és a tömörített verzió között.",
+      "Bitráta: Az MP3 fájlokat különböző bitrátákkal lehet létrehozni, amelyek meghatározzák a hang reprezentálásához használt adatmennyiséget. A magasabb bitráta általában jobb hangminőséget eredményez, de nagyobb fájlméretekkel jár. A közönséges bitráták 128 kbps (kilobit másodpercenként) és 320 kbps között mozognak.",
+      "Kompatibilitás: Az MP3 egy széles körben támogatott formátum, és lejátszható számos eszközön, beleértve számítógépeket, okostelefonokat, MP3 lejátszókat és különféle hanglejátszó eszközöket. Ez a digitális hangterjesztés szabványává vált.",
+      "Fájlkiterjesztés: Az MP3 fájlok általában a .mp3 fájlkiterjesztéssel rendelkeznek.",
+      "A MP3 forradalmasította a zeneipart a digitális hang hatékony elosztásával az interneten. Éveken keresztül domináns formátum volt a zeneletöltések, a streaming és a személyes hanglejátszó eszközök területén. Fontos megjegyezni azonban, hogy veszteséges tömörítése miatt némi hangminőség feláldozásra kerül a kisebb fájlméretek érdekében, összehasonlítva a veszteségmentes hangformátumokkal, mint például a WAV vagy a FLAC."],
+  
+    "formatHeadermp4": "MP4",
+    "formatTextmp4": [
+      "Az MP4, vagy MPEG-4 Part 14, egy széles körben használt multimédiás konténerformátum az audio- és videostreamok, valamint feliratok és statikus képek tárolására. A Moving Picture Experts Group (MPEG) fejlesztette ki, és része a MPEG-4 szabványnak.",
+      "Az MP4 formátum főbb jellemzői közé tartoznak:",
+      "Videó kodekek: Az MP4 fájlok különféle kodekeket tartalmazhatnak a videostreamok hatékony tömörítéséhez, például az H.264 (Advanced Video Coding), ami egy rendkívül hatékony és széles körben használt videó tömörítési szabvány. Más kodekek, mint például az MPEG-4 Visual és az H.263, is támogatottak.",
+      "Audió kodekek: Az MP4 támogat számos audiokodeket, beleértve az Advanced Audio Coding (AAC) -t, ami egy népszerű választás a magas minőségű audió tömörítéséhez. Használható még MP3 és más audiokodekek is.",
+      "Konténer formátum: Az MP4 fájlok a .mp4 fájlkiterjesztéssel rendelkeznek, és konténereket alkotnak mind a videó-, mind az audiostreamok számára, valamint további metaadatok és multimédiatartalmak számára. A konténer rugalmas és képes kezelni különféle média típusokat.",
+      "Kompatibilitás: Az MP4 széles körben támogatott formátum, és kompatibilis számos eszközzel, szoftveralkalmazással és platformmal. Gyakran használják streaminghez, online videóhoz, digitális letöltésekhez és mobil eszközökhöz.",
+      "Az MP4 az egyik szabványos formátummá vált a multimédiatartalom széles körű eléréséhez, a tömörítés hatékonysága, minősége és széles körű kompatibilitása miatt. Használják video megosztásához, streaming szolgáltatásokhoz, mobil eszközökhöz és más területeken is."
+    ],
+  
+    "formatHeadermp4a": "MP4A",
+    "formatTextmp4a": [
+      "Az MP4A formátum az MP4 (MPEG-4 Part 14) multimédiás konténerformátum audio komponensére utal. Az MP4 széles körben használt fájlformátum az audio- és videostreamok, valamint egyéb adatok, például feliratok és statikus képek tárolására. Az MP4A kifejezetten azt jelzi, hogy a fájl audio adatokat tartalmaz az egyik MPEG-4 audiokodek használatával.",
+      "Az 'A' az MP4A-ban az audio-ra utal, és különféle audiokodekek használhatók az MP4 konténeren belül. Az MP4A fájlokban megtalálhatók a népszerű audio kodekek, mint például az Advanced Audio Coding (AAC), amely széles körben használt a magas minőségű audio tömörítéséhez, valamint más audiokodekek, mint például az MP3 vagy akár veszteségmentes PCM (Pulse Code Modulation) audio.",
+      "Összefoglalva, amikor egy fájlra bukkan a MP4A kiterjesztéssel vagy hivatkozással, az azt jelenti, hogy a fájl egy MP4 konténert tartalmaz kifejezetten audio adatokkal, és az aktuális audiokodek használata változhat a specifikus implementációtól és az encoding választásoktól függően a tartalom létrehozása során."
+    ],
+  
+    "formatHeaderwebm": "WEBM",
+    "formatTextwebm": [
+      "A WebM egy multimédiás konténerformátum, amelyet a weben való használatra terveztek. A Google által támogatott WebM Project fejlesztette ki. A WebM formátum kifejezetten arra tervezett, hogy nyílt forráskódú, illetve díjmentes alternatívája legyen más multimédiás konténerformátumoknak, például az MP4-nek.",
+      "A WebM főbb jellemzői közé tartoznak:",
+      "Videó kodek: A WebM általában a VP9 videó kodeket használja, amely hatékony tömörítést biztosít magas minőségű videóhoz, miközben nyílt és díjmentes marad. Használhatja még a VP8 videó kodeket is.",
+      "Audió kodek: A WebM fájlok audió komponense gyakran az open source és díjmentes Opus audiokodeket használja, bár lehetőség van a Vorbis használatára is.",
+      "Konténer formátum: A WebM fájlok a .webm fájlkiterjesztéssel rendelkeznek, és konténereket alkotnak mind a videó-, mind az audiostreamok számára. A WebM konténer könnyű és alkalmas a webes felhasználásra.",
+      "A WebM fejlesztésének egyik fő motivációja az volt, hogy olyan formátumot biztosítson, amely lehetővé teszi a magas minőségű videó és audio streaminget a weben, anélkül, hogy a felhasználóknak licencdíjat kellene fizetniük. Népszerűvé vált az HTML5 video és audio elemek használatában, alternatívát nyújtva a H.264 és AAC nevű propietári formátumoknak.",
+      "A WebM-t támogatják a nagyobb böngészők, beleértve a Google Chrome-ot, a Mozilla Firefoxot és az Operát. Használják online streaminghez, video konferenciákhoz és más webes alapú multimédiás alkalmazásokhoz."
+    ],
+  
+    "formatHeader3gp": "3GP",
+    "formatText3gp": [
+      "A 3GP formátum egy multimédiás konténerformátum, amelyet mobiltelefonokhoz terveztek. A '3rd Generation Partnership Project' rövidítése, ami egy együttműködés a telekommunikációs szabványok szervezetei között a mobilrendszerek specifikációinak kifejlesztése érdekében, különösen a 3G mobilhálózatokhoz.",
+      "A 3GP fájlok általában olyan videostreamokat tartalmaznak, amelyeket H.263 vagy H.264 videokodekekkel tömörítenek, valamint olyan audiostreamokat, amelyeket AMR-NB vagy AAC-LC audiokodekekkel tömörítenek. A formátum optimalizált a korlátozott tárolási és sávszélességi képességekkel rendelkező mobil eszközök számára, ami alkalmas az 3G hálózatokon történő streamingre.",
+      "Eredetileg a 3GP-t a 3G mobiltelefonokon való videótartalom kezelésére fejlesztették ki, de más környezetekben is használták, például online videostreaminghez és megosztáshoz. Azonban a mobiltechnológia fejlődésével és a hatékonyabb formátumok, mint például az MP4 elterjedésével a 3GP használata idővel csökkent. Az MP4 jelenleg szélesebb körben támogatott és sokoldalúbb és hatékonyabb multimédiás konténerformátumként számon tartják."
+    ],
+  
+    "formatHeaderhd": "HD minőség",
+    "formatTexthd": ["Az 'HD videóformátum' kifejezés a magas felbontást (HD) támogató videóformátumokra utal, ami magasabb szintű videóminőséget jelent az általános felbontáshoz képest (SD). Az HD videó általában magasabb képpontszámot tartalmaz, így élesebb és részletesebb képeket eredményez. Számos elterjedt HD videóformátum létezik, mindegyik más-más specifikációkkal rendelkezik a felbontás, képkockasebesség és tömörítési módszerek tekintetében. Íme néhány népszerű HD videóformátum:",
+    "HD Ready (720p): Ez a formátum 1280x720 képpont felbontással rendelkezik. A 'p' a progresszív pásztázást jelenti, ami azt jelenti, hogy minden képkocka egymás után kerül megjelenítésre.",
+    "Teljes HD (1080p): Ez a formátum 1920x1080 képpont felbontással rendelkezik, még magasabb képminőséget biztosítva, mint az HD Ready. Mint a 720p, a 'p' a progresszív pásztázást jelenti.",
+    "2K (vagy Quad HD): Ez a formátum körülbelül 2048x1080 képpont felbontással rendelkezik. Általában a digitális mozi és néhány prémium kijelzőkön használják.",
+    "Ultra HD (4K): Ez a formátum 3840x2160 képpont felbontással rendelkezik, négy alkalommal nagyobb felbontást nyújtva, mint a Teljes HD. Széles körben használják televíziókban, monitorokban és digitális tartalomgyártásban.",
+    "8K Ultra HD: 7680x4320 képpont felbontással a 8K még magasabb részletességet biztosít. Azonban a tudásom 2022 januári lejárata szerint az 8K tartalom kevésbé elterjedt a nagy igénybevételt igénylő hardverkövetelmények miatt mind a felvétel, mind a lejátszás terén.",
+    "Az HD videóformátumokról beszélve fontos figyelembe venni mind a felbontást, mind a képkockasebességet, mivel mindkettő hozzájárul a teljes videóminőséghez."
+    ]
   }
 }

@@ -25,7 +25,7 @@
     ],
 
     "contentCoution": "Bemærk: Følg brugsbetingelserne for HollywoodDownloader.com i overensstemmelse med YouTubes servicevilkår og ophavsretslove.",
-    "serviceDesc": "Omdan dine foretrukne YouTube-videoer til offline skatte. HollywoodDownloader giver dig mulighed for at konvertere og downloade videoer fra YouTube til MP3, MP4, Webm, 3GP, MP4A i HD-kvalitet gratis.",
+    "serviceDesc": "Omdan dine foretrukne YouTube-videoer til offline skatte. HollywoodDownloader giver dig mulighed for at konvertere og downloade videoer fra YouTube til MP3, MP4, Webm, 3GP, MP4A i HD-kvalitet gratis. Du får også en masse vigtig information om videoen, som vil hjælpe dig med at give den en ekspertvurdering.",
 
     "insrtuctionsHeader": "Download YouTube-videoer: En trin-for-trin guide",
     "instructions": [
@@ -86,6 +86,58 @@
     ],
     "insrtuctionsShortHeader": "Download YouTube Shorts: En trin-for-trin guide",
     "removeInputTextButton": "Fjern indtastningstekstknappen",
-    "altThumbnail": "Thumbnail"
+    "altThumbnail": "Thumbnail",
+
+    "formatHeadermp3": "MP3",
+    "formatTextmp3": ["MP3, der står for MPEG Audio Layer III, er et bredt anvendt lydkomprimeringsformat. Det er en metode til at komprimere lydfiler for at reducere deres størrelse samtidig med at bevare rimelig lydkvalitet. MP3-formatet blev udviklet af Moving Picture Experts Group (MPEG) som en del af MPEG-1- og MPEG-2-specifikationerne.",
+      "Nøglefunktioner ved MP3-formatet inkluderer:",
+      "Kompression: MP3 bruger tabende kompression, hvilket betyder, at nogle lyddata kasseres under kompressionsprocessen for at opnå mindre filstørrelser. Dog er kompressionen designet til at være perceptuelt gennemsigtig, hvilket betyder, at det menneskelige øre generelt ikke kan skelne forskellen mellem den originale lyd og den komprimerede version.",
+      "Bitrate: MP3-filer kan oprettes ved forskellige bitrater, som bestemmer mængden af data, der bruges til at repræsentere lyden. Højere bitrater resulterer generelt i bedre lydkvalitet, men også større filstørrelser. Almindelige bitrater spænder fra 128 kbps (kilobit per sekund) til 320 kbps.",
+      "Kompatibilitet: MP3 er et bredt understøttet format og kan afspilles på en bred vifte af enheder, herunder computere, smartphones, MP3-afspillere og forskellige lydafspilningsenheder. Det er blevet en standard for digital lyddistribution.",
+      "Filkendetegn: MP3-filer har typisk filtypenavnet .mp3.",
+      "MP3 revolutionerede musikindustrien ved at muliggøre effektiv distribution af digital lyd over internettet. Det har været et dominerende format til musikdownloads, streaming og personlige lydafspilningsenheder i mange år. Det er dog værd at bemærke, at på grund af sin tabende kompression ofres nogle lydkvalitet for mindre filstørrelser sammenlignet med ukomprimerede lydformater som WAV eller FLAC."],
+  
+    "formatHeadermp4": "MP4",
+    "formatTextmp4": ["MP4, eller MPEG-4 Part 14, er et bredt anvendt multimediekontainerformat til lagring af lyd- og videostreams samt andre typer data som undertekster og stillbilleder. Det blev udviklet af Moving Picture Experts Group (MPEG) og er en del af MPEG-4-standarden.",
+      "Nøglefunktioner ved MP4-formatet inkluderer:",
+      "Video Codecs: MP4-filer kan indeholde videostreams komprimeret med forskellige codecs, såsom H.264 (Advanced Video Coding), der er en meget effektiv og bredt anvendt videokomprimeringsstandard. Andre codecs som MPEG-4 Visual og H.263 understøttes også.",
+      "Lyd Codecs: MP4 understøtter en række lydcodecs, herunder Advanced Audio Coding (AAC), der er et populært valg til lydkompression af høj kvalitet. MP3 og andre lydcodecs kan også bruges.",
+      "Kontainerformat: MP4-filer har filtypenavnet .mp4 og fungerer som containere til både video- og lydstrømme samt yderligere metadata og multimedieindhold. Kontaineren er fleksibel og kan håndtere forskellige medietyper.",
+      "Kompatibilitet: MP4 er et bredt understøttet format og er kompatibelt med en bred vifte af enheder, softwareapplikationer og platforme. Det bruges almindeligt til streaming, online video, digital download og mobile enheder.",
+      "MP4 er blevet et af standardformaterne til levering af multimedieindhold på grund af dets balance mellem komprimeringseffektivitet, kvalitet og bred kompatibilitet. Det bruges til en række formål, herunder video-deling, streaming-tjenester, mobile enheder og mere."
+    ],
+  
+    "formatHeadermp4a": "MP4A",
+    "formatTextmp4a": ["MP4A-formatet refererer til lydkomponenten af ​​MP4 (MPEG-4 Part 14) multimediekontainerformatet. MP4 er et bredt anvendt filformat til lagring af lyd- og videostreams samt andre data som undertekster og stillbilleder. MP4A angiver specifikt, at filen indeholder lyddata ved hjælp af en af MPEG-4s lydcodecs.",
+      "'A' i MP4A står for lyd, og forskellige lydcodecs kan bruges inden i MP4-kontaineren. Almindelige lydcodecs i MP4A-filer inkluderer Advanced Audio Coding (AAC), der er bredt anvendt til lydkompression af høj kvalitet, samt andre lydcodecs som MP3 eller endda ukomprimeret PCM (Pulse Code Modulation) lyd.",
+      "Sammenfattende indikerer filer med filtypenavnet MP4A, at det er en MP4-kontainer, der specifikt indeholder lyddata, og den faktiske lydcodec, der bruges, kan variere afhængigt af den specifikke implementering og kodningsvalg foretaget under indholdsoprettelsen."
+    ],
+  
+    "formatHeaderwebm": "WEBM",
+    "formatTextwebm": ["WebM er et multimediekontainerformat designet til brug på internettet. Det blev udviklet af WebM Project, et projekt sponsoreret af Google. WebM-formatet er specifikt designet til at være et åbent, royaltyfrit alternativ til andre multimediekontainerformater som MP4.",
+      "Nøglefunktioner ved WebM inkluderer:",
+      "Video Codec: WebM bruger typisk VP9-videocodecen, der giver effektiv kompression til høj kvalitetsvideo, samtidig med at den forbliver åben og royaltyfri. Den kan også bruge VP8-videocodecen.",
+      "Lyd Codec: Lydkomponenten af ​​WebM-filer bruger ofte den åbne og royaltyfri Opus-lydcodec, selvom den også kan bruge Vorbis.",
+      "Kontainerformat: WebM-filer har filtypenavnet .webm og fungerer som containere til både video- og lydstrømme. WebM-kontaineren er designet til at være let og egnet til webbrug.",
+      "En af hovedmotivationerne bag udviklingen af ​​WebM var at levere et format, der tillader høj kvalitetsvideo- og lydstreaming på internettet uden behov for, at brugerne betaler licensafgifter. Det er blevet populært til brug i HTML5 video- og lydelementer og tilbyder et alternativ til proprietære formater som H.264 og AAC.",
+      "WebM understøttes af større webbrowsere, herunder Google Chrome, Mozilla Firefox og Opera. Det bruges til online streaming, videokonferencer og andre webbaserede multimedieapplikationer."
+    ],
+  
+    "formatHeader3gp": "3GP",
+    "formatText3gp": ["3GP-formatet er et multimediekontainerformat designet til mobiltelefoner. Det står for '3rd Generation Partnership Project,' som er et samarbejde mellem standardiseringsorganisationer for telekommunikation med fokus på udvikling af specifikationer for mobile systemer, især 3G-mobilnetværk.",
+      "3GP-filer indeholder normalt videostreams komprimeret med H.263- eller H.264-videocodecs og lydstream komprimeret med AMR-NB- eller AAC-LC-lydcodecs. Formatet er optimeret til mobile enheder med begrænsede opbevarings- og båndbreddekapaciteter og er velegnet til streaming over 3G-netværk.",
+      "Oprindeligt blev 3GP udviklet til at håndtere videoindhold på 3G-mobiltelefoner, men det er også blevet brugt i andre sammenhænge som online video streaming og deling. Dog med fremskridt inden for mobilteknologi og stigningen af mere kapable formater som MP4 er brugen af ​​3GP faldet over tid. MP4 understøttes nu bredere og betragtes som et mere alsidigt og effektivt multimediekontainerformat."
+    ],
+  
+    "formatHeaderhd": "HD-kvalitet",
+    "formatTexthd": ["Termen 'HD-videoformat' refererer til videoformater, der understøtter High Definition (HD) opløsning, hvilket er en højere niveau af videokvalitet sammenlignet med Standard Definition (SD). HD-video har typisk en højere pixeloptælling, hvilket resulterer i skarpere og mere detaljerede billeder. Der er flere almindelige HD-videoformater, hver med forskellige specifikationer vedrørende opløsning, billedfrekvenser og komprimeringsmetoder. Her er nogle populære HD-videoformater:",
+      "HD Ready (720p): Dette format har en opløsning på 1280x720 pixels. 'p' står for progressiv scanning, hvilket betyder, at hver ramme tegnes sekventielt.",
+      "Full HD (1080p): Dette format har en opløsning på 1920x1080 pixels og giver endnu højere billedkvalitet end HD Ready. Ligesom 720p står 'p' for progressiv scanning.",
+      "2K (eller Quad HD): Dette format har en opløsning på cirka 2048x1080 pixels. Det bruges almindeligt inden for digital biografi og nogle high-end-skærme.",
+      "Ultra HD (4K): Dette format har en opløsning på 3840x2160 pixels og tilbyder fire gange opløsningen af ​​Full HD. Det bruges bredt i tv, skærme og produktion af digitalt indhold.",
+      "8K Ultra HD: Med en opløsning på 7680x4320 pixels giver 8K endnu højere detaljer. Men som af min viden i januar 2022 er 8K-indhold mindre almindeligt på grund af de krævende hardwarekrav til både optagelse og afspilning.",
+      "Almindelige videocodecs, der bruges til HD-indhold, inkluderer H.264 (AVC), H.265 (HEVC) og VP9, blandt andre. Disse codecs er ansvarlige for at komprimere videodata effektivt for at reducere filstørrelserne, samtidig med at de opretholder afspilning af høj kvalitet.",
+      "Når man diskuterer HD-videoformater, er det vigtigt at overveje både opløsningen og billedfrekvensen, da begge bidrager til den samlede videooplevelse."
+    ]
   }
 }
